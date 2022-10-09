@@ -19,7 +19,7 @@
   ],
   "mark": {"type": "bar"},
   "encoding": {
-    "x": {"field": "employment_type", "type": "nominal", "axis": {"labelAngle": 90, "labels": false}},
+    "x": {"field": "employment_type", "type": "nominal", "title": "employment type", "axis": {"labelAngle": 90, "labels": false}},
     "y": {"field": "average", "type": "quantitative", "title": "Average Salary in USD", "axis": {"titleAngle": 0, "titlePadding": 90}},
     "color": {"field": "employment_type", "type": "nominal", "scale": {"scheme": "tableau20"}},
     "tooltip": [
