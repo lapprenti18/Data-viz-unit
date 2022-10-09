@@ -15,19 +15,22 @@
   <div id="Title">
     <h1> How worth is it to work in Data Science around the world ? </h1>
   </div>
+  <div id="choropleth_map"></div>
 
-  <!-- <div id="map">
-    <h2> Map of the world </h2>
-    <div id="vis"></div>
-  </div> -->
-  
-
-<div id="choropleth_map"></div>
+  <div id="averageSalarySection">
+    <h2> Average salary per country </h2>
+    <div id="BarChart"></div>
+  </div>
 
 <script type="text/javascript">
 
   var spec2 = "js/choropleth_map.vg.json";
   vegaEmbed('#choropleth_map', spec2).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var spec3 = "js/bar_chart.vg.json";
+  vegaEmbed('#BarChart', spec3).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
