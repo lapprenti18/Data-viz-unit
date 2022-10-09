@@ -140,7 +140,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,SE,FT,Research Scientist,120500,CAD,96357,Canada,50,Canada,L
 2021,SE,FT,Data Science Manager,174000,USD,174000,United States of America,100,United States of America,L
 2020,MI,FT,Business Data Analyst,135000,USD,135000,United States of America,100,United States of America,L
-2021,EN,FT,Machine Learning Engineer,21844,USD,21844,CO,50,CO,M
+2021,EN,FT,Machine Learning Engineer,21844,USD,21844,Colombie,50,Colombie,M
 2020,SE,FT,Lead Data Engineer,125000,USD,125000,New Zealand,50,New Zealand,S
 2020,EN,FT,Data Scientist,45000,EUR,51321,France,0,France,S
 2020,MI,FT,Data Scientist,3000000,INR,40481,India,0,India,L
@@ -181,7 +181,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2020,MI,FT,BI Data Analyst,98000,USD,98000,United States of America,0,United States of America,M
 2021,MI,FT,Data Engineer,48000,GBP,66400,HK,50,United Kingdom,S
 2021,MI,FT,Research Scientist,48000,EUR,57217,France,50,France,S
-2021,MI,FT,Machine Learning Engineer,21000,EUR,25032,SI,50,SI,L
+2021,MI,FT,Machine Learning Engineer,21000,EUR,25032,Slovenia,50,Slovenia,L
 2021,SE,FT,Data Analytics Manager,120000,USD,120000,United States of America,0,United States of America,L
 2021,MI,FL,Data Engineer,20000,USD,20000,Italy,0,United States of America,L
 2020,EX,FT,Director of Data Science,325000,USD,325000,United States of America,100,United States of America,L
@@ -233,9 +233,9 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2020,MI,FT,Data Scientist,118000,USD,118000,United States of America,100,United States of America,M
 2020,MI,FT,Data Scientist,138350,USD,138350,United States of America,100,United States of America,M
 2020,MI,FT,Data Engineer,130800,USD,130800,Spain,100,United States of America,M
-2020,SE,FT,Machine Learning Engineer,40000,EUR,45618,HR,100,HR,S
+2020,SE,FT,Machine Learning Engineer,40000,EUR,45618,Croatia,100,Croatia,S
 2021,SE,FT,Director of Data Science,168000,USD,168000,Japan,0,Japan,S
-2021,MI,FT,Data Scientist,160000,SGD,119353,Singapore,100,IL,M
+2021,MI,FT,Data Scientist,160000,SGD,119353,Singapore,100,Israël,M
 2021,MI,FT,Applied Machine Learning Scientist,423000,USD,423000,United States of America,50,United States of America,L
 2021,MI,FT,Data Engineer,24000,EUR,28608,Malta,50,Malta,L
 2021,SE,FT,Data Specialist,165000,USD,165000,United States of America,100,United States of America,L
