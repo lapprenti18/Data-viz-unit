@@ -1,0 +1,50 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/Table_Chart.csv"
+  },
+  "config": {
+    "view": {
+      "stroke": "transparent",
+      "strokeWidth": 5
+    },
+    "axis": {
+      "grid": true,
+      "domain": false,
+      "labelFontSize": 14,
+      "labelFont": "Roboto, Helvetica, Arial, sans-serif"
+    }
+  },
+  "mark": {
+    "type": "point"
+  },
+  "encoding": {
+    "y": {
+      "timeUnit": "experience_level",
+      "field": "salary",
+      "type": "nominal",
+      "title": "experience level"
+    },
+    "x": {
+      "field": "employment_type",
+      "type": "nominal",
+      "title": "Job Title",
+      "axis": {
+        "labelAngle": 290
+      }
+    },
+    "color": {
+      "title": "Average temperature (K)",
+      "type": "quantitative",
+      "scale": {
+        "type": "quantile",
+        "scheme": "Oranges"
+      },
+      "legend": {
+        "format": ".0f",
+        "title": null
+      }
+    }
+  }
+}

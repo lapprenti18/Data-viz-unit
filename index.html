@@ -22,6 +22,16 @@
     <div id="BarChart"></div>
   </div>
 
+  <div id="averageSalarySection">
+    <h2> Average salary per Experience level </h2>
+    <div id="TableChart"></div>
+  </div>
+
+  <div id="averageSalarySection">
+    <h2> Parrallel set </h2>
+    <div id="parallelSet"></div>
+  </div>
+
 <script type="text/javascript">
 
   var spec2 = "js/choropleth_map.vg.json";
@@ -33,7 +43,18 @@
   vegaEmbed('#BarChart', spec3).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
+
+  var spec4 = "js/table_chart.vg.json";
+  vegaEmbed('#TableChart', spec4).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var spec5 = "js/parallel_set.vg.json";
+  vegaEmbed('#parallelSet', spec5).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
 </script>
+
 
 </body>
 </html>

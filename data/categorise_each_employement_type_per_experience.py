@@ -1,8 +1,6 @@
 # I want the mean salary for each experience level for each employment type
 # I will read the data from the Data_Science_Jobs_Salaries1.csv file
 # I will write the data to the Table_Chart.csv file
-# I want the the header of the Table_Chart.csv file to be:
-# employment_type, EN, MI, SE, EX
 # and all missing values to be the one from the previous row
 # and if there is 3 or more missing values in a row, then skip that row
 
