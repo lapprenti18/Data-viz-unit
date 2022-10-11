@@ -1,29 +1,113 @@
-employment_type,EN,MI,SE,EX
-Data Science Consultant,63008,103000,103000,120000
-Data Scientist,49330,72486,121582,121582
-Machine Learning Engineer,103697,54429,109547,109547
-Research Scientist,75000,189776,69209,69209
-Data Analyst,58584,62697,104084,104084
-Data Engineer,46391,77794,113747,113747
-Data Science Engineer,0,40529,127543,127543
-Data Engineering Manager,0,0,163500,79833
-AI Scientist,22000,22000,55000,55000
-3D Computer Vision Researcher,0,5423,5423,5423
-ML Engineer,15966,270000,256000,256000
-Applied Data Scientist,0,54376,54376,54376
-Director of Data Science,0,0,168000,207669
-Data Analytics Engineer,0,110000,64933,64933
-Lead Data Analyst,0,53330,170000,170000
-BI Data Analyst,9272,78244,78244,150000
-Machine Learning Scientist,225000,12000,242500,242500
-Machine Learning Infrastructure Engineer,0,50180,195000,195000
-Lead Data Engineer,0,56000,166188,166188
-Computer Vision Software Engineer,70000,96554,96554,96554
-Financial Data Analyst,0,450000,450000,450000
-Cloud Data Engineer,0,89514,160000,160000
-Lead Data Scientist,0,115000,190000,190000
-Big Data Engineer,11084,20336,111536,111536
-Business Data Analyst,79800,135000,135000,155000
-Principal Data Scientist,0,151000,186163,416000
-Computer Vision Engineer,28850,28850,39526,39526
-Principal Data Engineer,0,0,185000,600000
+employment_type,experience_level,salary
+Data Science Consultant,EN,63008
+Data Science Consultant,MI,103000
+Data Science Consultant,SE,103000
+Data Science Consultant,EX,120000
+Data Scientist,EN,49330
+Data Scientist,MI,72486
+Data Scientist,SE,121582
+Data Scientist,EX,121582
+Machine Learning Engineer,EN,103697
+Machine Learning Engineer,MI,54429
+Machine Learning Engineer,SE,109547
+Machine Learning Engineer,EX,109547
+Research Scientist,EN,75000
+Research Scientist,MI,189776
+Research Scientist,SE,69209
+Research Scientist,EX,69209
+Data Analyst,EN,58584
+Data Analyst,MI,62697
+Data Analyst,SE,104084
+Data Analyst,EX,104084
+Data Engineer,EN,46391
+Data Engineer,MI,77794
+Data Engineer,SE,113747
+Data Engineer,EX,113747
+Data Science Engineer,EN,0
+Data Science Engineer,MI,40529
+Data Science Engineer,SE,127543
+Data Science Engineer,EX,127543
+Data Engineering Manager,EN,0
+Data Engineering Manager,MI,0
+Data Engineering Manager,SE,163500
+Data Engineering Manager,EX,79833
+AI Scientist,EN,22000
+AI Scientist,MI,22000
+AI Scientist,SE,55000
+AI Scientist,EX,55000
+3D Computer Vision Researcher,EN,0
+3D Computer Vision Researcher,MI,5423
+3D Computer Vision Researcher,SE,5423
+3D Computer Vision Researcher,EX,5423
+ML Engineer,EN,15966
+ML Engineer,MI,270000
+ML Engineer,SE,256000
+ML Engineer,EX,256000
+Applied Data Scientist,EN,0
+Applied Data Scientist,MI,54376
+Applied Data Scientist,SE,54376
+Applied Data Scientist,EX,54376
+Director of Data Science,EN,0
+Director of Data Science,MI,0
+Director of Data Science,SE,168000
+Director of Data Science,EX,207669
+Data Analytics Engineer,EN,0
+Data Analytics Engineer,MI,110000
+Data Analytics Engineer,SE,64933
+Data Analytics Engineer,EX,64933
+Lead Data Analyst,EN,0
+Lead Data Analyst,MI,53330
+Lead Data Analyst,SE,170000
+Lead Data Analyst,EX,170000
+BI Data Analyst,EN,9272
+BI Data Analyst,MI,78244
+BI Data Analyst,SE,78244
+BI Data Analyst,EX,150000
+Machine Learning Scientist,EN,225000
+Machine Learning Scientist,MI,12000
+Machine Learning Scientist,SE,242500
+Machine Learning Scientist,EX,242500
+Machine Learning Infrastructure Engineer,EN,0
+Machine Learning Infrastructure Engineer,MI,50180
+Machine Learning Infrastructure Engineer,SE,195000
+Machine Learning Infrastructure Engineer,EX,195000
+Lead Data Engineer,EN,0
+Lead Data Engineer,MI,56000
+Lead Data Engineer,SE,166188
+Lead Data Engineer,EX,166188
+Computer Vision Software Engineer,EN,70000
+Computer Vision Software Engineer,MI,96554
+Computer Vision Software Engineer,SE,96554
+Computer Vision Software Engineer,EX,96554
+Financial Data Analyst,EN,0
+Financial Data Analyst,MI,450000
+Financial Data Analyst,SE,450000
+Financial Data Analyst,EX,450000
+Cloud Data Engineer,EN,0
+Cloud Data Engineer,MI,89514
+Cloud Data Engineer,SE,160000
+Cloud Data Engineer,EX,160000
+Lead Data Scientist,EN,0
+Lead Data Scientist,MI,115000
+Lead Data Scientist,SE,190000
+Lead Data Scientist,EX,190000
+Big Data Engineer,EN,11084
+Big Data Engineer,MI,20336
+Big Data Engineer,SE,111536
+Big Data Engineer,EX,111536
+Business Data Analyst,EN,79800
+Business Data Analyst,MI,135000
+Business Data Analyst,SE,135000
+Business Data Analyst,EX,155000
+Principal Data Scientist,EN,0
+Principal Data Scientist,MI,151000
+Principal Data Scientist,SE,186163
+Principal Data Scientist,EX,416000
+Computer Vision Engineer,EN,28850
+Computer Vision Engineer,MI,28850
+Computer Vision Engineer,SE,39526
+Computer Vision Engineer,EX,39526
+Principal Data Engineer,EN,0
+Principal Data Engineer,MI,0
+Principal Data Engineer,SE,185000
+Principal Data Engineer,EX,600000
