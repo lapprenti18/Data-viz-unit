@@ -1,0 +1,76 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple donut chart with embedded data.",
+  "width": 1480,
+  "height": 620,
+  "data": {
+    "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/Levels_Fyi_Salary_Data.csv"
+  },
+  "mark": { "type": "arc", "tooltip": true },
+  "transform": [
+    {
+      "aggregate": [
+        {
+          "op": "mean", "field": "yearsofexperience", "as": "count_of_data"
+        }
+      ],
+      "groupby": ["company"]
+    }
+  ],
+  "encoding": {
+    "color": {
+      "field": "company",
+      "type": "nominal"
+    },
+    "theta": {
+      "field": "count_of_value",
+      "type": "quantitative"
+    }
+  }
+}
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple donut chart with embedded data.",
+  "width": 1480,
+  "height": 620,
+  "data": {
+    "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/Levels_Fyi_Salary_Data.csv"
+  },
+  "mark": { "type": "arc", "innerRadius": 200, "tooltip": true, "clip": true },
+  "transform": [],
+  "encoding": {
+    "color": { "field": "company", "type": "nominal" },
+    "theta": {
+      "aggregate": "count",
+      "field": "company",
+      "type": "quantitative",
+      "scale": {"domain": [10000, 500000]}
+    }
+  }
+}
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple donut chart with embedded data.",
+  "width": 1480,
+  "height": 620,
+  "data": {
+    "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/Levels_Fyi_Salary_Data.csv"
+  },
+
+  "mark": { "type": "bar", "tooltip": true },
+  "encoding": {
+    "x": {
+      "field": "company",
+      "type": "nominal"
+    },
+    "y": {
+      "aggregate": "count",
+      "field": "company",
+      "type": "quantitative",
+      "scale": {"domain": [1000, 10000]}
+    }
+  }
+}
+

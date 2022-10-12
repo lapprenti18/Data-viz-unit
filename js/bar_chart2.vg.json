@@ -1,0 +1,25 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple bar chart with embedded data.",
+  "width": 1480,
+  "height": 620,
+  "data": {
+    "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/Levels_Fyi_Salary_Data.csv"
+  },
+  "params": [],
+  "transform": [],
+  "mark": { "type": "bar", "tooltip": true },
+  "encoding": {
+    "x": {
+      "field": "Education",
+      "type": "nominal",
+      "title": "Education type",
+      "axis": { "labelAngle": 90, "labels": false }
+    },
+    "y": {
+      "aggregate": "count",
+      "field": "Education",
+      "type": "quantitative"
+    }
+  }
+}
