@@ -6,13 +6,15 @@
   "data": {
     "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/Levels_Fyi_Salary_Data.csv"
   },
+
   "mark": { "type": "arc", "innerRadius": 200, "tooltip": true, "clip": true },
-  "transform": [],
+  "transform": [
+  ],
   "encoding": {
     "color": { "field": "company", "type": "nominal" },
     "theta": {
       "aggregate": "count",
-      "field": "company",
+      "field": "new_count",
       "type": "quantitative"
     }
   }
