@@ -1,0 +1,50 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple bar chart with embedded data.",
+  "width": 1480,
+  "height": 620,
+  "data": {
+    "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/FAANG/TopTenFAANG.csv"
+  },
+  "params": [],
+  "transform": [
+    {
+      "filter": "datum.company == Microsoft"
+    }
+  ],
+  "mark": { "type": "bar" },
+  "encoding": {
+    "x": {
+      "field": "yearsofexperience",
+      "type": "ordinal",
+      "title": "employment type",
+      "axis": { "labelAngle": 90, "labels": false }
+    },
+    "y": {
+      "aggregate": "mean",
+      "field": "totalyearlycompensation",
+      "type": "quantitative",
+      "title": "Average Salary in USD",
+      "axis": { "titleAngle": 0, "titlePadding": 90 }
+    },
+    "color": {
+      "field": "employment_type",
+      "type": "nominal",
+      "scale": { "scheme": "tableau20" }
+    },
+    "tooltip": [
+      {
+        "field": "employment_type",
+        "type": "nominal",
+        "title": "employment type"
+      },
+      {
+        "field": "average",
+        "type": "quantitative",
+        "title": "average salary in usd"
+      },
+      { "field": "min", "type": "quantitative", "title": "min salary in usd" },
+      { "field": "max", "type": "quantitative", "title": "max salary in usd" }
+    ]
+  }
+}

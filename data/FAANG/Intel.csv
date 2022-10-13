@@ -1,0 +1,950 @@
+timestamp,company,level,title,totalyearlycompensation,location,yearsofexperience,yearsatcompany,tag,basesalary,stockgrantvalue,bonus,gender,otherdetails,cityid,dmaid,rowNumber,Masters_Degree,Bachelors_Degree,Doctorate_Degree,Highschool,Some_College,Race_Asian,Race_White,Race_Two_Or_More,Race_Black,Race_Hispanic,Race,Education
+10/31/2017 23:05:38,Intel,G6,Software Engineering Manager,125000,Hillsboro, OR,7,6,NA,100000,10000,15000,NA,NA,10500,820,136,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/22/2018 14:57:29,Intel,Staff,Software Engineer,170000,Folsom, CA,7,6,NA,0,0,0,Male,NA,7193,862,518,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/30/2018 0:16:03,Intel,Staff (Grade 8),Software Engineer,161000,Hillsboro, OR,5,4,NA,130000,22000,19000,Male,Stock is based on annual performance, above is should be around mean for Gr 8,10500,820,558,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/4/2018 22:20:03,Intel,6,Software Engineer,120000,Santa Clara, CA,5,5,NA,0,0,0,Male,NA,7434,807,572,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/17/2018 17:10:33,Intel,Grade 7,Software Engineer,196000,Sunnyvale, CA,0,2.5,NA,153000,15000,28000,Male,NA,7472,807,665,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/20/2018 19:39:47,Intel,G6,Product Manager,126000,Santa Clara, CA,1,3,NA,0,0,0,Female,NA,7434,807,694,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/26/2018 13:09:30,Intel,G8,Software Engineer,220000,Santa Clara, CA,4,4,NA,170000,20000,30000,Male,NA,7434,807,735,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/5/2018 23:14:53,Intel,5,Software Engineer,128000,Santa Clara, CA,2,2,DevOps,105000,12000,11000,Female,NA,7434,807,830,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/1/2018 0:33:27,Intel,8,Software Engineer,180000,Berlin, BE, Germany,18,15,Networking,130000,20000,30000,Male,NA,3651,0,1031,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/13/2018 23:20:55,Intel,8,Software Engineering Manager,215000,Santa Clara, CA,13,13,NA,155000,30000,30000,Male,NA,7434,807,1116,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/26/2018 14:16:39,Intel,6,Software Engineer,120000,Chandler, AZ,7,7,Full Stack,100000,10000,10000,Male,NA,7012,753,1207,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/7/2018 21:45:30,Intel,G6,Software Engineer,155000,San Jose, CA,8,4,QA / Testing,115000,10000,30000,Male,NA,7422,807,1293,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/15/2018 10:03:26,Intel,Grade 3,Software Engineer,76000,Phoenix, AZ,4,4,Full Stack,76000,2000,4000,NA,NA,7042,753,1429,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/19/2018 10:52:21,Intel,Grade 8,Software Engineer,165000,Santa Clara, CA,20,20,Design Verification,130000,20000,15000,NA,NA,7434,807,1560,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/27/2018 21:14:57,Intel,8,Software Engineer,240000,Santa Clara, CA,11,5,System Programming,173000,12000,43000,NA,NA,7434,807,1722,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/31/2018 12:20:00,Intel,Grade 9,Software Engineering Manager,320000,Portland, OR,32,30,DevOps,170000,70000,80000,NA,NA,10522,820,1780,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/5/2018 4:09:02,Intel,Grade 7,Software Engineer,150000,Santa Clara, CA,3,3,Systems,132000,10000,13000,NA,NA,7434,807,1837,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/13/2018 23:56:34,Intel,Grade 10,Software Engineering Manager,320000,Portland, OR,18,7,Distributed Systems (Back-End),0,0,0,NA,NA,10522,820,2057,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/15/2018 23:45:48,Intel,Grade 7,Software Engineer,165000,Hillsboro, OR,14,4,Testing (SDET),121000,15000,10000,NA,NA,10500,820,2080,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/21/2018 3:40:28,Intel,6,Software Engineer,60000,Leixlip, KE, Ireland,2,2,ML / AI,0,0,0,NA,NA,18459,0,2179,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/25/2018 18:19:18,Intel,Grade 6,Software Engineer,116000,Hillsboro, OR,3,3,Full Stack,97000,8000,11000,NA,NA,10500,820,2282,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/26/2018 23:07:03,Intel,Grade 6,Software Engineer,113000,Hillsboro, OR,1,1,ML / AI,108000,7000,5000,NA,stock grant vests over 4 years,10500,820,2330,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/27/2018 13:32:52,Intel,Grade 8,Software Engineer,193000,Folsom, CA,19,19,firmware,138000,15000,31000,NA,NA,7193,862,2367,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/28/2018 16:54:06,Intel,Grade 5,Software Engineer,90000,Phoenix, AZ,1,1,API Development (Back-End),0,0,0,NA,NA,7042,753,2455,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/1/2018 9:00:27,Intel,Grade 6,Software Engineer,108000,Oregon City, OR,3,3,Windows OS,98000,3000,7000,NA,NA,10520,820,2587,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/1/2018 14:14:22,Intel,9,Product Manager,240000,Chandler, AZ,16,16,Product Owner,0,0,0,NA,NA,7012,753,2592,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/1/2018 14:16:29,Intel,9,Product Manager,240000,Chandler, AZ,16,16,Product Manager,0,0,0,NA,NA,7012,753,2593,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/4/2018 10:06:42,Intel,10,Software Engineering Manager,339000,Portland, OR,20,7,Distributed Systems (Back-End),201000,38000,100000,NA,NA,10522,820,2674,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/11/2018 9:45:14,Intel,11,Software Engineer,375000,Santa Clara, CA,20,10,ML / AI,0,0,0,NA,NA,7434,807,2845,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/13/2018 11:26:53,Intel,Grade 7,Software Engineer,185000,Santa Clara, CA,8,8,Embedded,0,0,0,NA,NA,7434,807,2895,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/23/2018 11:48:48,Intel,Grade 6,Software Engineer,120000,Folsom, CA,11,11,Driver Development,102000,10000,8000,NA,NA,7193,862,3088,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/23/2018 11:50:47,Intel,Grade 6,Software Engineer,120000,Folsom, CA,11,11,Driver Development,102000,10000,8000,NA,NA,7193,862,3089,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/25/2018 20:42:31,Intel,Grade 5,Software Engineer,92000,Hillsboro, OR,2,0,Full Stack,0,0,0,NA,NA,10500,820,3138,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/29/2018 9:46:21,Intel,Grade 7,Software Engineer,115000,Hillsboro, OR,5,2,Android,0,0,0,NA,NA,10500,820,3190,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/29/2018 15:40:03,Intel,Grade 8,Software Engineer,165000,Santa Clara, CA,8,8,API Development (Back-End),0,0,0,NA,NA,7434,807,3194,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/31/2018 13:27:35,Intel,6,Software Engineer,130000,Santa Clara, CA,7,3,ML / AI,115000,2000,15000,NA,NA,7434,807,3220,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/1/2018 9:37:44,Intel,7,Software Engineering Manager,165000,Santa Clara, CA,7,5,Gaming,125000,20000,20000,NA,NA,7434,807,3538,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/1/2018 11:55:35,Intel,Senior,Software Engineer,145000,Folsom, CA,9,6,Embedded,120000,10000,20000,NA,NA,7193,862,3560,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/1/2018 16:28:18,Intel,Grade 7,Software Engineer,150000,Folsom, CA,9,8,Modeling,123000,13000,14000,NA,NA,7193,862,3579,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/1/2018 21:49:07,Intel,Grade 9,Software Engineering Manager,185000,Tel Aviv, TA, Israel,10,2,Security,0,0,0,NA,NA,15900,0,3590,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/2/2018 1:57:08,Intel,Grade 6,Software Engineer,19000,Bangalore, KA, India,7,7,Networking,0,0,0,NA,NA,4058,0,3600,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/12/2018 16:51:27,Intel,Grade 7,Software Engineer,165000,San Diego, CA,8,4,Mobile (iOS + Android),130000,12000,23000,Male,NA,7416,825,3867,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/21/2018 18:36:21,Intel,Grade 7,Software Engineer,125000,Toronto, ON, Canada,10,3,ML / AI,0,0,0,Male,NA,1206,0,4034,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/24/2018 12:38:57,Intel,9,Software Engineer,280000,Austin, TX,15,15,Full Stack,166000,48000,60000,Male,NA,10965,635,4063,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/24/2018 12:40:39,Intel,9,Software Engineer,280000,Austin, TX,15,15,Full Stack,167000,50000,60000,Male,NA,10965,635,4064,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/27/2018 22:37:26,Intel,8,Software Engineer,200000,Santa Clara, CA,12,8,Firmware,152000,25000,23000,Male,NA,7434,807,4125,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/29/2018 21:23:47,Intel,Grade 9,Product Manager,210000,Santa Clara, CA,20,20,Android,158000,7000,45000,Male,NA,7434,807,4150,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/4/2019 15:34:13,Intel,Grade 6,Software Engineer,110000,Portland, OR,3,3,Windows OS,98000,5000,7000,Male,NA,10522,820,4846,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/6/2019 8:10:50,Intel,Grade 5,Software Engineer,122000,Santa Clara, CA,3,3,Pre-silicon HW Validation Engineer,107000,4000,11000,Male,NA,7434,807,4874,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/9/2019 18:09:27,Intel,Grade 9,Software Engineering Manager,250000,Folsom, CA,12,10,Operating systems,170000,40000,40000,Male,NA,7193,862,4950,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/11/2019 18:08:09,Intel,Grade 5,Software Engineer,100000,Folsom, CA,3,2,ML / AI,86000,4000,10000,Female,NA,7193,862,5011,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/20/2019 22:49:24,Intel,Grade 5,Software Engineer,120000,Santa Clara, CA,3,3,Computer Architecture,0,0,0,Male,NA,7434,807,5236,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/22/2019 15:14:33,Intel,6,Mechanical Engineer,112000,Hillsboro, OR,6,6,Data Center,97000,6000,9000,Female,NA,10500,820,5283,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/23/2019 11:11:34,Intel,Grade 6,Software Engineer,125000,Hudson, MA,2,1.5,High Performance Computing,106000,7000,11000,Male,NA,28636,506,5300,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/24/2019 21:46:17,Intel,Grade 7,Software Engineer,182000,Santa Clara, CA,2,1,ML / AI,160000,4000,18000,Male,NA,7434,807,5344,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/26/2019 21:09:25,Intel,Grade 8,Software Engineer,190000,Chandler, AZ,19,19,Web Development (Front-End),140000,20000,30000,Male,NA,7012,753,5385,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/3/2019 10:25:05,Intel,Grade 6,Data Scientist,137000,Hillsboro, OR,4,0,ML / AI,120000,2000,15000,Male,NA,10500,820,5577,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/10/2019 22:19:11,Intel,Grade 9,Software Engineer,240000,Santa Clara, CA,22,13,Full Stack,160000,25000,55000,Female,NA,7434,807,5794,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/11/2019 15:20:25,Intel,Grade 5,Software Engineer,115000,Hillsboro, OR,2,2,Hardware,98000,5000,12000,Female,NA,10500,820,5812,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/20/2019 14:17:35,Intel,Grade 11,Software Engineering Manager,350000,San Diego, CA,18,4,Mobile (iOS + Android),0,0,0,Male,NA,7416,825,6020,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/3/2019 11:03:57,Intel,Grade 6,Software Engineer,120000,Folsom, CA,3,3,Firmware,103000,7000,10000,Male,NA,7193,862,6358,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/10/2019 12:08:31,Intel,Grade 9,Solution Architect,218000,Hillsboro, OR,10,7,Security,154000,32000,32000,Male,NA,10500,820,6582,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/12/2019 12:56:59,Intel,Grade 7,Software Engineer,140000,Hillsboro, OR,8,7,Firmware,0,0,0,Female,NA,10500,820,6636,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/13/2019 21:43:00,Intel,Grade 6,Software Engineer,127000,Hillsboro, OR,3,3,API Development (Back-End),0,0,0,Male,NA,10500,820,6687,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/14/2019 6:42:04,Intel,G7,Software Engineer,130000,Hillsboro, OR,5,5,Operating systems,110000,2000,18000,Male,NA,10500,820,6698,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/17/2019 21:58:49,Intel,Staff Engineer,Software Engineer,240000,San Jose, CA,15,3,Networking,180000,30000,30000,Male,NA,7422,807,6806,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/21/2019 17:35:05,Intel,Staff Engineer,Software Engineer,187000,Hillsboro, OR,14,8,Design,136000,25000,26000,Male,NA,10500,820,6922,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/21/2019 21:39:06,Intel,6,Software Engineer,125000,Hillsboro, OR,3,3,Distributed Systems (Back-End),0,0,0,Female,NA,10500,820,6936,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/23/2019 0:31:44,Intel,Grade 7,Hardware Engineer,190000,Folsom, CA,0,0,Hardware,145000,20000,25000,Female,NA,7193,862,6976,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/23/2019 1:13:04,Intel,Grade 7,Hardware Engineer,190000,Folsom, CA,0,0,ic design,145000,20000,25000,Female,NA,7193,862,6978,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/25/2019 12:14:58,Intel,L6,Software Engineer,128000,Hudson, MA,2,2,ML / AI,110000,8000,10000,Male,NA,28636,506,7045,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/28/2019 21:33:38,Intel,Grade 8,Software Engineer,180000,Hillsboro, OR,18,7,SW,130000,20000,30000,Other,NA,10500,820,7189,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/30/2019 22:19:05,Intel,Grade 9,Software Engineer,230000,Santa Clara, CA,8,8,Distributed Systems (Back-End),175000,25000,30000,Other,NA,7434,807,7250,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/1/2019 16:58:01,Intel,Grade 6,Software Engineer,116000,Bellevue, WA,6,4,DevOps,100000,0,16000,Male,NA,11470,819,7321,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/3/2019 10:15:16,Intel,Grade 6,Software Engineer,150000,Santa Clara, CA,6,4,Full Stack,130000,8000,12000,Male,NA,7434,807,7380,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/6/2019 6:31:49,Intel,Grade 6,Software Engineer,102000,Hudson, MA,2,2,Software Products,0,0,0,Female,NA,28636,506,7486,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/8/2019 15:14:49,Intel,8,Software Engineering Manager,270000,Santa Clara, CA,10,0,Distributed Systems (Back-End),210000,20000,40000,NA,NA,7434,807,7552,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/12/2019 11:00:50,Intel,Grade 7,Data Scientist,140000,Hillsboro, OR,2,2,ML / AI,123000,8000,9000,Male,NA,10500,820,7708,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/14/2019 22:27:55,Intel,Grade 7,Software Engineer,40000,Bangalore, KA, India,10,4,Networking,36000,5000,4000,NA,NA,4058,0,7785,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/22/2019 14:47:04,Intel,Grade 8,Software Engineer,194000,Folsom, CA,10,8,Firmware,0,0,0,NA,NA,7193,862,8026,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/24/2019 1:08:23,Intel,Grade 10,Software Engineer,350000,Hillsboro, OR,12,4,Full Stack,210000,60000,80000,NA,NA,10500,820,8087,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/24/2019 12:01:59,Intel,Grade 6,Software Engineer,115000,Chandler, AZ,3,3,Full Stack,95000,7000,13000,Female,NA,7012,753,8096,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/25/2019 17:43:54,Intel,Grade 7,Software Engineer,140000,Folsom, CA,10,4,Hardware engineer,117000,13000,10000,Male,NA,7193,862,8136,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/2/2019 20:13:38,Intel,Grade 7,Software Engineer,165000,Santa Clara, CA,8,8,Full Stack,130000,15000,20000,Male,NA,7434,807,8362,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/15/2019 23:17:26,Intel,Grade 8,Software Engineer,205000,Santa Clara, CA,14,5,firmware,0,0,0,Male,NA,7434,807,8739,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/17/2019 11:25:40,Intel,Grade 9,Product Designer,250000,Hillsboro, OR,24,24,ASIC design,184000,26000,50000,Male,NA,10500,820,8794,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/23/2019 8:50:00,Intel,Grade 8,Software Engineer,184000,Portland, OR,10,10,Security,140000,22000,22000,Male,NA,10522,820,9028,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/23/2019 12:48:41,Intel,Grade 6,Software Engineer,115000,Chandler, AZ,4,4,Full Stack,100000,5000,10000,Male,NA,7012,753,9037,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/24/2019 23:34:07,Intel,Grade 8,Software Engineer,208000,Santa Clara, CA,11,9,software engineer,164000,20000,24000,Male,NA,7434,807,9121,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/26/2019 6:51:47,Intel,Grade 8,Software Engineer,185000,Portland, OR,15,15,Platform software,145000,20000,20000,Male,NA,10522,820,9148,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/26/2019 14:00:02,Intel,Grade 5,Hardware Engineer,100000,Hillsboro, OR,5,3,Physical Design,90000,1000,9000,Female,NA,10500,820,9153,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/28/2019 16:41:00,Intel,Grade 6,Hardware Engineer,142000,Santa Clara, CA,6,1,verification,0,0,0,NA,NA,7434,807,9210,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/28/2019 22:14:12,Intel,Grade 10,Hardware Engineer,290000,Santa Clara, CA,18,10,Silicon Engineering,210000,40000,40000,Male,NA,7434,807,9220,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/29/2019 2:17:37,Intel,Grade 10,Hardware Engineer,410000,Santa Clara, CA,17,9,HW,0,0,0,Male,NA,7434,807,9226,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/31/2019 0:25:21,Intel,Grade 9,Solution Architect,180000,Chandler, AZ,16,14,Security,0,0,0,Male,NA,7012,753,9298,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/9/2019 12:39:05,Intel,Grade 5,Hardware Engineer,112000,Santa Clara, CA,4,4,Physic design,102000,0,10000,Male,NA,7434,807,9600,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/11/2019 20:52:27,Intel,Grade 7,Software Engineering Manager,190000,Santa Clara, CA,12,5,Full Stack,160000,15000,12000,Male,NA,7434,807,9684,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/13/2019 9:10:02,Intel,7,Hardware Engineer,141000,Hillsboro, OR,5,5,Emulation,118000,14000,8000,Male,NA,10500,820,9749,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2019 9:59:54,Intel,Grade 8,Hardware Engineer,178000,Hillsboro, OR,25,12,Systems,137000,20000,21000,Male,NA,10500,820,9874,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2019 20:36:05,Intel,Grade 9,Hardware Engineer,220000,Portland, OR,16,16,Full Stack,168000,20000,32000,Male,NA,10522,820,10100,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2019 20:51:00,Intel,7,Software Engineer,183000,Austin, TX,15,3,Bios,147000,12000,24000,Male,NA,10965,635,10104,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2019 21:41:02,Intel,Grade 9,Software Engineering Manager,270000,Santa Clara, CA,10,8,Networking,190000,50000,30000,Male,NA,7434,807,10117,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/16/2019 7:39:59,Intel,Grade 10,Hardware Engineer,385000,Chandler, AZ,29,17,Silicon Engineering,220000,60000,100000,Male,NA,7012,753,10210,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/16/2019 12:22:29,Intel,Grade 6,Software Engineer,143000,Santa Clara, CA,4,4,C,123000,8000,12000,Male,NA,7434,807,10285,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/16/2019 18:54:29,Intel,Grade 6,Hardware Engineer,126000,Folsom, CA,5,3,Soc design,110000,7000,9000,Male,NA,7193,862,10355,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 3:22:16,Intel,Grade 8,Software Engineer,165000,Haifa, HA, Israel,20,20,Distributed Systems (Back-End),0,0,0,NA,NA,4037,0,10409,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 3:28:44,Intel,Grade 7,Hardware Engineer,146000,Haifa, HA, Israel,6,5,Verification engineer,0,0,0,Male,NA,4037,0,10410,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 3:50:19,Intel,Grade 7,Hardware Engineer,125000,Haifa, HA, Israel,12,12,Hardware - Product development,89000,10000,26000,Male,NA,4037,0,10412,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 8:33:04,Intel,Grade 7,Hardware Engineer,146000,Haifa, HA, Israel,6,5,HW Verification,95000,10000,41000,Male,NA,4037,0,10447,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 9:31:10,Intel,Grade 7,Software Engineer,150000,Folsom, CA,5,5,Graphics driver development,118000,15000,17000,Female,NA,7193,862,10455,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 11:44:10,Intel,L8,Hardware Engineer,180000,Hillsboro, OR,7,7,Process development,0,0,0,Male,NA,10500,820,10476,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 13:16:26,Intel,Grade 6,Software Engineer,133000,Hillsboro, OR,2,2,Full Stack,113000,15000,5000,Male,NA,10500,820,10494,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 13:21:45,Intel,Grade 5,Software Engineer,109000,Tampa, FL,2,2,Performance,94000,8000,11000,Male,NA,7813,539,10496,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 13:31:51,Intel,Grade 7,Solution Architect,155000,Tel Aviv, TA, Israel,20,9,Networking,125000,8000,22000,Male,NA,15900,0,10500,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 23:20:30,Intel,Grade 5,Software Engineer,128000,Santa Clara, CA,3,3,DevOps,108000,5000,15000,Female,NA,7434,807,10580,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 23:52:02,Intel,Grade 7,Hardware Engineer,132000,Jerusalem, JM, Israel,7,7,Networking,100000,16000,16000,Male,NA,6476,0,10587,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/18/2019 10:15:33,Intel,Grade 6,Software Engineer,121000,Hillsboro, OR,4,4,DevOps,100000,7000,14000,Male,NA,10500,820,10626,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/20/2019 13:17:08,Intel,Grade 7,Hardware Engineer,145000,Fort Collins, CO,12,7,CSOC,0,0,0,NA,NA,7558,751,10813,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/20/2019 14:58:22,Intel,Grade 7,Hardware Engineer,184000,Santa Clara, CA,8,3,Physical Design,145000,15000,24000,Male,NA,7434,807,10817,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/20/2019 15:37:08,Intel,6,Hardware Engineer,145000,San Jose, CA,2,2,Networking,123000,3000,17000,NA,NA,7422,807,10820,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/20/2019 20:07:19,Intel,Grade 6,Hardware Engineer,130000,Santa Clara, CA,8,3,Hardware,0,0,0,NA,NA,7434,807,10839,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/21/2019 23:36:12,Intel,Grade 8,Software Engineer,194000,Folsom, CA,10,9,Testing (SDET),0,0,0,NA,NA,7193,862,10919,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/22/2019 4:14:02,Intel,Staff Engineer,Hardware Engineer,200000,Austin, TX,14,11,Design,150000,20000,30000,Male,NA,10965,635,10925,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/24/2019 9:20:26,Intel,7,Hardware Engineer,195000,Hillsboro, OR,8,8,Power Architecture,135000,25000,35000,Male,NA,10500,820,11022,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/26/2019 23:12:14,Intel,Grade 9,Hardware Engineer,281000,Santa Clara, CA,13,3,Mobile (iOS + Android),191000,50000,40000,NA,NA,7434,807,11164,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/27/2019 20:12:12,Intel,Grade 8,Software Engineer,250000,Santa Clara, CA,10,3,ML / AI,0,0,0,NA,NA,7434,807,11206,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/27/2019 22:33:43,Intel,Grade 8,Hardware Engineer,191000,Hillsboro, OR,14,2,Design,137000,24000,30000,Male,NA,10500,820,11212,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/29/2019 10:36:37,Intel,Grade 9,Hardware Engineer,265000,Hillsboro, OR,19,19,Hardware Development,168000,48000,49000,Male,NA,10500,820,11263,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/30/2019 0:24:30,Intel,Grade 6,Software Engineer,135000,Hillsboro, OR,7,4,embedded,0,0,0,NA,NA,10500,820,11301,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/30/2019 0:25:53,Intel,Grade 6,Software Engineer,135000,Hillsboro, OR,7,4,Embedded,115000,8000,12000,Male,Master's,10500,820,11302,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/1/2019 19:21:41,Intel,Grade 10,Hardware Engineer,350000,Santa Clara, CA,28,2,ASIC,220000,60000,70000,NA,NA,7434,807,11347,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/2/2019 16:43:16,Intel,Grade 7,Hardware Engineer,200000,Santa Clara, CA,14,3,Physical Design,163000,10000,27000,Female,Asian,7434,807,11381,0,0,0,0,0,1,0,0,0,0,Asian,NA
+7/3/2019 12:23:15,Intel,Grade 5,Hardware Engineer,120000,Santa Clara, CA,1,1,Hardware,0,0,0,Male,NA,7434,807,11413,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/3/2019 23:50:15,Intel,Grade 8,Hardware Engineer,186000,Austin, TX,19,11,Testing (SDET),145000,20000,21000,Male,Sr. Design Verification Engineer,10965,635,11430,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/3/2019 23:54:46,Intel,Grade 8,Hardware Engineer,186000,Austin, TX,19,11,Testing (SDET),145000,20000,21000,Male,Sr. Design Verification Engineer,10965,635,11432,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/4/2019 15:24:39,Intel,Principal Eng,Software Engineer,340000,Phoenix, AZ,15,15,Distributed Systems (Back-End),0,0,0,NA,NA,7042,753,11449,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/7/2019 12:41:19,Intel,Grade 7,Hardware Engineer,165000,Santa Clara, CA,9,9,ASIC,130000,15000,20000,NA,NA,7434,807,11531,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/7/2019 18:41:39,Intel,Grade 8,Hardware Engineer,195000,Hillsboro, OR,5,5,Physical design,145000,25000,25000,Male,NA,10500,820,11540,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/8/2019 20:59:48,Intel,Grade 10,Hardware Engineer,410000,Santa Clara, CA,15,10,Hardware,230000,80000,100000,Male,NA,7434,807,11569,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/10/2019 0:39:22,Intel,Grade 7,Software Engineer,164000,Folsom, CA,10,8,Firmware, Embedded,126000,15000,23000,Male,NA,7193,862,11625,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/10/2019 11:02:32,Intel,Grade 7,Software Engineer,164000,Santa Clara, CA,9,8,Compiler,135000,12000,20000,Male,NA,7434,807,11636,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/10/2019 18:12:57,Intel,Grade 9,Hardware Engineer,262000,Santa Clara, CA,14,2,IC design,200000,12000,50000,Male,NA,7434,807,11652,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/12/2019 0:48:18,Intel,Grade 5,Hardware Engineer,121000,Santa Clara, CA,4,4,Hardware Engineer,105000,5000,11000,Female,NA,7434,807,11715,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/12/2019 0:56:49,Intel,Grade 7,Hardware Engineer,160000,Tel Aviv, TA, Israel,6,6,Chip Architect,110000,20000,30000,Male,NA,15900,0,11716,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/12/2019 16:23:19,Intel,Grade 6,Hardware Engineer,129000,Hillsboro, OR,3,3,Performance,110000,8000,11000,Female,NA,10500,820,11738,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/13/2019 12:35:42,Intel,Grade 8,Hardware Engineer,231000,Santa Clara, CA,12,10,Design Verification,156000,38000,37000,Male,NA,7434,807,11767,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/17/2019 15:22:39,Intel,Grade 7,Hardware Engineer,165000,Santa Clara, CA,14,10,Design Verification,127000,11000,27000,NA,NA,7434,807,12022,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/18/2019 18:48:20,Intel,Grade 8,Software Engineer,215000,Hudson, MA,18,6,Networking,155000,15000,45000,NA,NA,28636,506,12077,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/18/2019 23:56:08,Intel,Grade 7,Software Engineer,152000,San Diego, CA,6,5,Embedded Firmware,126000,8000,18000,Male,NA,7416,825,12095,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/19/2019 23:40:54,Intel,Grade 8,Data Scientist,193000,Phoenix, AZ,6,6,ML / AI,146000,17000,30000,Male,NA,7042,753,12137,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/22/2019 12:18:12,Intel,Grade 9,Software Engineer,230000,Portland, OR,8,8,ML / AI,150000,30000,50000,Male,NA,10522,820,12210,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/23/2019 12:58:43,Intel,Grade 6,Software Engineer,113000,Hillsboro, OR,1,1,Windows OS,98000,7000,8000,Female,NA,10500,820,12260,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/24/2019 17:38:03,Intel,Grade 7,Software Engineer,180000,Santa Clara, CA,8,8,Testing (SDET),0,0,0,NA,NA,7434,807,12341,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/26/2019 16:03:27,Intel,Grade 8,Hardware Engineer,194000,Santa Clara, CA,6,6,Semiconductor,144000,25000,25000,NA,NA,7434,807,12442,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/27/2019 1:17:56,Intel,Grade 6,Hardware Engineer,30000,Bangalore, KA, India,7,7,Verification,0,0,0,Male,NA,4058,0,12480,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/27/2019 14:37:51,Intel,Grade 6,Software Engineer,40000,Gdansk, PM, Poland,4,1,Business Client Support,0,0,0,Male,NA,4660,0,12499,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/30/2019 7:36:22,Intel,Grade 6,Software Engineer,118000,Hillsboro, OR,4,4,Operating Systems,103000,7000,10000,Male,NA,10500,820,12600,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/30/2019 20:55:46,Intel,Grade 6,Hardware Engineer,128000,Hillsboro, OR,6,3,ML / AI,110000,7000,10000,Male,NA,10500,820,12631,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/31/2019 16:34:39,Intel,Grade 5,Hardware Engineer,105000,Folsom, CA,1,1,Hardware engineer,90000,5000,10000,Male,NA,7193,862,12666,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/1/2019 6:39:34,Intel,Grade 7,Hardware Engineer,153000,Hudson, MA,8,3,Hardware Apps,120000,9000,24000,NA,NA,28636,506,12713,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/2/2019 16:02:36,Intel,Grade 6,Hardware Engineer,145000,Santa Clara, CA,4,1,IC design,130000,5000,10000,Male,NA,7434,807,12764,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/5/2019 12:57:52,Intel,Grade 8,Software Engineer,200000,Santa Clara, CA,8,8,Networking,0,0,0,NA,NA,7434,807,12835,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/5/2019 15:30:35,Intel,7,Hardware Engineer,163000,Folsom, CA,7,5,ML / AI,130000,13000,20000,NA,NA,7193,862,12841,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/7/2019 11:51:19,Intel,Grade 7,Hardware Engineer,180000,Santa Clara, CA,6,6,Chip Design,130000,25000,25000,Female,NA,7434,807,12888,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/14/2019 1:08:38,Intel,5,Hardware Engineer,88000,Hillsboro, OR,5,5,TD Process Eng,88000,7000,0,Male,NA,10500,820,13111,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/15/2019 1:51:39,Intel,Principal Eng,Hardware Engineer,240000,San Jose, CA,20,3,Vlsi,195000,30000,15000,Male,NA,7422,807,13177,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/17/2019 7:33:14,Intel,Grade 7,Software Engineer,151000,Folsom, CA,8,8,Graphics,117000,20000,14000,Male,official title is Graphics Software Engineer,7193,862,13296,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/20/2019 8:20:14,Intel,Grade 7,Software Engineer,160000,San Diego, CA,11,5,Wireless,128000,8000,23000,Male,NA,7416,825,13438,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/22/2019 19:19:58,Intel,Grade 9,Hardware Engineer,275000,Santa Clara, CA,5,5,5G,185000,50000,40000,Male,NA,7434,807,13558,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/23/2019 11:03:37,Intel,9,Software Engineer,235000,San Diego, CA,25,4,embedded,178000,20000,36000,Female,NA,7416,825,13590,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/23/2019 20:34:26,Intel,Grade 7,Hardware Engineer,140000,Portland, OR,0,0,Hardware,120000,10000,10000,Male,NA,10522,820,13620,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/24/2019 21:19:03,Intel,Grade 6,Hardware Engineer,130000,Chandler, AZ,6,6,ML / AI,110000,7000,13000,Female,NA,7012,753,13660,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/27/2019 23:54:46,Intel,Grade 8,Software Engineer,196000,Portland, OR,12,12,Security,144000,13000,38000,NA,NA,10522,820,13775,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/28/2019 16:41:04,Intel,Grade 7,Software Engineer,189000,Santa Clara, CA,15,8,Mobile (iOS + Android),153000,10000,26000,NA,NA,7434,807,13801,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/30/2019 0:23:07,Intel,Grade 7,Software Engineer,150000,Hillsboro, OR,17,4,Full Stack,125000,10000,15000,NA,NA,10500,820,13899,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/31/2019 8:16:35,Intel,Grade 8,Hardware Engineer,160000,Hillsboro, OR,10,10,HW,0,0,0,NA,NA,10500,820,13945,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/31/2019 11:30:33,Intel,Grade 7,Hardware Engineer,200000,San Diego, CA,8,6,Testing (SDET),145000,35000,20000,Male,NA,7416,825,13950,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/4/2019 17:06:45,Intel,Grade 7,Hardware Engineer,200000,Santa Clara, CA,14,3,Physical Design,163000,10000,27000,Female,NA,7434,807,14091,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/5/2019 22:48:10,Intel,Grade 6,Software Engineer,111000,Fort Collins, CO,5,1,Firmware,0,0,0,NA,NA,7558,751,14173,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/11/2019 12:15:26,Intel,Grade 8,Software Engineer,200000,Portland, OR,8,8,Full Stack,150000,20000,30000,Male,NA,10522,820,14413,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/13/2019 21:38:51,Intel,Grade 8,Hardware Engineer,179000,Austin, TX,19,12,Testing (SDET),145000,12000,22000,Male,NA,10965,635,14588,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/18/2019 17:41:54,Intel,Grade 6,Software Engineer,150000,Seattle, WA,2,2,Full Stack,120000,20000,10000,Male,NA,11527,819,15079,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/20/2019 0:47:03,Intel,L7,Software Engineer,135000,Portland, OR,15,2,Computer Graphics,115000,10000,10000,Male,NA,10522,820,15146,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/20/2019 12:22:00,Intel,Grade 7,Hardware Engineer,160000,Portland, OR,11,11,ASIC,123000,18000,19000,Male,NA,10522,820,15165,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/26/2019 20:36:41,Intel,Staff Engineer,Hardware Engineer,148000,Portland, OR,0,0,Hardware Engineer,118000,15000,15000,Male,NA,10522,820,15432,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/26/2019 21:09:10,Intel,Grade 7,Software Engineer,148000,Hillsboro, OR,3,3,Distributed Systems (Back-End),124000,8000,16000,Male,NA,10500,820,15434,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/29/2019 16:22:52,Intel,Grade 7,Software Engineer,150000,Chandler, AZ,8,8,Networking,120000,15000,15000,Male,NA,7012,753,15560,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/30/2019 14:20:31,Intel,Grade 5,Software Engineer,125000,Santa Clara, CA,3,3,Full Stack,109000,5000,11000,NA,NA,7434,807,15603,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/1/2019 10:04:31,Intel,Grade 6,Software Engineer,133000,Hillsboro, OR,8,8,Full Stack,110000,7000,16000,Male,NA,10500,820,15638,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/2/2019 0:52:07,Intel,Principal Eng,Hardware Engineer,400000,Santa Clara, CA,16,11,Hardware,240000,70000,90000,Male,NA,7434,807,15677,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/2/2019 1:13:21,Intel,Principal Eng,Solution Architect,400000,Santa Clara, CA,16,10,API Development (Back-End),240000,70000,90000,Male,NA,7434,807,15678,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/4/2019 17:58:27,Intel,Grade 6,Hardware Engineer,135000,Santa Clara, CA,4,4,Hardware Design Engineer,120000,3000,12000,Male,SoC Design Engineer,7434,807,15830,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/4/2019 18:37:19,Intel,Grade 8,Software Engineer,168000,Hillsboro, OR,8,8,Firmware,138000,20000,10000,Male,NA,10500,820,15831,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/7/2019 18:28:23,Intel,7,Software Engineer,177000,Santa Clara, CA,15,8,ML / AI,148000,9000,20000,Female,NA,7434,807,15960,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/8/2019 14:56:28,Intel,Grade 7,Software Engineer,175000,San Diego, CA,6,5,firmware,150000,15000,10000,Male,NA,7416,825,16002,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/10/2019 17:10:59,Intel,Grade 5,Software Engineer,134000,Santa Clara, CA,2,2,DevOps,111000,7000,16000,Male,NA,7434,807,16105,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/13/2019 7:14:28,Intel,Grade 7,Software Engineer,153000,Folsom, CA,10,10,Security,125000,9000,15000,NA,NA,7193,862,16208,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/13/2019 11:59:42,Intel,Grade 8,Hardware Engineer,235000,San Jose, CA,10,3,SoC Design Engineer,175000,25000,35000,Male,NA,7422,807,16215,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/13/2019 12:36:55,Intel,Grade 9,Product Manager,349000,Santa Clara, CA,7,0,ML / AI,220000,75000,59000,Male,NA,7434,807,16217,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/14/2019 0:49:35,Intel,Grade 5,Software Engineer,106000,Hillsboro, OR,1,1,Computer Architecture and software,95000,4000,7000,Male,NA,10500,820,16241,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/16/2019 21:49:48,Intel,Grade 8,Software Engineer,290000,Santa Clara, CA,6,1,Networking,200000,40000,50000,Male,NA,7434,807,16369,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/19/2019 22:37:40,Intel,Grade 5,Software Engineer,102000,Hillsboro, OR,5,0,Distributed Systems (Back-End),91000,10000,1000,Female,NA,10500,820,16503,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/20/2019 8:47:51,Intel,Grade 7,Software Engineer,120000,Boulder, CO,6,6,Firmware,103000,7000,10000,Female,8k retirement match/year. Free Anthem health insurance. Free short term disablity (pays 70% for 3-6 weeks), Free long term disability.,7534,751,16515,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/20/2019 23:02:52,Intel,Grade 5,Hardware Engineer,120000,Santa Clara, CA,3,3,Hardware,103000,1000,12000,Male,NA,7434,807,16539,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/21/2019 0:11:10,Intel,Grade 5,Hardware Engineer,130000,Santa Clara, CA,0,1,Pre-Si Verification Engineer,111000,6000,15000,Male,NA,7434,807,16542,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/30/2019 19:00:51,Intel,8,Software Engineer,185000,Folsom, CA,15,2,Testing (SDET),133000,30000,22000,Male,NA,7193,862,16897,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/31/2019 18:49:28,Intel,9,Software Engineer,240000,Santa Clara, CA,9,9,Graphics,180000,20000,40000,Male,NA,7434,807,16948,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/2/2019 11:10:55,Intel,Grade 8,Software Engineer,162000,Folsom, CA,11,11,Firmware,130000,12000,20000,Male,Masters,7193,862,17019,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/3/2019 12:10:49,Intel,Staff Engineer,Hardware Engineer,185000,Folsom, CA,12,1,hardware,150000,15000,20000,Male,PhD,7193,862,17077,0,0,1,0,0,0,0,0,0,0,NA,PhD
+11/11/2019 19:15:13,Intel,Grade 7,Software Engineer,215000,Santa Clara, CA,4,4,ML / AI,150000,45000,20000,Male,PhD,7434,807,17457,0,0,1,0,0,0,0,0,0,0,NA,PhD
+11/15/2019 5:35:28,Intel,6,Software Engineer,116000,Austin, TX,1,1,Networking,100000,7000,9000,Male,Masters,10965,635,17635,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/15/2019 12:21:28,Intel,L5,Software Engineer,105000,Folsom, CA,4,4,Graphics,93000,3000,10000,Female,Masters,7193,862,17657,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/17/2019 17:27:14,Intel,Grade 8,Software Engineer,215000,Santa Clara, CA,10,0,Testing (SDET),170000,20000,25000,NA,Masters,7434,807,17747,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/18/2019 18:13:35,Intel,Grade 6,Software Engineer,120000,Portland, OR,4,4,Web Development (Front-End),105000,7000,8000,Male,Masters,10522,820,17781,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/20/2019 21:50:09,Intel,Grade 10,Hardware Engineer,410000,Santa Clara, CA,15,9,HW,240000,90000,80000,NA,PhD,7434,807,17889,0,0,1,0,0,0,0,0,0,0,NA,PhD
+11/21/2019 19:10:40,Intel,Grade 8,Software Engineer,224000,Santa Clara, CA,16,0.5,ML / AI,192000,12000,20000,Male,NA,7434,807,17937,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/28/2019 4:14:44,Intel,Grade 10,Software Engineer,415000,Santa Clara, CA,14,9,GPU,245000,80000,90000,NA,PhD,7434,807,18214,0,0,1,0,0,0,0,0,0,0,NA,PhD
+12/4/2019 14:23:34,Intel,Grade 7,Hardware Engineer,160000,Santa Clara, CA,19,3,Soc Design Engineer,140000,10000,10000,Female,NA,7434,807,18416,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/4/2019 22:14:28,Intel,L3,Software Engineer,100000,Hillsboro, OR,2,2,ML / AI,85000,5000,9000,Male,NA,10500,820,18433,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/9/2019 18:02:16,Intel,Grade 9,Hardware Engineer,278000,Santa Clara, CA,28,19,RTL & FPGA Design Engineer,190000,29000,59000,Male,Expert in HW POC using FPGA and RTL IP creation - Masters,7434,807,18648,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+12/11/2019 16:05:25,Intel,Grade 8,Hardware Engineer,190000,Boston, MA,10,4,Physical Design,157000,7000,26000,Male,Masters,8816,506,18743,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+12/11/2019 22:28:03,Intel,Grade 9,Hardware Engineer,250000,Portland, OR,22,13,SoC,175000,25000,50000,Male,NA,10522,820,18764,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/12/2019 17:00:28,Intel,Grade 7,Hardware Engineer,190000,Santa Clara, CA,7,3,SoC design engineer,150000,14000,26000,Male,Masters,7434,807,18799,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+12/15/2019 19:57:45,Intel,Grade 5,Software Engineer,100000,Hillsboro, OR,2,5,Backend,83000,5000,10000,Male,NA,10500,820,18936,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/22/2019 19:24:42,Intel,G8,Hardware Engineer,220000,Hillsboro, OR,8,8,Process development,145000,40000,35000,Male,PhD,10500,820,19242,0,0,1,0,0,0,0,0,0,0,NA,PhD
+12/27/2019 21:12:27,Intel,Grade 9,Solution Architect,271000,Hillsboro, OR,10,1,HPC,185000,52000,34000,Male,Masters and PhD,10500,820,19388,1,0,1,0,0,0,0,0,0,0,NA,Master's Degree
+12/30/2019 14:10:24,Intel,Grade 7,Software Engineer,142000,Hillsboro, OR,9,9,API Development (Back-End),120000,12000,10000,Male,Masters,10500,820,19458,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/4/2020 7:39:45,Intel,Grade 10,Product Manager,277000,Hillsboro, OR,24,14,Marketing,177000,50000,50000,Male,Masters,10500,820,19656,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/11/2020 21:09:37,Intel,Grade 8,Hardware Engineer,220000,Santa Clara, CA,8,8,Design Engineer,170000,21000,29000,Male,Masters,7434,807,20067,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/16/2020 16:58:50,Intel,7,Software Engineer,170000,Hillsboro, OR,4,4,Security,129000,20000,21000,NA,PhD,10500,820,20335,0,0,1,0,0,0,0,0,0,0,NA,PhD
+1/17/2020 11:31:07,Intel,Grade 8,Hardware Engineer,180000,Austin, TX,12,0,Verification,150000,10000,20000,NA,Masters,10965,635,20404,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/18/2020 5:59:37,Intel,Grade 7,Software Engineer,164000,Chandler, AZ,9,9,optimization,121000,20000,23000,Male,Masters,7012,753,20456,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/19/2020 19:55:26,Intel,Staff Engineer,Hardware Engineer,185000,San Jose, CA,7,7,Product Development,140000,15000,30000,Male,Masters,7422,807,20557,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/20/2020 15:52:39,Intel,Grade 7,Software Engineer,54000,Gdansk, PM, Poland,6,4,Graphics drivers,43000,5000,5000,Male,NA,4660,0,20623,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/20/2020 15:55:16,Intel,8,Hardware Engineer,200000,Phoenix, AZ,12,4,ASIC,150000,20000,30000,Male,Masters,7042,753,20626,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/21/2020 17:11:48,Intel,Grade 6,Software Engineer,151000,Santa Clara, CA,2,1,Distributed Systems (Back-End),136000,3000,12000,Male,Masters,7434,807,20728,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/21/2020 19:57:16,Intel,Grade 7,Software Engineer,165000,Santa Clara, CA,8,8,Full Stack,139000,10000,16000,Male,Masters,7434,807,20739,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/23/2020 14:38:34,Intel,Grade 6,Hardware Engineer,112000,Hillsboro, OR,6,6,Mechanical Engineer,90000,10000,12000,Male,NA,10500,820,20877,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/23/2020 17:24:30,Intel,Grade 6,Software Engineer,119000,Folsom, CA,11,11,Full Stack,103000,7000,9000,Male,Masters,7193,862,20893,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/24/2020 1:54:14,Intel,Grade 6,Hardware Engineer,112000,Folsom, CA,4,4,Graphics,100000,6000,6000,NA,Masters,7193,862,20931,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/24/2020 10:38:53,Intel,8,Hardware Engineer,195000,Austin, TX,12,1,Pre-Si Verification,150000,10000,35000,Male,NA,10965,635,20960,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/24/2020 20:12:42,Intel,Grade 10,Hardware Engineer,278000,Portland, OR,22,22,Computer Aided Design,183000,40000,55000,Male,Masters,10522,820,20995,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/26/2020 19:56:25,Intel,Grade 6,Software Engineer,130000,Folsom, CA,7,7,Testing (SDET),110000,10000,10000,NA,Masters,7193,862,21122,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/26/2020 21:22:04,Intel,Grade 8,Software Engineer,193000,San Jose, CA,15,3,Enterprise Apps,147000,16000,30000,Male,Masters,7422,807,21128,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/27/2020 17:56:38,Intel,Grade 9,Hardware Engineer,290000,Austin, TX,16,16,Hardware,195000,35000,60000,Male,Masters,10965,635,21185,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/27/2020 20:12:08,Intel,5,Software Engineer,110000,Hillsboro, OR,4,4,ML / AI,92000,5000,13000,Male,Hispanic - Masters,10500,820,21196,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/27/2020 22:59:00,Intel,Grade 8,Hardware Engineer,190000,Portland, OR,5,5,SOC Design,145000,22000,25000,Male,PhD,10522,820,21207,0,0,1,0,0,0,0,0,0,0,NA,PhD
+1/28/2020 13:01:27,Intel,Grade 10,Hardware Engineer,330000,Folsom, CA,20,19,Hardware,185000,70000,75000,Male,NA,7193,862,21246,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/28/2020 13:35:10,Intel,Grade 5,Hardware Engineer,110000,Folsom, CA,5,5,Design automation,88000,5000,12000,NA,NA,7193,862,21255,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/28/2020 13:56:38,Intel,G6,Software Engineer,144000,Hillsboro, OR,3,3,Full Stack,115000,20000,9000,Male,Masters,10500,820,21257,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/29/2020 2:36:11,Intel,Grade 7,Software Engineer,159000,Santa Clara, CA,1,1,ML / AI,133000,9000,17000,Male,PhD,7434,807,21308,0,0,1,0,0,0,0,0,0,0,NA,PhD
+1/31/2020 13:53:59,Intel,Principal Eng,Data Scientist,390000,Santa Clara, CA,20,15,ML / AI,230000,80000,80000,Male,NA,7434,807,21500,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/31/2020 22:17:14,Intel,Grade 7,Software Engineer,158000,Hillsboro, OR,7,3,Distributed Systems (Back-End),126000,11000,21000,Male,PhD,10500,820,21522,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2/1/2020 10:00:15,Intel,Grade 11,Software Engineer,490000,Santa Clara, CA,27,20,DevOps,280000,100000,110000,Male,NA,7434,807,21543,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/1/2020 15:39:52,Intel,Grade 5,Software Engineer,105000,Folsom, CA,0,1,ML / AI,91000,4000,10000,Male,- - Masters,7193,862,21555,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/1/2020 22:35:14,Intel,Grade 7,Hardware Engineer,210000,Santa Clara, CA,8,8,Physical Design,150000,37000,23000,NA,Masters,7434,807,21579,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/2/2020 2:40:29,Intel,Grade 6,Software Engineer,128000,Folsom, CA,8,7,driver development,105000,8000,15000,Male,Masters,7193,862,21588,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/3/2020 10:45:04,Intel,Grade 7,Software Engineer,175000,Santa Clara, CA,8,8,Full Stack,140000,15000,20000,Male,Masters,7434,807,21651,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/3/2020 15:37:34,Intel,Grade 6,Hardware Engineer,138000,Folsom, CA,4,4,VPG,110000,4000,24000,Male,Masters,7193,862,21675,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/4/2020 20:19:29,Intel,Grade 10,Software Engineering Manager,370000,Santa Clara, CA,20,1,Software Engieer,240000,50000,80000,Male,NA,7434,807,21766,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/6/2020 23:40:41,Intel,Grade 8,Software Engineer,235000,Santa Clara, CA,8,2,Networking,170000,10000,55000,NA,NA,7434,807,21937,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/10/2020 15:33:59,Intel,7,Software Engineer,100000,Munich, BY, Germany,9,4,Mobile (iOS + Android),78000,6000,16000,NA,NA,3722,0,22193,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/10/2020 19:48:37,Intel,Grade 7,Software Engineer,170000,Santa Clara, CA,8,8,Full Stack,140000,13000,17000,Male,Masters,7434,807,22219,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/11/2020 8:50:33,Intel,Grade 6,Software Engineer,156000,Santa Clara, CA,3,1,API Development (Back-End),136000,4000,16000,Male,Masters,7434,807,22254,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/12/2020 20:41:20,Intel,Grade 5,Software Engineer,83000,Toronto, ON, Canada,2,4,EDA Tool (Back-End),72000,1000,9000,Male,NA,1206,0,22371,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/12/2020 21:23:24,Intel,Grade 6,Hardware Engineer,130000,Hudson, MA,4,4,Analog design,110000,6000,14000,Female,Masters,28636,506,22375,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/13/2020 12:44:30,Intel,Grade 6,Hardware Engineer,148000,Santa Clara, CA,14,14,Full Stack,120000,12000,16000,Male,NA,7434,807,22414,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/13/2020 23:44:05,Intel,Grade 6,Software Engineer,106000,Hillsboro, OR,6,6,Embed,93000,5000,8000,Male,NA,10500,820,22469,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/14/2020 13:33:30,Intel,Grade 7,Software Engineer,191000,Santa Clara, CA,6,3,ML / AI,150000,15000,26000,Male,NA,7434,807,22535,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/14/2020 19:53:50,Intel,Grade 7,Software Engineer,150000,Portland, OR,18,4,Full Stack,122000,15000,13000,Male,Masters,10522,820,22621,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/15/2020 10:28:05,Intel,Grade 5,Software Engineer,92000,Hillsboro, OR,6,3.5,Low-Level Integration,85000,0,7000,Male,NA,10500,820,22830,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/15/2020 20:22:43,Intel,Grade 7,Software Engineer,165000,Santa Clara, CA,9,9,Full Stack,135000,12000,18000,Male,Masters,7434,807,22970,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/16/2020 1:03:10,Intel,8,Software Engineer,270000,Santa Clara, CA,25,3,Embedded,193000,40000,40000,Male,NA,7434,807,23000,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/18/2020 8:06:25,Intel,Grade 6,Hardware Engineer,130000,Hudson, MA,4,1,Networking,108000,9000,10000,Male,Masters,28636,506,23218,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/18/2020 19:27:01,Intel,Grade 6,Hardware Engineer,145000,Santa Clara, CA,4,1,Full Stack,122000,8000,15000,Male,Masters,7434,807,23255,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/19/2020 20:04:16,Intel,Grade 6,Software Engineer,133000,Hillsboro, OR,4,4,API Development (Back-End),110000,8000,15000,Male,Masters,10500,820,23347,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/19/2020 22:19:04,Intel,Grade 6,Hardware Engineer,140000,Santa Clara, CA,8,8,Design Verification Engineer,120000,10000,10000,Male,Masters,7434,807,23363,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/21/2020 15:27:18,Intel,Grade 6,Software Engineer,121000,Folsom, CA,5,5,Full Stack,103000,8000,10000,Male,Masters,7193,862,23475,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/22/2020 9:49:35,Intel,Grade 7,Software Engineer,177000,Santa Clara, CA,15,8,ML / AI,148000,9000,20000,Female,Masters,7434,807,23517,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/23/2020 14:49:23,Intel,Grade 8,Software Engineer,207000,San Jose, CA,15,9,Team Lead,160000,22000,25000,Male,Masters,7422,807,23592,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/24/2020 10:06:34,Intel,Grade 7,Software Engineer,170000,Austin, TX,29,3,Distributed Systems (Back-End),150000,8000,12000,Male,NA,10965,635,23650,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/25/2020 1:16:22,Intel,Grade 5,Software Engineer,120000,Haifa, HA, Israel,3,1,DevOps,80000,30000,10000,NA,NA,4037,0,23711,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/27/2020 9:28:06,Intel,Grade 9,Hardware Engineer,240000,Santa Clara, CA,20,10,Distributed Systems (Back-End),180000,20000,40000,Female,Masters,7434,807,23902,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/27/2020 11:30:24,Intel,L3,Software Engineer,90000,Hillsboro, OR,2,2,Distributed Systems (Back-End),75000,4000,6000,Male,NA,10500,820,23914,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/3/2020 8:47:30,Intel,Grade 6,Software Engineer,116000,Haifa, HA, Israel,5,3,Embedded,89000,6000,21000,Male,NA,4037,0,24226,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/3/2020 19:50:40,Intel,Grade 6,Software Engineer,133000,Hillsboro, OR,9,9,Full Stack,113000,10000,10000,Male,NA,10500,820,24274,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/3/2020 20:37:42,Intel,Grade 6,Hardware Engineer,140000,Hillsboro, OR,4,4,Verification,115000,10000,15000,NA,NA,10500,820,24279,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/4/2020 21:08:12,Intel,Grade 8,Software Engineer,64000,Bengaluru, KA, India,11,7,Windows Device Driver,50000,8000,6000,Male,Masters,42498,0,24342,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/4/2020 21:32:33,Intel,Grade 6,Hardware Engineer,142000,San Jose, CA,4,4,Testing (SDET),120000,10000,12000,Male,Masters,7422,807,24344,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/4/2020 22:54:45,Intel,Grade 7,Software Engineer,168000,Santa Clara, CA,8,8,Full Stack,140000,11000,17000,Male,Masters,7434,807,24347,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/5/2020 8:11:08,Intel,Grade 7,Software Engineer,166000,Hillsboro, OR,8,8,Performance,123000,24000,19000,Male,Masters,10500,820,24366,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/5/2020 13:00:44,Intel,7,Hardware Engineer,150000,Hillsboro, OR,6,6,Pre-silicon Design/Verification,125000,15000,10000,Male,PhD,10500,820,24385,0,0,1,0,0,0,0,0,0,0,NA,PhD
+3/5/2020 17:46:56,Intel,Grade 8,Software Engineer,207000,Santa Clara, CA,15,4,ML / AI,160000,20000,27000,Male,NA,7434,807,24411,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/5/2020 22:33:44,Intel,Grade 9,Software Engineer,250000,Santa Clara, CA,9,9,Graphics,180000,30000,40000,NA,PhD,7434,807,24430,0,0,1,0,0,0,0,0,0,0,NA,PhD
+3/7/2020 0:40:49,Intel,Grade 6,Software Engineer,132000,Hillsboro, OR,3,3,Distributed Systems (Back-End),110000,12000,9000,Female,Masters,10500,820,24515,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/7/2020 13:54:15,Intel,Grade 6,Software Engineer,98000,Toronto, ON, Canada,4,2,Hardware Compiler Backend,80000,5000,8000,Male,NA,1206,0,24538,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/9/2020 15:00:25,Intel,Grade 5,Software Engineer,100000,Hillsboro, OR,2,3,OS,90000,5000,5000,Male,Masters,10500,820,24664,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/9/2020 22:57:07,Intel,Grade 7,Hardware Engineer,140000,Hillsboro, OR,15,10,Power delivery,120000,10000,10000,Male,Masters,10500,820,24696,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/9/2020 23:01:51,Intel,Grade 7,Software Engineer,140000,Austin, TX,3,2,Networking,108000,20000,12000,Male,Masters,10965,635,24697,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/10/2020 9:21:44,Intel,7,Software Engineer,163000,Portland, OR,2,2,Full Stack,130000,15000,17000,Male,PhD,10522,820,24711,0,0,1,0,0,0,0,0,0,0,NA,PhD
+3/10/2020 14:07:42,Intel,Grade 8,Software Engineer,184000,Chandler, AZ,9,9,Distributed Systems (Back-End),131000,28000,25000,Male,Masters,7012,753,24730,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/11/2020 17:51:30,Intel,Grade 6,Hardware Engineer,152000,Santa Clara, CA,6,6,Design Verification,126000,14000,12000,Male,Masters,7434,807,24828,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/11/2020 18:35:11,Intel,Grade 5,Software Engineer,134000,Santa Clara, CA,3,3,Software Enabling,114000,8000,12000,Male,Masters,7434,807,24832,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/12/2020 0:39:18,Intel,Grade 5,Hardware Engineer,124000,Santa Clara, CA,1,1,Standard Cell Design,107000,7000,10000,Male,Masters,7434,807,24846,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/12/2020 20:01:39,Intel,9,Software Engineer,209000,Hillsboro, OR,13,12,Semiconductor,153000,23000,33000,NA,PhD,10500,820,24879,0,0,1,0,0,0,0,0,0,0,NA,PhD
+3/12/2020 21:40:33,Intel,Grade 5,Software Engineer,124000,Santa Clara, CA,2,1.5,Full Stack,106000,7000,10000,Female,Masters,7434,807,24881,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/13/2020 14:54:39,Intel,Grade 5,Hardware Engineer,112000,Hillsboro, OR,0,2,Analog,97000,5000,10000,Male,Masters,10500,820,24911,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/13/2020 17:40:43,Intel,Grade 7,Hardware Engineer,139000,Austin, TX,4,4,Architecture,125000,5000,9000,Male,PhD,10965,635,24927,0,0,1,0,0,0,0,0,0,0,NA,PhD
+3/14/2020 12:16:26,Intel,7,Software Engineer,208000,Santa Clara, CA,2,2,ML / AI,145000,45000,18000,Male,Masters,7434,807,24960,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/15/2020 8:41:44,Intel,Grade 7,Hardware Engineer,175000,Austin, TX,7,7,Networking,135000,25000,15000,Male,Masters,10965,635,24982,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/16/2020 14:47:16,Intel,Grade 9,Technical Program Manager,260000,San Francisco, CA,20,10,Full Stack,195000,30000,35000,Male,Masters,7419,807,25037,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/17/2020 3:10:07,Intel,Grade 10,Hardware Engineer,324000,Santa Clara, CA,12,4,Hardware engineer,204000,60000,60000,Male,PhD,7434,807,25056,0,0,1,0,0,0,0,0,0,0,NA,PhD
+3/20/2020 19:12:11,Intel,Grade 9,Hardware Engineer,240000,Sacramento, CA,15,4,SoC,170000,30000,40000,Male,Masters,7408,862,25274,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/21/2020 7:01:17,Intel,Grade 6,Hardware Engineer,130000,Hudson, MA,4,4,Verification,103000,20000,7000,Female,Masters,28636,506,25288,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/23/2020 15:37:00,Intel,Grade 7,Software Engineer,163000,Santa Clara, CA,3,3,Full Stack,129000,18000,16000,Male,Masters,7434,807,25368,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/25/2020 12:19:15,Intel,Grade 7,Data Scientist,143000,Chandler, AZ,4,3,ML / AI,118000,11000,14000,Male,Masters,7012,753,25438,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/25/2020 13:43:33,Intel,soc component engineer,Hardware Engineer,140000,Santa Clara, CA,1,1,IP Design Verification,120000,10000,10000,Female,Masters,7434,807,25441,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/25/2020 13:58:17,Intel,Grade 8,Software Engineer,179000,Folsom, CA,13,10,Distributed Systems (Back-End),133000,20000,26000,Male,Masters,7193,862,25443,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/26/2020 16:04:04,Intel,Grade 6,Software Engineer,148000,San Francisco, CA,7,5,API Development (Back-End),123000,7000,18000,Male,Masters,7419,807,25494,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/29/2020 18:02:47,Intel,Grade 10,Hardware Engineer,335000,Hillsboro, OR,13,4,Research,222000,53000,60000,Male,Masters and PhD,10500,820,25668,1,0,1,0,0,0,0,0,0,0,NA,Master's Degree
+3/30/2020 22:36:41,Intel,Grade 3,Hardware Engineer,104000,Folsom, CA,0,1,Graphics,90000,5000,9000,Male,NA,7193,862,25739,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/31/2020 8:53:42,Intel,Grade 5,Hardware Engineer,110000,Hillsboro, OR,0,0,Silicon Design Engineer,95000,5000,10000,Male,Masters,10500,820,25755,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/31/2020 21:13:14,Intel,Grade 7,Hardware Engineer,175000,Santa Clara, CA,10,10,Graphics Hardware,142000,15000,18000,NA,Masters,7434,807,25796,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/3/2020 18:41:12,Intel,Grade 9,Hardware Engineer,290000,Santa Clara, CA,15,2,Process,190000,34000,70000,Male,Masters,7434,807,25970,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/9/2020 1:30:35,Intel,Grade 8,Software Engineer,170000,Portland, OR,10,10,Distributed Systems (Back-End),136000,20000,15000,Male,Masters,10522,820,26273,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/9/2020 10:06:27,Intel,Grade 10,Product Manager,298000,Portland, OR,20,9,na,176000,68000,54000,Male,Masters,10522,820,26287,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/10/2020 8:46:30,Intel,Grade 7,Software Engineer,60000,Gdansk, PM, Poland,5,2,Distributed Systems (Back-End),46000,8000,6000,NA,NA,4660,0,26348,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/11/2020 13:07:45,Intel,Grade 8,Hardware Engineer,200000,Hillsboro, OR,4,4,Hardware,150000,28000,22000,NA,PhD,10500,820,26429,0,0,1,0,0,0,0,0,0,0,NA,PhD
+4/14/2020 14:31:05,Intel,Grade 7,Software Engineer,153000,Hillsboro, OR,11,6,API Development (Back-End),120000,13000,19000,Male,NA,10500,820,26614,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/14/2020 20:37:17,Intel,Grade 6,Software Engineer,153000,Phoenix, AZ,7,6,Distributed Systems (Back-End),117000,20000,16000,Male,+401K match (5%) - Masters,7042,753,26637,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/14/2020 22:54:18,Intel,Grade 9,Hardware Engineer,230000,Portland, OR,10,10,Semiconductor physics,150000,35000,45000,Male,PhD,10522,820,26646,0,0,1,0,0,0,0,0,0,0,NA,PhD
+4/17/2020 15:06:55,Intel,Grade 8,Software Engineer,232000,Sunnyvale, CA,5,1,ML / AI,178000,22000,32000,Male,PhD,7472,807,26839,0,0,1,0,0,0,0,0,0,0,NA,PhD
+4/21/2020 22:24:22,Intel,Grade 7,Software Engineer,168000,Santa Clara, CA,10,10,API Development (Back-End),150000,13000,5000,Female,Masters,7434,807,27092,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/22/2020 12:04:25,Intel,Grade 5,Hardware Engineer,85000,Petach Tikva, HM, Israel,3,3,SoC design,71000,5000,14000,Male,NA,42877,0,27118,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/22/2020 15:14:34,Intel,Grade 7,Software Engineer,165000,Hillsboro, OR,8,8,Testing (SDET),135000,15000,15000,NA,PhD,10500,820,27129,0,0,1,0,0,0,0,0,0,0,NA,PhD
+4/23/2020 16:18:11,Intel,Grade 5,Software Engineer,102000,Folsom, CA,2,1,Distributed Systems (Back-End),95000,6000,1000,Male,Masters,7193,862,27190,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/23/2020 19:27:21,Intel,Grade 7,Hardware Engineer,138000,Phoenix, AZ,1,1,Process engineer,112000,18000,6000,Male,PhD,7042,753,27205,0,0,1,0,0,0,0,0,0,0,NA,PhD
+4/24/2020 9:02:07,Intel,5,Hardware Engineer,112000,Hillsboro, OR,3,3,SoC Design,94000,9000,8000,Male,NA,10500,820,27235,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/24/2020 13:58:47,Intel,Grade 7,Software Engineer,143000,Chandler, AZ,12,12,Distributed Systems (Back-End),116000,9000,18000,Male,NA,7012,753,27250,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/25/2020 23:58:01,Intel,Principal Eng,Software Engineer,312000,Folsom, CA,13,11,System Software,197000,65000,50000,Male,Masters,7193,862,27327,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/28/2020 1:27:57,Intel,Grade 7,Hardware Engineer,152000,Chandler, AZ,2,2,Site Reliability (SRE),124000,13000,15000,Female,PhD,7012,753,27434,0,0,1,0,0,0,0,0,0,0,NA,PhD
+4/29/2020 23:04:13,Intel,Grade 7,Software Engineer,177000,Santa Clara, CA,5,3,Distributed Systems (Back-End),147000,7000,23000,Male,Masters,7434,807,27569,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/30/2020 23:59:10,Intel,Grade 7,Hardware Engineer,205000,Santa Clara, CA,5,4,Distributed Systems (Back-End),170000,10000,25000,Female,NA,7434,807,27642,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/2/2020 17:19:08,Intel,Grade 8,Software Engineer,170000,Hillsboro, OR,10,10,Distributed Systems (Back-End),131000,20000,20000,NA,Masters,10500,820,27725,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/3/2020 10:31:59,Intel,Grade 7,Hardware Engineer,150000,Petah Tiqva, HM, Israel,3,3,Radar,120000,20000,10000,NA,Masters,4046,0,27771,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/3/2020 20:33:42,Intel,Grade 5,Hardware Engineer,121000,Hillsboro, OR,1,1,iOS,101000,5000,15000,Male,IP/soc Design verification - Masters,10500,820,27802,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/3/2020 22:08:17,Intel,Grade 7,Software Engineer,185000,Santa Clara, CA,8,8,Engineer,145000,20000,20000,Male,Masters,7434,807,27809,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/4/2020 20:02:43,Intel,Grade 7,Hardware Engineer,147000,Hillsboro, OR,0,0,Research scientists,130000,0,17000,Female,PhD,10500,820,27886,0,0,1,0,0,0,0,0,0,0,NA,PhD
+5/5/2020 0:34:49,Intel,Grade 5,Software Engineer,100000,Folsom, CA,2,2,Hardware,87000,1000,8000,Male,NA,7193,862,27907,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/5/2020 22:57:10,Intel,9,Product Manager,250000,Santa Clara, CA,15,5,ML / AI,200000,20000,30000,Female,Masters,7434,807,28007,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/6/2020 14:44:21,Intel,Grade 6,Hardware Engineer,140000,San Jose, CA,3,3,hardware,126000,3000,11000,Male,NA,7422,807,28047,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/7/2020 6:13:24,Intel,Grade 7,Software Engineer,68000,Gdansk, PM, Poland,17,7,Graphics,51000,10000,7000,Male,Masters,4660,0,28091,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/8/2020 11:19:08,Intel,Sr. Director,Product Manager,464000,Hillsboro, OR,30,20,Systems,225000,154000,85000,NA,NA,10500,820,28197,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/9/2020 1:22:39,Intel,Grade 9,Hardware Engineer,269000,Hillsboro, OR,15,15,Hardware,189000,30000,50000,Male,PhD,10500,820,28235,0,0,1,0,0,0,0,0,0,0,NA,PhD
+5/9/2020 16:38:19,Intel,Grade 5,Hardware Engineer,106000,Folsom, CA,2,2,Hardware engineer,94000,4000,8000,NA,Masters,7193,862,28266,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/10/2020 3:12:40,Intel,Principal Eng,Software Engineer,425000,Santa Clara, CA,17,5,Full Stack,240000,95000,90000,NA,NA,7434,807,28287,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/13/2020 2:09:18,Intel,Grade 6,Hardware Engineer,137000,Hillsboro, OR,4,4,Performance Architecture,113000,9000,15000,Female,Masters,10500,820,28477,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/16/2020 11:46:12,Intel,Grade 7,Data Scientist,173000,Hillsboro, OR,7,7,Data Analysis and Trend Prediction,127000,21000,25000,Male,PhD,10500,820,28756,0,0,1,0,0,0,0,0,0,0,NA,PhD
+5/18/2020 1:36:49,Intel,Grade 5,Hardware Engineer,153000,Santa Clara, CA,0,0,Hardware,111000,7000,35000,Male,Masters,7434,807,28854,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/19/2020 0:16:50,Intel,Grade 8,Software Engineer,174000,Chandler, AZ,9,9,Networking,131000,18000,25000,Male,Masters,7012,753,28934,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/20/2020 23:28:15,Intel,Grade 6,Software Engineer,109000,Portland, OR,7,5,DevOps,100000,4000,5000,NA,NA,10522,820,29085,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/22/2020 0:41:05,Intel,Grade 8,Software Engineer,212000,Santa Clara, CA,18,3,Full Stack,165000,22000,25000,NA,Masters,7434,807,29146,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/22/2020 23:48:25,Intel,Grade 5,Hardware Engineer,97000,Hillsboro, OR,4,4,Hardware,85000,1000,11000,Female,Masters,10500,820,29221,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/26/2020 3:57:22,Intel,Grade 7,Software Engineer,110000,Haifa, HA, Israel,10,8,ML / AI,95000,5000,10000,Male,NA,4037,0,29431,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/26/2020 19:02:53,Intel,Grade 6,Hardware Engineer,152000,Santa Clara, CA,3,3,Verification Engineer,136000,4000,12000,Male,Masters,7434,807,29484,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/31/2020 6:35:15,Intel,Grade 6,Software Engineer,105000,Petah Tiqva, HM, Israel,3,1,Virtual Reality,85000,10000,10000,Male,NA,4046,0,29797,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/3/2020 11:21:25,Intel,Grade 7,Software Engineer,140000,Hillsboro, OR,7,7,System Software,115000,10000,15000,Male,NA,10500,820,30014,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/3/2020 13:28:55,Intel,Grade 5,Software Engineer,105000,Hillsboro, OR,2,2,Kernel,95000,2000,8000,Male,Masters,10500,820,30022,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/4/2020 1:34:56,Intel,Grade 6,Software Engineer,54000,Gdansk, PM, Poland,7,7,Storage,43000,6000,5000,NA,NA,4660,0,30055,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/4/2020 11:02:44,Intel,7,Hardware Engineer,100000,Chandler, AZ,6,6,packaging,90000,5000,5000,Female,Masters,7012,753,30075,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/10/2020 7:57:40,Intel,sr. Director,Technical Program Manager,600000,Santa Clara, CA,20,8,Communications,280000,200000,120000,NA,NA,7434,807,30470,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/11/2020 13:47:26,Intel,Grade 5,Hardware Engineer,100000,Folsom, CA,3,1,Hardware,93000,2000,5000,Female,Masters,7193,862,30587,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/13/2020 12:24:39,Intel,Grade 7,Software Engineer,139000,Hillsboro, OR,5,3,Simulation Modeling,112000,14000,13000,Female,Masters,10500,820,30737,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/14/2020 4:48:07,Intel,Grade 9,Product Manager,223000,Petach Tikva, HM, Israel,15,15,Wireless,152000,30000,41000,Female,Masters,42877,0,30769,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/14/2020 10:03:14,Intel,11,Hardware Engineer,400000,Hillsboro, OR,23,23,SOC Verification,235000,75000,90000,NA,Masters,10500,820,30775,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/14/2020 11:43:03,Intel,Grade 5,Hardware Engineer,101000,Hillsboro, OR,2,2,Testing (SDET),92000,1000,7000,Female,NA,10500,820,30781,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2020 10:17:51,Intel,Grade 6,Software Engineer,110000,Portland, OR,4,4,Networking,99000,4000,7000,Male,Masters,10522,820,30830,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/16/2020 7:37:15,Intel,Grade 5,Software Engineer,80000,Haifa, HA, Israel,3,3,Distributed Systems (Back-End),65000,5000,10000,Male,NA,4037,0,30883,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2020 12:15:48,Intel,Grade 6,Hardware Engineer,175000,Dublin, DN, Ireland,7,6,Other I u,140000,35000,0,Male,Masters (Remote),4015,0,30998,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/17/2020 17:09:37,Intel,Grade 8,Hardware Engineer,240000,Santa Clara, CA,11,11,HPC,177000,25000,38000,Male,PhD,7434,807,31016,0,0,1,0,0,0,0,0,0,0,NA,PhD
+6/18/2020 17:20:28,Intel,Grade 7,Software Engineer,174000,Santa Clara, CA,6,6,Networking,145000,13000,16000,NA,Masters,7434,807,31092,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/19/2020 13:44:23,Intel,Grade 6,Software Engineer,137000,Hillsboro, OR,4,4,EDA,110000,9000,18000,Male,Masters,10500,820,31156,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/19/2020 19:38:56,Intel,Grade 5,Software Engineer,94000,Hillsboro, OR,5,4,Full Stack,80000,4000,10000,Male,NA,10500,820,31175,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/20/2020 0:45:26,Intel,Grade 6,Hardware Engineer,107000,Haifa, HA, Israel,3,2,Testing (SDET),81000,8000,18000,Male,NA,4037,0,31189,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/23/2020 5:20:29,Intel,Grade 8,Software Engineer,120000,Shanghai, SH, China,10,4,Android,100000,7000,13000,Male,NA,3581,0,31356,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/30/2020 22:11:01,Intel,Grade 7,Hardware Engineer,125000,Folsom, CA,9,5,Product Development,115000,10000,0,Male,Masters,7193,862,31926,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+7/4/2020 6:11:02,Intel,Grade 5,Software Engineer,129000,Santa Clara, CA,6,4,Performance,114000,15000,0,Male,Race: Two or More Races, Academic Level: Master’s degree,7434,807,32259,1,0,0,0,0,0,0,1,0,0,Two Or More,Master's Degree
+7/4/2020 13:24:29,Intel,Staff Engineer,Hardware Engineer,134000,San Jose, CA,6,6,Application Engineer,130000,4000,0,Male,Race: Asian, Academic Level: Master’s degree,7422,807,32270,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/6/2020 11:56:06,Intel,Grade 6,Hardware Engineer,125000,Austin, TX,7,5,Senior Design Verification Engineer,110000,6000,9000,Male,Race: Asian, Academic Level: Master’s degree,10965,635,32395,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/6/2020 16:17:48,Intel,Senior engineer,Hardware Engineer,141000,Chandler, AZ,3,3,Electrical,120000,10000,10000,Male,Academic Level: Doctorate (PhD),7012,753,32426,0,0,1,0,0,0,0,0,0,0,NA,PhD
+7/7/2020 0:23:27,Intel,Grade 7,Hardware Engineer,54000,Bengaluru, KA, India,6,5,CPU/SoC Architecture,47000,1000,7000,Male,Race: Asian, Academic Level: Doctorate (PhD),42498,0,32466,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+7/7/2020 11:07:09,Intel,Grade 7,Data Scientist,147000,Hillsboro, OR,1,1,Data analysis tools and productization,121000,11000,15000,Male,Race: Asian, Academic Level: Doctorate (PhD),10500,820,32527,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+7/7/2020 11:08:40,Intel,Grade 3,Hardware Engineer,85000,Sacramento, CA,2,2,Testing (SDET),85000,4000,0,Male,Bilingual: English and Japanes, Race: Black or African American, Academic Level: Bachelor’s degree,7408,862,32528,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+7/7/2020 19:37:17,Intel,Grade 7,Software Engineer,154000,Hillsboro, OR,13,4,ML / AI,128000,6000,20000,Male,Race: Asian, Academic Level: Master’s degree,10500,820,32595,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/11/2020 17:49:07,Intel,Grade 6,Hardware Engineer,120000,Folsom, CA,5,5,Product Development,103000,15000,2000,Male,Race: Asian,7193,862,32936,0,0,0,0,0,1,0,0,0,0,Asian,NA
+7/14/2020 0:22:32,Intel,Grade 6,Hardware Engineer,166000,San Jose, CA,6,3,Design Verification,140000,12000,18000,NA,NA,7422,807,33095,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/14/2020 18:55:08,Intel,Grade 6,Hardware Engineer,145000,San Jose, CA,6,6,Design Verification,120000,11000,14000,Male,Race: Asian, Academic Level: Bachelor’s degree,7422,807,33160,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/16/2020 15:42:50,Intel,Grade 9,Technical Program Manager,250000,Santa Clara, CA,18,8,SOC design,190000,20000,40000,Female,Race: Asian, Academic Level: Master’s degree,7434,807,33303,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/22/2020 15:54:48,Intel,Grade 7,Software Engineer,153000,Folsom, CA,12,11,Hardware Modeling,127000,8000,18000,Male,Race: Hispanic / Latino, Academic Level: Bachelor’s degree,7193,862,33919,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+7/23/2020 23:15:29,Intel,Grade 6,Hardware Engineer,126000,Folsom, CA,4,4,PD,100000,13000,13000,Male,Race: Asian, Academic Level: Master’s degree,7193,862,34071,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/25/2020 16:17:01,Intel,Principal Eng,Hardware Engineer,250000,Chandler, AZ,16,16,design,193000,40000,20000,NA,NA,7012,753,34213,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/26/2020 13:59:52,Intel,Grade 9,Hardware Engineer,293000,San Jose, CA,13,3,Hardware,200000,33000,60000,NA,Academic Level: Doctorate (PhD),7422,807,34302,0,0,1,0,0,0,0,0,0,0,NA,PhD
+7/27/2020 9:44:02,Intel,Grade 8,Business Analyst,198000,Portland, OR,23,21,Finance,140000,15000,43000,Male,Race: White, Academic Level: Master’s degree,10522,820,34385,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+7/27/2020 13:00:58,Intel,G9,Hardware Engineer,260000,Hillsboro, OR,9,9,Process engineer,155000,45000,60000,Male,Race: Asian, Academic Level: Doctorate (PhD),10500,820,34407,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+7/28/2020 16:07:57,Intel,Grade 7,Software Engineer,185000,Santa Clara, CA,9,9,Full Stack,145000,20000,20000,NA,NA,7434,807,34536,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/29/2020 17:02:57,Intel,Grade 7,Hardware Engineer,162000,Hillsboro, OR,12,12,Distributed Systems (Back-End),127000,14000,21000,Male,Race: Asian, Academic Level: Master’s degree,10500,820,34674,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/29/2020 19:19:11,Intel,Grade 7,Software Engineer,185000,Santa Clara, CA,9,9,Full Stack,145000,20000,20000,NA,NA,7434,807,34682,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/29/2020 22:01:14,Intel,Grade 7,Software Engineer,185000,Santa Clara, CA,9,9,Full Stack,145000,20000,20000,NA,NA,7434,807,34694,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/30/2020 14:44:24,Intel,Grade 7,Software Engineer,185000,Santa Clara, CA,9,9,Full Stack,145000,20000,20000,NA,NA,7434,807,34762,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/30/2020 15:49:55,Intel,Grade 5,Hardware Engineer,115000,Portland, OR,0,0,Validation,100000,5000,10000,Male,Race: White, Academic Level: Bachelor’s degree,10522,820,34775,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/31/2020 0:45:44,Intel,Grade 8,Hardware Engineer,201000,Folsom, CA,20,9,SoC Design,149000,24000,27000,Male,10k relocation bonus, Race: Asian, Academic Level: Doctorate (PhD),7193,862,34825,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+7/31/2020 13:19:12,Intel,Grade 11,Human Resources,360000,Portland, OR,29,25,Business HR,215000,75000,70000,Male,Race: White, Academic Level: Bachelor’s degree,10522,820,34884,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/31/2020 14:13:19,Intel,Grade 7,Software Engineer,170000,Hillsboro, OR,2,0,Networking,130000,20000,20000,Male,Race: Black or African American, Academic Level: Master’s degree,10500,820,34890,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+8/1/2020 15:56:40,Intel,Gr 7,Hardware Engineer,154000,Chandler, AZ,4,3,Test developer,128000,12000,14000,NA,NA,7012,753,34995,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/2/2020 20:54:58,Intel,Grade 6,Hardware Engineer,160000,Santa Clara, CA,3,3,Analog,135000,12000,13000,NA,NA,7434,807,35094,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/3/2020 11:04:23,Intel,Grade 7,Solution Architect,130000,Portland, OR,20,4,Distributed Systems (Back-End),100000,15000,15000,NA,Remote,10522,820,35131,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/3/2020 18:26:53,Intel,Grade 6,Marketing,150000,Santa Clara, CA,5,5,API Development (Back-End),115000,5000,35000,Female,Race: White, Academic Level: Master’s degree,7434,807,35182,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+8/4/2020 10:28:07,Intel,L7,Hardware Engineer,152000,Austin, TX,20,3,Design Automation,129000,11000,12000,NA,Academic Level: Bachelor’s degree,10965,635,35258,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+8/6/2020 17:01:17,Intel,Grade 7,Software Engineer,190000,Santa Clara, CA,20,10,ML / AI,153000,13000,23000,Female,Race: Asian, Academic Level: Master’s degree,7434,807,35585,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/7/2020 1:11:11,Intel,Grade 7,Software Engineer,174000,Austin, TX,15,6,Networking,140000,9000,25000,Male,Race: White, Academic Level: Bachelor’s degree,10965,635,35631,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/7/2020 14:18:33,Intel,8,Software Engineer,209000,Hillsboro, OR,9,2,Power Management,166000,18000,25000,Male,Academic Level: Doctorate (PhD),10500,820,35693,0,0,1,0,0,0,0,0,0,0,NA,PhD
+8/10/2020 8:43:38,Intel,Grade 8,Technical Program Manager,200000,Folsom, CA,20,4,Full Stack,158000,30000,12000,Female,Race: Asian, Academic Level: Master’s degree,7193,862,35928,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/11/2020 10:53:52,Intel,G7,Software Engineer,220000,Santa Clara, CA,4,4,Distributed Systems (Back-End),147000,28000,45000,Male,Race: White, Academic Level: Bachelor’s degree,7434,807,36068,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/11/2020 12:20:23,Intel,Grade 7,Hardware Engineer,135000,Austin, TX,7,7,SoC Design,120000,10000,5000,Male,Race: Asian, Academic Level: Master’s degree,10965,635,36090,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/11/2020 19:06:50,Intel,L5,Hardware Engineer,106000,Hudson, MA,2,2,Verification,95000,2000,8000,NA,NA,28636,506,36134,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/11/2020 19:26:53,Intel,Grade 6,Hardware Engineer,155000,Santa Clara, CA,4,4,ASIC Design,135000,8000,12000,Male,Race: Asian, Academic Level: Master’s degree,7434,807,36137,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/12/2020 15:56:00,Intel,Grade 5,Hardware Engineer,109000,Folsom, CA,6,6,Design Automation,92000,4000,13000,NA,Academic Level: Bachelor’s degree,7193,862,36254,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+8/12/2020 17:42:49,Intel,Grade 6,Hardware Engineer,139000,Santa Clara, CA,4,4,Verification,113000,15000,11000,Male,Academic Level: Master’s degree,7434,807,36266,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+8/12/2020 17:44:05,Intel,Grade 6,Hardware Engineer,139000,Santa Clara, CA,4,4,Verification,113000,15000,11000,Male,Academic Level: Master’s degree,7434,807,36268,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+8/13/2020 11:34:33,Intel,Grade 6,Software Engineer,91000,Toronto, ON, Canada,4,4,API Development (Back-End),78000,5000,8000,Male,Academic Level: Master’s degree,1206,0,36356,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+8/14/2020 10:04:46,Intel,Grade 9,Technical Program Manager,251000,Santa Clara, CA,15,15,Hardware,179000,35000,37000,Male,Race: Asian, Academic Level: Master’s degree,7434,807,36481,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/14/2020 17:45:37,Intel,Grade 8,Hardware Engineer,156000,Folsom, CA,20,14,ASIC Design,130000,16000,10000,NA,NA,7193,862,36550,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/16/2020 13:42:11,Intel,Grade 6,Hardware Engineer,130000,Hillsboro, OR,4,4,SoC Design,113000,9000,12000,NA,Academic Level: Master’s degree,10500,820,36724,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+8/17/2020 16:11:06,Intel,L9,Product Manager,255000,Chandler, AZ,20,20,Product,189000,30000,36000,Male,Race: Asian, Academic Level: Master’s degree,7012,753,36852,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/18/2020 10:40:21,Intel,Grade 5,Software Engineer,107000,Hillsboro, OR,4,2,Full Stack,89000,8000,10000,Female,Race: Asian, Academic Level: Master’s degree,10500,820,36969,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/18/2020 12:16:02,Intel,Grade 6,Hardware Engineer,121000,Folsom, CA,5,5,Verification,105000,10000,6000,Male,Race: Asian, Academic Level: Master’s degree,7193,862,36986,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/18/2020 13:51:40,Intel,L8,Hardware Engineer,210000,Boston, MA,12,5,SoC Design,150000,25000,35000,NA,NA,8816,506,37001,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/19/2020 10:59:45,Intel,Grade 7,Hardware Engineer,170000,Santa Clara, CA,10,10,ASIC Design,145000,10000,15000,NA,NA,7434,807,37142,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/19/2020 14:33:18,Intel,Grade 6,Hardware Engineer,107000,Folsom, CA,2,2,Validation,88000,8000,11000,Male,Race: Asian, Academic Level: Master’s degree,7193,862,37180,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/20/2020 17:26:40,Intel,Grade 7,Software Engineer,155000,Hillsboro, OR,13,5,ML / AI,129000,15000,10000,Male,Race: Asian, Academic Level: Master’s degree,10500,820,37358,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/21/2020 8:30:55,Intel,Grade 7,Software Engineer,155000,Albuquerque, NM,9,4,HPC,125000,12000,18000,NA,Academic Level: Doctorate (PhD),10002,790,37440,0,0,1,0,0,0,0,0,0,0,NA,PhD
+8/21/2020 21:22:31,Intel,11,Product Manager,454000,Hillsboro, OR,20,20,Product,230000,124000,100000,NA,Race: White, Academic Level: Master’s degree,10500,820,37555,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+8/23/2020 10:33:28,Intel,Grade 7,Hardware Engineer,40000,Bangalore, KA, India,6,6,SoC Design,40000,0,0,NA,NA,4058,0,37690,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/25/2020 8:35:18,Intel,8,Hardware Engineer,195000,Austin, TX,14,4,ASIC Design,150000,18000,27000,NA,NA,10965,635,37947,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/25/2020 12:09:49,Intel,L4,Data Scientist,78000,Arizona City, AZ,2,0,Data,78000,0,0,NA,NA,19705,753,37979,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/25/2020 23:26:46,Intel,Grade 8,Software Engineer,92000,Bengaluru, KA, India,20,6,Networking,65000,16000,11000,NA,NA,42498,0,38099,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/27/2020 23:39:56,Intel,L7,Software Engineer,190000,Santa Clara, CA,15,4,Full Stack,145000,16000,25000,Male,Race: Hispanic / Latino, Academic Level: Bachelor’s degree,7434,807,38429,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+8/28/2020 16:21:32,Intel,Grade 8,Hardware Engineer,180000,Hillsboro, OR,15,15,SoC Design,145000,15000,25000,Male,Academic Level: Master’s degree,10500,820,38559,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+8/28/2020 18:08:41,Intel,Grade 8,Hardware Engineer,175000,Santa Clara, CA,10,0,ASIC Design,152000,8000,15000,NA,NA,7434,807,38570,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/28/2020 19:07:50,Intel,Grade 8,Hardware Engineer,165000,Hillsboro, OR,15,15,SoC Design,132000,13000,20000,Male,Race: White, Academic Level: Master’s degree,10500,820,38574,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+8/29/2020 9:29:58,Intel,Grade 5,Hardware Engineer,15000,Bangalore, KA, India,1,1,ASIC Design,15000,0,0,NA,NA,4058,0,38632,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/29/2020 12:49:40,Intel,Grade 5,Software Engineer,96000,Haifa, HA, Israel,5,5,Distributed Systems (Back-End),78000,2000,17000,Male,Race: White, Academic Level: Bachelor’s degree,4037,0,38651,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/29/2020 13:00:00,Intel,Grade 6,Software Engineer,142000,Haifa, HA, Israel,7,0,Security,99000,4000,39000,Male,Academic Level: Bachelor’s degree,4037,0,38655,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+8/29/2020 13:00:44,Intel,Grade 8,Software Engineer,185000,Haifa, HA, Israel,15,15,Production,130000,25000,30000,NA,NA,4037,0,38657,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/29/2020 13:02:53,Intel,5,Software Engineer,120000,Haifa, HA, Israel,1,1,Data,100000,10000,10000,Male,Academic Level: Bachelor’s degree,4037,0,38658,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+8/29/2020 22:17:34,Intel,L6,Hardware Engineer,100000,Jerusalem, JM, Israel,3,3,SoC Design,75000,6000,15000,Male,Race: White, Academic Level: Bachelor’s degree,6476,0,38726,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/30/2020 0:00:48,Intel,Grade 6,Software Engineer,111000,Petach Tikva, HM, Israel,3,1,VR,91000,2000,18000,Male,Race: White, Academic Level: Some college coursework completed,42877,0,38741,0,0,0,0,1,0,1,0,0,0,White,Some College
+8/31/2020 11:04:37,Intel,Grade 6,Hardware Engineer,116000,Haifa, HA, Israel,5,2,Validation,93000,4000,23000,Male,Race: White, Academic Level: Bachelor’s degree,4037,0,38887,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/31/2020 14:13:14,Intel,Grade 5,Hardware Engineer,98000,Folsom, CA,1,1,Verification,95000,0,3000,Male,Race: Asian, Academic Level: Master’s degree,7193,862,38922,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/31/2020 15:52:26,Intel,Grade 6,Software Engineer,139000,Chandler, AZ,10,5,DevOps,104000,20000,15000,Male,Race: Hispanic / Latino, Academic Level: Master’s degree,7012,753,38930,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+8/31/2020 17:09:24,Intel,Grade 8,Hardware Engineer,220000,Santa Clara, CA,12,10,SoC Design,170000,25000,25000,NA,NA,7434,807,38946,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/1/2020 15:37:21,Intel,G6,Marketing,135000,Hillsboro, OR,8,8,Data,110000,4000,21000,NA,NA,10500,820,39061,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/2/2020 7:27:28,Intel,Staff Engineer,Software Engineer,118000,Tel Aviv, TA, Israel,5,1,Embedded,118000,0,0,Male,Race: White, Academic Level: Bachelor’s degree,15900,0,39146,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/2/2020 8:18:29,Intel,Grade 9,Marketing,270000,Hillsboro, OR,25,22,Product,220000,30000,20000,Female,Race: White, Academic Level: Master’s degree,10500,820,39157,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+9/2/2020 9:11:13,Intel,Grade 9,Software Engineer,215000,Folsom, CA,15,15,embedded,155000,35000,25000,Male,Race: White, Academic Level: Master’s degree,7193,862,39175,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+9/2/2020 10:07:43,Intel,Grade 8,Hardware Engineer,170000,Hillsboro, OR,15,15,SoC Design,135000,15000,20000,Male,validation, Race: White, Academic Level: Master’s degree,10500,820,39190,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+9/2/2020 16:10:39,Intel,Grade 6,Software Engineer,122000,Hillsboro, OR,5,5,Production,100000,8000,14000,NA,NA,10500,820,39288,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/3/2020 8:03:10,Intel,Grade 8,Software Engineer,258000,Santa Clara, CA,5,5,ML / AI,182000,40000,36000,NA,NA,7434,807,39454,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/3/2020 9:37:01,Intel,L8,Hardware Engineer,249000,San Jose, CA,21,10,Analog,190000,26000,34000,Male,Race: Asian, Academic Level: Bachelor’s degree,7422,807,39482,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+9/3/2020 10:57:40,Intel,Grade 7,Software Engineer,148000,Hillsboro, OR,4,2,Production,123000,10000,15000,NA,NA,10500,820,39506,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/4/2020 17:44:29,Intel,Grade 5,Hardware Engineer,123000,Santa Clara, CA,0,0,Validation,106000,7000,10000,Male,Academic Level: Master’s degree,7434,807,39788,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+9/4/2020 18:55:19,Intel,Grade 9,Solution Architect,285000,Santa Clara, CA,10,5,Graphics,190000,57000,38000,NA,NA,7434,807,39798,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/4/2020 23:31:54,Intel,Grade 7,Hardware Engineer,142000,Hillsboro, OR,2,0,Process Engineer,118000,8000,16000,NA,NA,10500,820,39830,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/7/2020 0:17:27,Intel,Grade 6,Hardware Engineer,126000,Hillsboro, OR,5,5,SoC Design,107000,6000,13000,Female,Race: Asian, Academic Level: Master’s degree,10500,820,40069,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/9/2020 12:27:56,Intel,Grade 6,Software Engineer,125000,Santa Clara, CA,5,4,Data,110000,10000,5000,NA,NA,7434,807,40415,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/10/2020 22:01:12,Intel,Grade 7,Hardware Engineer,140000,Hillsboro, OR,9,9,SoC Design,120000,12000,8000,Male,Race: Asian, Academic Level: Master’s degree,10500,820,40651,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/11/2020 21:04:37,Intel,7,Software Engineer,148000,Hillsboro, OR,15,7,Linux,120000,14000,15000,NA,NA,10500,820,40783,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/12/2020 12:21:58,Intel,Grade 6,Mechanical Engineer,135000,Portland, OR,5,5,Mechanical,106000,10000,19000,Male,Race: Asian, Academic Level: Master’s degree,10522,820,40857,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/13/2020 17:23:50,Intel,Grade 6,Hardware Engineer,146000,Hillsboro, OR,4,4,SoC Design,123000,10000,13000,NA,Academic Level: Master’s degree,10500,820,40984,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+9/15/2020 5:45:33,Intel,Grade 7,Hardware Engineer,179000,Phoenix, AZ,6,6,Packaging,132000,14000,33000,NA,NA,7042,753,41182,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/15/2020 15:33:32,Intel,L6,Software Engineer,131000,Folsom, CA,5,5,Production,113000,6000,12000,Male,Race: Asian, Academic Level: Master’s degree,7193,862,41242,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/15/2020 17:09:32,Intel,Grade 9,Product Manager,240000,Chandler, AZ,15,15,Product,165000,35000,40000,NA,Academic Level: Master’s degree,7012,753,41259,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+9/15/2020 17:10:02,Intel,Grade 9,Data Scientist,200000,Hillsboro, OR,9,9,Full Stack,150000,40000,10000,NA,NA,10500,820,41260,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/16/2020 11:51:36,Intel,Grade 8,Hardware Engineer,204000,San Jose, CA,10,3,SoC Design,164000,12000,28000,Male,Race: Black or African American, Academic Level: Bachelor’s degree,7422,807,41382,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+9/17/2020 9:28:26,Intel,Grade 9,Product Manager,224000,Hillsboro, OR,20,5,Technical,164000,30000,30000,Female,Race: Asian, Academic Level: Master’s degree,10500,820,41516,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/17/2020 13:36:35,Intel,Grade 5,Software Engineer,97000,Phoenix, AZ,5,5,Full Stack,87000,3000,7000,Male,Race: White, Academic Level: Bachelor’s degree,7042,753,41557,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/17/2020 17:09:54,Intel,Grade 6,Hardware Engineer,130000,Portland, OR,4,1,Analog,110000,8000,12000,Female,Race: Asian, Academic Level: Master’s degree,10522,820,41592,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/20/2020 19:41:10,Intel,Grade 9,Hardware Engineer,263000,Hillsboro, OR,25,25,SoC Design,183000,27000,53000,Male,Race: Asian,10500,820,41917,0,0,0,0,0,1,0,0,0,0,Asian,NA
+9/23/2020 12:59:25,Intel,G7,Hardware Engineer,141000,Hillsboro, OR,6,6,SoC Design,114000,12000,15000,Male,Race: Asian,10500,820,42402,0,0,0,0,0,1,0,0,0,0,Asian,NA
+9/25/2020 10:31:47,Intel,Grade 7,Recruiter,98000,Chandler, AZ,12,3,sourcer,85000,5000,8000,NA,NA,7012,753,42692,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/27/2020 9:25:16,Intel,L9,Software Engineering Manager,78000,Bangalore, KA, India,18,2,Testing (SDET),75000,3000,0,NA,NA,4058,0,42903,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/29/2020 8:19:54,Intel,Grade 8,Mechanical Engineer,195000,Hillsboro, OR,33,5,Networking,148000,23000,25000,Male,Race: American Indian or Alaska Native, Academic Level: Bachelor’s degree,10500,820,43177,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+9/29/2020 14:00:24,Intel,Gr 9,Human Resources,210000,Folsom, CA,27,27,Technical,151000,40000,20000,Male,Race: White, Academic Level: Master’s degree,7193,862,43233,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/1/2020 11:31:32,Intel,85,Marketing,300000,Portland, OR,18,18,Global Product Marketing,145000,40000,115000,Male,Race: Asian, Academic Level: Master’s degree,10522,820,43507,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/1/2020 22:31:00,Intel,Grade 9,Hardware Engineer,268000,Hillsboro, OR,13,13,ASIC Design,190000,35000,43000,Male,Title: Hardware Architect, Academic Level: Doctorate (PhD),10500,820,43597,0,0,1,0,0,0,0,0,0,0,NA,PhD
+10/2/2020 21:47:15,Intel,Grade 8,Hardware Engineer,200000,Portland, OR,6,6,SoC Design,150000,25000,25000,NA,NA,10522,820,43727,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/3/2020 11:59:38,Intel,Grade 7,Hardware Engineer,206000,Hillsboro, OR,4,4,ASIC Design,137000,36000,33000,NA,NA,10500,820,43763,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/3/2020 15:16:39,Intel,Grade 8,Technical Program Manager,225000,Portland, OR,27,23,Cybersecurity,140000,25000,60000,Male,Title: Cybersecurity Engineer, Academic Level: Master’s degree,10522,820,43776,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+10/4/2020 12:02:01,Intel,Grade 7,Software Engineer,151000,Hillsboro, OR,9,8,Graphics Drivers,121000,9000,21000,Male,Race: White, Academic Level: Master’s degree,10500,820,43841,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/4/2020 21:23:15,Intel,Grade 7,Marketing,135000,Hillsboro, OR,15,10,Technical,115000,15000,9000,Male,Race: Asian, Academic Level: Master’s degree,10500,820,43891,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/5/2020 0:02:12,Intel,Grade 6,Hardware Engineer,115000,Folsom, CA,6,6,Validation,103000,8000,4000,Male,Race: Asian, Academic Level: Master’s degree,7193,862,43904,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/5/2020 7:25:25,Intel,L6,Human Resources,89000,Haifa, HA, Israel,12,3,Growth,73000,15000,2000,Female,Academic Level: Master’s degree,4037,0,43920,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+10/5/2020 21:50:07,Intel,l6,Software Engineer,141000,Folsom, CA,11,5,Graphics Driver,122000,8000,12000,Male,SPP - 2k, Title: Graphics Software Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,44031,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/5/2020 22:24:39,Intel,10,Software Engineer,299000,Chandler, AZ,26,16,Full Stack,216000,20000,64000,NA,NA,7012,753,44036,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/6/2020 22:58:10,Intel,Grade 7,Hardware Engineer,173000,Portland, OR,9,9,SoC Design,136000,14000,25000,NA,NA,10522,820,44183,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/8/2020 23:21:20,Intel,Grade 7,Software Engineering Manager,160000,Folsom, CA,7,7,Power and Performance,125000,15000,20000,Male,Race: Asian, Academic Level: Master’s degree,7193,862,44463,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/8/2020 23:31:07,Intel,Grade 6,Hardware Engineer,110000,Portland, OR,4,4,Validation,90000,8000,12000,Male,Race: Asian, Academic Level: Master’s degree,10522,820,44464,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/9/2020 1:21:58,Intel,L5,Hardware Engineer,120000,Haifa, HA, Israel,6,6,ASIC Design,90000,10000,20000,Male,Race: White, Academic Level: Bachelor’s degree,4037,0,44479,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+10/9/2020 18:56:15,Intel,Grade 8,Mechanical Engineer,167000,Portland, OR,9,4,Technical,135000,20000,10000,Female,Title: Staff Engineer, Race: Asian, Academic Level: Master’s degree,10522,820,44595,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/11/2020 12:36:29,Intel,Grade 10,Human Resources,280000,Portland, OR,20,20,Full Stack,200000,40000,40000,Female,Race: White, Academic Level: Master’s degree,10522,820,44717,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/12/2020 16:29:31,Intel,Grade 9,Hardware Engineer,284000,Hillsboro, OR,20,15,SoC Design,183000,40000,61000,NA,Title: Soc Design Engineer,10500,820,44892,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/14/2020 21:37:00,Intel,Grade 7,Hardware Engineer,195000,Santa Clara, CA,5,5,SoC Design,145000,25000,25000,NA,NA,7434,807,45209,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/16/2020 15:16:05,Intel,Grade 10,Software Engineer,334000,Hillsboro, OR,20,2,API Development (Back-End),207000,40000,87000,Male,Title: Principal Engineer, Race: White, Academic Level: Master’s degree,10500,820,45441,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/17/2020 16:08:35,Intel,Grade 9,Technical Program Manager,230000,Hillsboro, OR,17,15,Hardware,165000,25000,40000,Male,Title: Program Manager, Race: White, Academic Level: Bachelor’s degree,10500,820,45542,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+10/17/2020 16:36:16,Intel,Grade 9,Technical Program Manager,200000,Folsom, CA,13,13,Production,145000,20000,35000,Male,NA,7193,862,45548,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/19/2020 8:53:31,Intel,Grade 5,Software Engineer,97000,Santa Clara, CA,4,4,DevOps,89000,1000,7000,Male,Title: Devops Engineer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,7434,807,45726,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+10/21/2020 12:14:50,Intel,Grade 7,Human Resources,135000,Hillsboro, OR,7,6,Analytic,110000,10000,15000,Male,Title: Compensation Specialist, Race: White, Academic Level: Master’s degree,10500,820,46004,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/22/2020 15:17:31,Intel,8,Software Engineer,172000,Portland, OR,5,5,Security,135000,18000,20000,Male,Title: Security Architect, Race: Asian, Academic Level: Doctorate (PhD),10522,820,46141,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+10/22/2020 19:44:18,Intel,Grade 7,Hardware Engineer,163000,Hillsboro, OR,8,0,Soc design,136000,8000,19000,NA,Title: Component Design, Academic Level: Master’s degree,10500,820,46161,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+10/23/2020 9:54:15,Intel,Grade 5,Recruiter,83000,Phoenix, AZ,4,1,data center,76000,7000,3000,Female,Race: Asian, Academic Level: Bachelor’s degree,7042,753,46225,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+10/23/2020 13:54:49,Intel,Grade 7,Solution Architect,170000,Folsom, CA,8,8,Testing (SDET),126000,23000,21000,NA,Title: Software Engineer,7193,862,46259,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/23/2020 16:06:34,Intel,Grade 7,Hardware Engineer,162000,Chandler, AZ,7,2,Analog,128000,12000,22000,NA,Title: Packaging Engineer, Academic Level: Doctorate (PhD),7012,753,46279,0,0,1,0,0,0,0,0,0,0,NA,PhD
+10/25/2020 14:44:27,Intel,Grade 6,Product Manager,120000,San Jose, CA,1,1,Technical,107000,8000,5000,NA,Title: Business Development Mangaer,7422,807,46470,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/27/2020 17:03:49,Intel,10,Software Engineer,340000,Boulder, CO,35,23,Full Stack,220000,40000,80000,Male,Title: Principal Engineer, Race: Hispanic / Latino, Academic Level: Master’s degree,7534,751,46742,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+10/29/2020 9:38:50,Intel,7,Hardware Engineer,41000,Bengaluru, KA, India,6,6,SoC Design,41000,0,0,Male,Title: Hardware Engineer, Race: Asian, Academic Level: Master’s degree,42498,0,46965,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/29/2020 23:05:18,Intel,Grade 9,Software Engineer,230000,Portland, OR,20,20,Embedded,150000,50000,30000,NA,Title: Fw Engineer,10522,820,47072,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/30/2020 18:47:05,Intel,10,Sales,315000,Portland, OR,10,6,Enterprise,180000,30000,100000,NA,Title: Director,10522,820,47160,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/31/2020 5:18:38,Intel,Grade 7,Hardware Engineer,164000,Hillsboro, OR,8,0,SoC Design,134000,10000,20000,Male,Title: Soc Design Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,47190,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/31/2020 16:59:35,Intel,Grade 9,Marketing,265000,Santa Clara, CA,8,3,Product,175000,40000,50000,Male,Race: White, Academic Level: Master’s degree,7434,807,47236,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/31/2020 21:04:18,Intel,Grade 7,Software Engineer,134000,Austin, TX,10,7,Security,130000,4000,0,NA,NA,10965,635,47251,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/2/2020 15:51:21,Intel,8,Software Engineer,250000,Boulder, CO,11,11,Full Stack,190000,32000,30000,NA,Title: Software Engineer,7534,751,47412,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/5/2020 9:51:25,Intel,Grade 8,Mechanical Engineer,193000,Hillsboro, OR,33,5,Enterprise,148000,20000,25000,Male,Race: American Indian or Alaska Native, Academic Level: Bachelor’s degree,10500,820,47714,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+11/6/2020 13:47:51,Intel,Grade 8,Hardware Engineer,180000,Austin, TX,7,7,Validation,139000,21000,20000,Male,Title: Hardware Engineer, Race: Two or More Races, Academic Level: Doctorate (PhD),10965,635,47833,0,0,1,0,0,0,0,1,0,0,Two Or More,PhD
+11/9/2020 13:09:14,Intel,10,Sales,310000,Seattle, WA,10,6,Enterprise,190000,102000,17000,Other,Title: Director, Race: Black or African American, Academic Level: Master’s degree,11527,819,48023,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+11/9/2020 13:31:20,Intel,Grade 9,Human Resources,218000,Hillsboro, OR,10,10,Human Resources,143000,30000,45000,Male,Race: White, Academic Level: Master’s degree,10500,820,48025,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+11/9/2020 19:01:28,Intel,Grade 8,Software Engineer,237000,Santa Clara, CA,5,5,ML / AI,175000,27000,35000,Male,Title: Research Scientist, Race: Asian, Academic Level: Doctorate (PhD),7434,807,48055,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+11/12/2020 17:37:55,Intel,Grade 8,Software Engineering Manager,234000,Hillsboro, OR,20,20,Production,178000,18000,38000,Male,Title: Software Engineering Manager, Race: Asian, Academic Level: Master’s degree,10500,820,48364,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+11/17/2020 8:44:49,Intel,Grade 6,Software Engineer,140000,Hillsboro, OR,9,9,Full Stack,114000,11000,15000,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,10500,820,48730,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+11/17/2020 13:33:40,Intel,Senior Technical Program Manager,Technical Program Manager,229000,Folsom, CA,15,15,Hardware and SW,164000,35000,30000,Male,Race: White,7193,862,48770,0,0,0,0,0,0,1,0,0,0,White,NA
+11/19/2020 19:11:08,Intel,L10,Software Engineering Manager,380000,Santa Clara, CA,20,5,Full Stack,245000,60000,75000,Male,Title: Software Manager, Race: Two or More Races, Academic Level: Master’s degree,7434,807,49038,1,0,0,0,0,0,0,1,0,0,Two Or More,Master's Degree
+11/21/2020 10:11:53,Intel,G7,Software Engineer,175000,Santa Clara, CA,13,5,Full Stack,145000,15000,15000,Male,Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,7434,807,49184,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+11/21/2020 10:36:45,Intel,Grade 6,Software Engineer,126000,Folsom, CA,3,2,OS,110000,2000,14000,NA,NA,7193,862,49185,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/22/2020 10:49:28,Intel,Grade 8,Software Engineer,172000,Hillsboro, OR,19,17,Full Stack,145000,14000,13000,Male,Title: Full-stack Software Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,49260,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+11/23/2020 9:52:10,Intel,Fellow,Product Designer,700000,Portland, OR,28,23,Product Engineer,306000,214000,180000,Male,Title: Technologist, Race: Asian, Academic Level: Master’s degree,10522,820,49332,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+11/24/2020 16:33:57,Intel,Grade 9,Hardware Engineer,255000,Hillsboro, OR,14,14,Verification,185000,30000,40000,Male,Title: Design Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,49496,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+11/25/2020 16:23:14,Intel,L6,Product Manager,160000,San Francisco, CA,1,1,Product,135000,11000,13000,Female,Race: Asian, Academic Level: Bachelor’s degree,7419,807,49602,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+11/26/2020 20:41:58,Intel,L7,Software Engineer,172000,Santa Clara, CA,10,5,Production,143000,12000,17000,Male,Race: White, Academic Level: Master’s degree,7434,807,49675,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+12/2/2020 4:22:07,Intel,Grade 8,Hardware Engineer,53000,Bangalore, KA, India,8,8,ASIC Design,38000,10000,6000,Male,Title: Graphics Hardware Engineer, Race: Asian, Academic Level: Master’s degree,4058,0,50077,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+12/3/2020 15:20:33,Intel,L3,Software Engineer,110000,Toronto, ON, Canada,3,3,User Interface,96000,4000,10000,Female,$8K relocation bonus, Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,1206,0,50240,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+12/6/2020 22:00:10,Intel,L9,Product Manager,280000,San Francisco, CA,25,5,Technical,180000,40000,60000,NA,Remote,7419,807,50468,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/8/2020 15:51:58,Intel,Grade 7,Hardware Engineer,146000,Hillsboro, OR,11,8,PDK,121000,11000,14000,Male,Title: Cad Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,50648,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+12/8/2020 20:15:14,Intel,Grade 6,Software Engineer,138000,Santa Clara, CA,5,5,Distributed Systems (Back-End),119000,9000,11000,Female,Title: Software Engineer, Academic Level: Master’s degree,7434,807,50683,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+12/8/2020 21:21:16,Intel,L7,Hardware Engineer,158000,Hillsboro, OR,8,8,Analog,125000,15000,18000,Male,Title: Analog Engineer, Race: Black or African American, Academic Level: Master’s degree,10500,820,50692,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+12/8/2020 22:18:09,Intel,L8,Hardware Engineer,220000,San Jose, CA,8,2,ASIC Design,161000,30000,29000,NA,NA,7422,807,50697,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/9/2020 16:22:28,Intel,G11,Human Resources,420000,Portland, OR,30,25,Business HR,215000,105000,100000,Male,Race: White, Academic Level: Bachelor’s degree,10522,820,50769,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+12/9/2020 23:15:48,Intel,Grade 7,Software Engineer,165000,Hillsboro, OR,2,2,Performance Analysis,132000,15000,18000,Male,Title: Software Development Engineer, Race: Asian, Academic Level: Doctorate (PhD),10500,820,50814,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+12/11/2020 0:11:47,Intel,Grade 6,Software Engineer,129000,Hillsboro, OR,2,2,Graphics,105000,17000,7000,NA,Title: Graphics Software Engineer,10500,820,50948,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/11/2020 9:11:31,Intel,L8,Hardware Engineer,191000,Hillsboro, OR,24,24,Validation,144000,16000,31000,Male,Title: Sr. Hardware Engineer, Race: White, Academic Level: Master’s degree,10500,820,50980,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+12/11/2020 23:44:39,Intel,Grade 10,Hardware Engineer,260000,Boston, MA,25,0,Verification,220000,40000,0,Male,Race: White, Academic Level: Master’s degree,8816,506,51057,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+12/12/2020 18:34:37,Intel,Grade 5,Hardware Engineer,136000,Santa Clara, CA,2,2,Verification,119000,7000,10000,Male,Title: Design Verification Engineeer, Race: Asian, Academic Level: Master’s degree,7434,807,51112,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+12/14/2020 7:58:41,Intel,Grade 10,Hardware Engineer,324000,Hillsboro, OR,25,25,System,197000,56000,71000,Male,Title: Engineering Director, Race: Two or More Races, Academic Level: Bachelor’s degree,10500,820,51203,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+12/14/2020 15:01:41,Intel,Grade 7,Technical Program Manager,167000,Santa Clara, CA,14,14,IT,129000,14000,24000,NA,NA,7434,807,51243,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/15/2020 14:56:37,Intel,Grade 9,Software Engineer,295000,Santa Clara, CA,15,1,Embedded,200000,50000,45000,Male,Title: Senior Staff Firmware, Race: Asian, Academic Level: Master’s degree,7434,807,51341,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+12/21/2020 12:18:09,Intel,Grade 3,Software Engineer,93000,Phoenix, AZ,0,0,Full Stack,81000,3000,10000,Male,Race: White, Academic Level: Bachelor’s degree,7042,753,52000,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+12/22/2020 0:07:37,Intel,Grade 7,Hardware Engineer,150000,Hillsboro, OR,7,5,Validation,121000,15000,15000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,52065,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+12/22/2020 10:21:38,Intel,84,Sales,280000,Austin, TX,15,9,Infrastructure,100000,20000,160000,NA,NA,10965,635,52102,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/22/2020 15:03:05,Intel,Grade 7,Software Engineer,121000,Folsom, CA,13,8,Production,105000,5000,6000,Male,Title: Software Application Engineer, Academic Level: Master’s degree,7193,862,52143,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/3/2021 13:26:56,Intel,Grade 5,Hardware Engineer,125000,Hillsboro, OR,1,1,Verification,101000,6000,15000,Male,Title: Soc Design Engineer, Academic Level: Master’s degree,10500,820,53002,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/4/2021 11:11:22,Intel,Grade 6,Hardware Engineer,120000,Sacramento, CA,5,5,Library design engineer,100000,11000,13000,Male,Title: Component Design Engineer, Race: Asian, Academic Level: Master’s degree,7408,862,53085,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/4/2021 11:53:18,Intel,G11,Hardware Engineer,405000,Folsom, CA,22,22,SoC Design,225000,130000,50000,NA,NA,7193,862,53090,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/4/2021 15:51:48,Intel,Grade 8,Software Engineer,190000,Hillsboro, OR,9,9,Embedded/Systems development,140000,25000,25000,NA,Title: Software Engineer,10500,820,53119,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/4/2021 19:37:32,Intel,Grade 10,Marketing,320000,Hillsboro, OR,20,20,Technical,204000,45000,70000,Male,Title: Director Of Marketing, Race: White, Academic Level: Master’s degree,10500,820,53142,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+1/5/2021 11:39:00,Intel,Grade 9,Hardware Engineer,232000,Hillsboro, OR,20,20,Validation,177000,20000,35000,NA,Academic Level: Master’s degree,10500,820,53205,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/6/2021 14:21:58,Intel,Grade 7,Hardware Engineer,173000,Santa Clara, CA,3,3,fab,143000,10000,20000,NA,NA,7434,807,53305,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/7/2021 15:16:00,Intel,Grade 9,Hardware Engineer,288000,Portland, OR,12,12,SoC Design,186000,50000,52000,Female,Title: Security Researcher, Race: Asian, Academic Level: Master’s degree,10522,820,53427,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/8/2021 14:00:27,Intel,L7,Software Engineer,207000,Santa Clara, CA,5,1,Networking,160000,28000,19000,Male,20k sign-in bonus, Title: Software Development Engineer, Race: White, Academic Level: Doctorate (PhD),7434,807,53538,0,0,1,0,0,0,1,0,0,0,White,PhD
+1/9/2021 20:32:22,Intel,Grade 8,Hardware Engineer,100000,Bengaluru, KA, India,15,5,Analog,65000,20000,15000,Male,Race: Asian,42498,0,53636,0,0,0,0,0,1,0,0,0,0,Asian,NA
+1/11/2021 17:11:17,Intel,Grade 8,Hardware Engineer,240000,Santa Clara, CA,8,8,SoC Design,178000,35000,27000,Male,Title: Senior Logic Design Engineer, Academic Level: Master’s degree,7434,807,53778,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/11/2021 21:08:48,Intel,Grade 6,Software Engineer,47000,Gdansk, PM, Poland,7,0,Networking,43000,0,4000,Male,Title: Software Engineer, Race: White, Academic Level: Master’s degree,4660,0,53798,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+1/12/2021 12:02:23,Intel,Grade 6,Hardware Engineer,180000,Hillsboro, OR,1,0,Verification,135000,35000,10000,Male,Title: Design Verification Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,53856,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/12/2021 17:58:41,Intel,Grade 6,Software Engineer,130000,Folsom, CA,5,0,Production,110000,10000,10000,Male,Title: Soc Design Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,53907,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/15/2021 4:35:56,Intel,Grade 6,Technical Program Manager,22000,Bangalore, KA, India,9,9,Web Development (Front-End),19000,1000,3000,Female,Title: Scrum Master, Race: Asian, Academic Level: Master’s degree,4058,0,54211,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/15/2021 13:13:36,Intel,G5,Hardware Engineer,120000,Rio Rancho, NM,4,4,Validation,100000,5000,14000,Female,Title: Quality And Reliability Engineer, Race: Two or More Races, Academic Level: Master’s degree,10037,790,54253,1,0,0,0,0,0,0,1,0,0,Two Or More,Master's Degree
+1/17/2021 0:12:25,Intel,Grade 7,Software Engineer,205000,Santa Clara, CA,6,6,CAD,145000,21000,39000,NA,NA,7434,807,54390,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/18/2021 13:21:34,Intel,Grade 6,Software Engineer,137000,Folsom, CA,5,5,Embedded Systems developer,113000,14000,11000,Female,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,54508,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/19/2021 12:00:29,Intel,Grade 9,Marketing,290000,Portland, OR,24,5,Communications,190000,50000,50000,NA,Academic Level: Bachelor’s degree,10522,820,54594,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+1/19/2021 12:30:30,Intel,Grade 7,Software Engineer,176000,Folsom, CA,9,7,ML / AI,137000,15000,23000,Male,Title: Deep Learning Software Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,54601,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/19/2021 22:04:04,Intel,Grade 7,Hardware Engineer,135000,Folsom, CA,8,6,Verification,111000,12000,12000,Male,Race: White, Academic Level: Master’s degree,7193,862,54693,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+1/20/2021 2:54:35,Intel,Grade 8,Software Engineer,179000,Hillsboro, OR,9,9,Firmware,137000,16000,26000,Male,Title: Bios Engineer, Race: White, Academic Level: Master’s degree,10500,820,54717,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+1/20/2021 8:25:30,Intel,Grade 6,Software Engineer,122000,Austin, TX,5,5,High Performance Computing,102000,10000,10000,Female,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10965,635,54732,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/20/2021 13:52:15,Intel,L8,Solution Architect,191000,Portland, OR,17,7,Networking,141000,22000,28000,Female,Title: Software Product Architect, Race: Asian, Academic Level: Master’s degree,10522,820,54765,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/22/2021 12:03:12,Intel,Grade 8,Software Engineer,147000,Toronto, ON, Canada,15,5,DevOps,111000,17000,20000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,1206,0,55010,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/22/2021 15:41:45,Intel,Grade 10,Technical Program Manager,281000,Hillsboro, OR,15,15,Hardware Program Management,184000,40000,56000,NA,Title: Senior Technical Program Manager, Academic Level: Master’s degree,10500,820,55047,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/22/2021 15:50:50,Intel,Grade 6,Software Engineer,135000,Folsom, CA,5,5,Operating systems,112000,13000,10000,NA,NA,7193,862,55048,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/22/2021 22:28:36,Intel,G8,Hardware Engineer,200000,Hillsboro, OR,6,6,SoC Design,150000,20000,30000,Male,Academic Level: Doctorate (PhD),10500,820,55087,0,0,1,0,0,0,0,0,0,0,NA,PhD
+1/23/2021 0:33:40,Intel,Grade 7,Hardware Engineer,160000,Portland, OR,4,4,Process,127000,14000,19000,Male,Title: Sr. Process Engineer, Race: Asian, Academic Level: Doctorate (PhD),10522,820,55102,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+1/23/2021 11:23:25,Intel,G11,Software Engineer,625000,Santa Clara, CA,27,5,Networking,280000,200000,145000,Male,Title: Senior Principal Engineer,7434,807,55147,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/23/2021 14:43:52,Intel,Grade 8,Human Resources,177000,Portland, OR,9,5,iOS,135000,25000,17000,Male,Race: White, Academic Level: Master’s degree,10522,820,55161,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+1/25/2021 15:37:48,Intel,Grade 6,Software Engineer,140000,Hillsboro, OR,8,8,Networking,112000,13000,15000,Male,Title: Software Engineer, Race: Two or More Races, Academic Level: Bachelor’s degree,10500,820,55366,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+1/26/2021 7:55:05,Intel,84,Solution Architect,115000,London, EN, United Kingdom,20,3,Sales,92000,0,23000,NA,Title: Tss,12008,0,55434,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/26/2021 11:33:53,Intel,7,Software Engineer,143000,Hillsboro, OR,11,9,DevOps,117000,11000,14000,Male,Race: White, Academic Level: Bachelor’s degree,10500,820,55469,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/26/2021 14:51:02,Intel,L9,Software Engineer,247000,Hillsboro, OR,39,20,DevOps,171000,30000,46000,Male,Remote, Title: Senior Staff Engineer, Race: White, Academic Level: Master’s degree,10500,820,55506,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+1/26/2021 18:33:48,Intel,Grade 7,Hardware Engineer,150000,Hudson, MA,10,8,Verification,121000,10000,20000,Male,Title: Design Verification Engineer, Race: Asian, Academic Level: Master’s degree,28636,506,55535,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/27/2021 11:57:54,Intel,Grade 7,Software Engineer,164000,Haifa, HA, Israel,9,8,Linux,121000,10000,33000,Male,Title: Software Engineer, Race: White, Academic Level: Master’s degree,4037,0,55612,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+1/30/2021 22:29:12,Intel,Grade 8,Hardware Engineer,170000,Hillsboro, OR,9,9,Validation,125000,21000,25000,Male,Race: Asian, Academic Level: Master’s degree,10500,820,56006,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/31/2021 1:51:50,Intel,G9,Software Engineer,280000,Santa Clara, CA,9,4,ML / AI,190000,50000,40000,NA,Title: Softwares Engineer,7434,807,56019,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/31/2021 2:01:20,Intel,Grade 3,Software Engineer,111000,Hillsboro, OR,0,0,Data,86000,5000,20000,Male,Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,10500,820,56020,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+2/1/2021 15:09:08,Intel,Grade 8,Product Manager,190000,Hillsboro, OR,20,10,Technical,140000,10000,40000,Male,Race: White, Academic Level: Master’s degree,10500,820,56180,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+2/2/2021 2:46:50,Intel,E5,Product Designer,58000,Leixlip, KE, Ireland,1,1,semiconductors,54000,0,4000,NA,Title: Pde, Academic Level: Master’s degree,18459,0,56239,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/2/2021 7:46:46,Intel,Grade 5,Data Scientist,111000,Chandler, AZ,6,4,General,95000,3000,10000,Male,Title: Operations Research Engineer, Race: Asian, Academic Level: Master’s degree,7012,753,56258,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+2/3/2021 12:18:04,Intel,Grade 7,Hardware Engineer,166000,Hillsboro, OR,4,4,Semiconductor/Fab,131000,15000,20000,Male,Title: Td Mod & Int Yld Engr, Race: Asian, Academic Level: Doctorate (PhD),10500,820,56445,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+2/3/2021 16:38:35,Intel,Grade 6,Hardware Engineer,125000,Folsom, CA,6,6,Validation,110000,10000,10000,Male,Title: Validation, Race: Asian, Academic Level: Master’s degree,7193,862,56467,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+2/3/2021 18:06:03,Intel,Grade 5,Hardware Engineer,116000,Hillsboro, OR,2,4,Embedded Systems,90000,14000,12000,Male,Title: Bios Engineer, Race: Asian, Academic Level: Bachelor’s degree,10500,820,56479,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+2/4/2021 11:17:45,Intel,Grade 6,Hardware Engineer,168000,Santa Clara, CA,5,5,Performance,136000,15000,17000,NA,Title: Cpu Software Performance Architect,7434,807,56557,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/5/2021 5:47:02,Intel,Grade 9,Hardware Engineer,222000,Austin, TX,14,13,ASIC Design,153000,29000,39000,Male,Title: Chip Design, Academic Level: Master’s degree,10965,635,56636,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/5/2021 8:52:07,Intel,Grade 8,Software Engineer,250000,Santa Clara, CA,8,8,Data,180000,35000,35000,NA,Title: Software Engineer,7434,807,56657,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/5/2021 10:16:10,Intel,Grade 6,Hardware Engineer,138000,Santa Clara, CA,4,0,ASIC Design,126000,10000,6000,NA,Title: Design Verification Engineer,7434,807,56662,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/6/2021 10:07:27,Intel,Fellow,Software Engineer,727000,Portland, OR,28,23,Full Stack,307000,220000,200000,Male,Remote, Title: Intel Fellow, Race: Asian, Academic Level: Master’s degree,10522,820,56781,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+2/6/2021 12:26:51,Intel,Grade 7,Hardware Engineer,140000,Haifa, HA, Israel,16,16,Validation,100000,14000,25000,Male,Title: Sinior Validation Eng, Race: White, Academic Level: Bachelor’s degree,4037,0,56797,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+2/8/2021 12:00:04,Intel,Grade 7,Hardware Engineer,129000,Haifa, HA, Israel,7,7,Validation,95000,14000,20000,Male,Title: Senior Validation Engineer, Race: White, Academic Level: Bachelor’s degree,4037,0,56936,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+2/9/2021 17:36:09,Intel,Grade 6,Software Engineer,152000,Hillsboro, OR,4,0,Full Stack,107000,25000,20000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,57075,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+2/9/2021 18:33:38,Intel,Grade 8,Software Engineer,196000,Hillsboro, OR,10,9,Distributed Systems (Back-End),136000,40000,20000,Female,Title: Software Engineer,10500,820,57082,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/10/2021 15:54:05,Intel,Grade 7,Software Engineer,165000,Portland, OR,3,3,ML / AI,122000,25000,18000,Male,Race: Asian, Academic Level: Doctorate (PhD),10522,820,57193,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+2/11/2021 12:01:55,Intel,Grade 7,Hardware Engineer,144000,Sacramento, CA,6,6,Validation,115000,14000,14000,Male,Title: Product Development Engineer, Race: Asian, Academic Level: Bachelor’s degree,7408,862,57309,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+2/12/2021 0:32:51,Intel,Grade 8,Hardware Engineer,200000,Hillsboro, OR,6,6,SoC Design,150000,25000,25000,NA,NA,10500,820,57391,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/12/2021 22:52:25,Intel,Grade 8,Human Resources,178000,Portland, OR,9,5,Recruiting,135000,28000,15000,NA,NA,10522,820,57483,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/15/2021 20:46:18,Intel,Grade 9,Software Engineer,281000,Santa Clara, CA,20,5,Full Stack,208000,35000,38000,Male,Title: Senior Software Architect, Race: Asian, Academic Level: Doctorate (PhD),7434,807,57766,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+2/16/2021 22:59:11,Intel,Grade 3,Human Resources,90000,Portland, OR,6,4,Talent,76000,5000,10000,Female,Academic Level: Bachelor’s degree,10522,820,57924,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+2/18/2021 17:11:47,Intel,Grade 9,Mechanical Engineer,225000,Hillsboro, OR,20,20,General,164000,26000,36000,Male,Title: System Architect, Race: White, Academic Level: Master’s degree,10500,820,58208,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+2/21/2021 10:42:49,Intel,Grade 5,Hardware Engineer,120000,Austin, TX,2,2,SoC Design,106000,4000,10000,Female,Title: Soc Design Engineer, Race: Asian, Academic Level: Master’s degree,10965,635,58525,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+2/22/2021 11:55:55,Intel,G9,Software Engineer,280000,Santa Clara, CA,20,6,System software,200000,40000,40000,NA,NA,7434,807,58634,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/25/2021 1:03:16,Intel,Grade 6,Hardware Engineer,140000,Santa Clara, CA,5,5,ASIC Design,118000,10000,12000,NA,Title: Physical Design Engineer,7434,807,59053,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/25/2021 1:32:42,Intel,Grade 8,Software Engineering Manager,187000,Jerusalem, JM, Israel,9,4,ML / AI,138000,8000,41000,NA,NA,6476,0,59054,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/25/2021 14:57:19,Intel,Grade 6,Hardware Engineer,120000,Folsom, CA,4,4,ASIC Design,105000,5000,14000,Male,Title: Verification Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,59142,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+2/25/2021 14:59:16,Intel,Grade 6,Hardware Engineer,120000,Folsom, CA,4,4,ASIC Design,105000,5000,14000,Male,Title: Verification Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,59143,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+2/25/2021 18:37:22,Intel,Staff Engineer,Data Scientist,78000,Phoenix, AZ,3,1,Optimization,78000,0,0,Male,5000 sign on bonus, Title: Operations Research Engineer, Race: Two or More Races, Academic Level: Master’s degree,7042,753,59172,1,0,0,0,0,0,0,1,0,0,Two Or More,Master's Degree
+2/25/2021 21:48:35,Intel,Grade 9,Software Engineer,290000,Santa Clara, CA,20,7,System software,200000,40000,50000,NA,Title: Engineer,7434,807,59200,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/1/2021 7:07:29,Intel,Grade 8,Hardware Engineer,64000,Bangalore, KA, India,11,3,Verification,64000,0,0,NA,Title: Verification Engineer,4058,0,59573,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/2/2021 3:54:12,Intel,Grade 7,Software Engineer,48000,Bangalore, KA, India,13,6,Networking,36000,8000,4000,Male,Title: Network Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,4058,0,59715,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+3/3/2021 6:47:24,Intel,Grade 7,Hardware Engineer,147000,Petach Tikva, HM, Israel,7,7,ASIC Design,105000,16000,26000,Male,Title: Logic Design Engineer, Race: Two or More Races, Academic Level: Bachelor’s degree,42877,0,59858,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+3/3/2021 10:33:20,Intel,Grade 6,Software Engineer,112000,Haifa, HA, Israel,4,4,Production,88000,7000,17000,NA,Title: Software Engineer,4037,0,59884,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/3/2021 14:53:55,Intel,Grade 7,Software Engineer,145000,Hillsboro, OR,13,7,Cloud, Open Source, Linux,109000,18000,18000,Male,Title: Software Development Engineer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,10500,820,59923,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+3/3/2021 17:49:53,Intel,Grade 9,Software Engineer,285000,Santa Clara, CA,11,4,ML / AI,185000,60000,40000,NA,Title: Machine Learning Engineer,7434,807,59957,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/4/2021 0:44:53,Intel,Grade 7,Hardware Engineer,160000,Hillsboro, OR,11,11,SoC Design,120000,20000,20000,Male,Title: Soc Design Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,60023,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/4/2021 11:31:03,Intel,Grade 9,Hardware Engineer,230000,Portland, OR,8,8,Validation,165000,30000,35000,Male,Title: Hardware Engineer, Race: Asian, Academic Level: Doctorate (PhD),10522,820,60083,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+3/4/2021 15:32:45,Intel,L5,Software Engineer,145000,Tel Aviv, TA, Israel,5,1,Embedded,128000,0,17000,Male,Title: Embedded Software Engineer, Race: Two or More Races, Academic Level: Bachelor’s degree,15900,0,60118,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+3/5/2021 11:18:09,Intel,Grade 8,Hardware Engineer,187000,Hillsboro, OR,7,7,SoC Design,142000,23000,22000,Male,Title: Emulation Engineer, Race: Asian, Academic Level: Doctorate (PhD),10500,820,60229,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+3/5/2021 12:16:43,Intel,Grade 9,Product Manager,230000,San Jose, CA,11,9,Product,170000,20000,40000,NA,Title: Product Manager,7422,807,60236,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/5/2021 17:39:13,Intel,Grade 6,Software Engineer,132000,Hillsboro, OR,7,7,Production,110000,12000,10000,Female,Remote, Title: Software Engineer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,10500,820,60269,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+3/5/2021 18:47:13,Intel,Grade 9,Software Engineer,290000,Santa Clara, CA,8,4,ML / AI,200000,55000,35000,NA,Title: Software Engineer,7434,807,60277,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/6/2021 13:11:52,Intel,8,Hardware Engineer,143000,Portland, OR,3,3,Verification,120000,5000,18000,Male,Race: White, Academic Level: Doctorate (PhD),10522,820,60339,0,0,1,0,0,0,1,0,0,0,White,PhD
+3/6/2021 14:33:26,Intel,Grade 10,Product Manager,300000,San Jose, CA,11,11,Technical,190000,50000,55000,Male,Title: Director Of Strategic Planning, Race: Asian, Academic Level: Master’s degree,7422,807,60342,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/6/2021 17:16:01,Intel,L7,Software Engineer,148000,Chandler, AZ,7,7,API Development (Back-End),120000,15000,13000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,7012,753,60361,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/7/2021 11:07:45,Intel,Staff Engineer,Hardware Engineer,202000,Hillsboro, OR,7,7,Process Engineer,149000,26000,25000,Male,Title: Process Engineer, Race: Asian, Academic Level: Doctorate (PhD),10500,820,60429,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+3/7/2021 11:55:29,Intel,Grade 8,Hardware Engineer,170000,Hillsboro, OR,4,4,Validation,132000,18000,21000,Male,Title: Product Development Engineer, Race: Asian, Academic Level: Doctorate (PhD),10500,820,60434,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+3/7/2021 13:50:53,Intel,Grade 8,Software Engineer,234000,Hillsboro, OR,10,10,Performance,158000,38000,38000,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,10500,820,60443,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/8/2021 15:05:08,Intel,Grade 8,Software Engineer,185000,Hillsboro, OR,3,3,Device Modeling,142000,22000,23000,NA,Title: Staff Engineer, Academic Level: Doctorate (PhD),10500,820,60600,0,0,1,0,0,0,0,0,0,0,NA,PhD
+3/8/2021 17:41:14,Intel,Grade 8,Software Engineer,202000,Folsom, CA,22,22,Embedded,150000,26000,26000,NA,Title: Firmware Engineer, Academic Level: Bachelor’s degree,7193,862,60623,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+3/9/2021 0:37:12,Intel,Grade 7,Hardware Engineer,173000,Hillsboro, OR,5,5,Yield,133000,24000,16000,Male,Title: Process Engineer, Race: Asian, Academic Level: Doctorate (PhD),10500,820,60671,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+3/9/2021 5:00:22,Intel,Grade 6,Hardware Engineer,127000,Hillsboro, OR,4,4,Validation,107000,10000,10000,Male,Title: Soc Design Engineer, Academic Level: Master’s degree,10500,820,60687,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/9/2021 16:10:26,Intel,Grade 9,Hardware Engineer,235000,Austin, TX,16,13,SoC Design,170000,30000,35000,Male,Title: Soc Design Engineer, Race: Black or African American, Academic Level: Bachelor’s degree,10965,635,60786,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+3/9/2021 17:41:38,Intel,Grade 9,Hardware Engineer,259000,Santa Clara, CA,8,8,Technology Development,181000,42000,36000,Male,Title: Senior Staff Engineer, Race: Asian, Academic Level: Doctorate (PhD),7434,807,60802,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+3/10/2021 4:47:24,Intel,Grade 9,Software Engineer,225000,Petach Tikva, HM, Israel,13,13,Security,158000,25000,42000,NA,Title: Engineer,42877,0,60880,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/10/2021 18:13:48,Intel,Grade 6,Hardware Engineer,118000,Hillsboro, OR,3,3,Operations,99000,10000,9000,Male,Title: Process Engineer, Race: Hispanic / Latino, Academic Level: Master’s degree,10500,820,60991,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+3/10/2021 22:54:02,Intel,Grade 6,Hardware Engineer,135000,Folsom, CA,4,4,ASIC Design,110000,15000,10000,Male,Title: Soc Design Engineer, Race: Black or African American, Academic Level: Master’s degree,7193,862,61036,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+3/11/2021 18:34:09,Intel,Grade 5,Software Engineer,50000,Beijing, BJ, China,2,2,Full Stack,40000,4000,3000,Male,Title: Software Engineer,3518,0,61169,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/12/2021 1:01:49,Intel,Grade 6,Software Engineer,152000,Santa Clara, CA,4,4,OS,121000,20000,11000,Female,Title: Software Development Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,61204,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/13/2021 12:55:04,Intel,Grade 9,Hardware Engineer,240000,Austin, TX,20,9,ASIC Design,165000,35000,40000,Male,Title: Asic Design Engineer, Race: White, Academic Level: Bachelor’s degree,10965,635,61402,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/13/2021 18:26:24,Intel,Grade 6,Software Engineer,125000,Denver, CO,4,4,Embedded,105000,10000,10000,Female,Title: Firmware Engineer,7548,751,61422,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/14/2021 12:48:22,Intel,Grade 8,Data Scientist,188000,Hillsboro, OR,5,5,Manufacturing,141000,26000,21000,NA,Title: Data Scientist, Race: Asian, Academic Level: Doctorate (PhD),10500,820,61479,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+3/15/2021 11:25:58,Intel,Grade 6,Hardware Engineer,44000,Bangalore, KA, India,6,3,Verification,37000,7000,0,Male,Title: Emulation Engineer, Race: Asian, Academic Level: Bachelor’s degree,4058,0,61586,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+3/15/2021 11:51:15,Intel,Grade 9,Hardware Engineer,288000,San Francisco, CA,15,15,Embedded Systems,190000,45000,53000,Male,Title: Engineering Manager, Race: Asian, Academic Level: Doctorate (PhD),7419,807,61593,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+3/15/2021 13:50:18,Intel,Grade 6,Hardware Engineer,135000,Santa Clara, CA,7,4,SoC Design,113000,12000,10000,Female,Title: Component Design Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,61612,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/15/2021 14:11:22,Intel,Grade 7,Data Scientist,174000,Hillsboro, OR,5,5,Manufacturing,130000,28000,16000,Male,Title: Data Scientist, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,10500,820,61616,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+3/15/2021 15:03:40,Intel,Grade 6,Marketing,130000,Hillsboro, OR,9,9,engineer, customer product engineer,107000,8000,12000,Male,Title: Technical Marketing Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,61626,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/15/2021 15:14:08,Intel,Grade 7,Software Engineer,173000,Santa Clara, CA,8,6,Networking,131000,26000,16000,Female,Title: Software Engineer, Academic Level: Master’s degree,7434,807,61627,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/15/2021 15:51:13,Intel,Grade 7,Software Engineer,169000,Hillsboro, OR,2,2,Research,135000,15000,19000,Male,Title: Research Scientist, Race: White, Academic Level: Doctorate (PhD),10500,820,61635,0,0,1,0,0,0,1,0,0,0,White,PhD
+3/15/2021 17:37:16,Intel,Grade 5,Software Engineer,99000,Hillsboro, OR,1,1,Production,84000,8000,8000,Male,Title: Automation Software Engineer, Race: White, Academic Level: Bachelor’s degree,10500,820,61648,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/16/2021 13:44:18,Intel,Grade 7,Software Engineer,143000,Chandler, AZ,8,5,performance,114000,16000,14000,NA,Title: Software Engineer, Academic Level: Master’s degree,7012,753,61733,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/16/2021 18:58:52,Intel,Grade 7,Hardware Engineer,146000,Hillsboro, OR,13,13,Validation,111000,12000,23000,Male,Title: Power Thermal And Performance Engineer, Race: White, Academic Level: Bachelor’s degree,10500,820,61772,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/16/2021 22:16:20,Intel,L8,Software Engineer,192000,Santa Clara, CA,8,4,Distributed Systems (Back-End),142000,27000,23000,Male,Title: Software Applications Engineer, Race: White, Academic Level: Doctorate (PhD),7434,807,61791,0,0,1,0,0,0,1,0,0,0,White,PhD
+3/17/2021 14:11:07,Intel,Grade 6,Software Engineer,143000,Chandler, AZ,2,2,Autonomous Vehicles,120000,8000,15000,Male,Title: Software Engineer, Race: White, Academic Level: Master’s degree,7012,753,61876,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+3/18/2021 12:34:36,Intel,Grade 11,Software Engineer,451000,Portland, OR,21,21,Security,251000,102000,99000,NA,Title: Principal Engineer,10522,820,62000,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/19/2021 0:57:52,Intel,Grade 8,Hardware Engineer,195000,Hillsboro, OR,12,12,Process,148000,26000,21000,Male,Title: Senior Process Engineer, Race: Asian, Academic Level: Doctorate (PhD),10500,820,62087,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+3/19/2021 5:14:47,Intel,Grade 7,Product Manager,57000,Bengaluru, KA, India,7,7,Product,35000,10000,12000,Male,Title: Product Manager Technical, Race: Two or More Races, Academic Level: Master’s degree,42498,0,62096,1,0,0,0,0,0,0,1,0,0,Two Or More,Master's Degree
+3/19/2021 12:11:45,Intel,Grade 12,Software Engineer,545000,Santa Clara, CA,25,2,Security,295000,120000,130000,NA,Title: Engineer,7434,807,62137,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/19/2021 13:50:51,Intel,G8,Hardware Engineer,231000,Santa Clara, CA,10,10,ML / AI,175000,20000,36000,NA,Title: Staff Research Scientist,7434,807,62154,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/20/2021 14:32:03,Intel,Grade 6,Hardware Engineer,135000,Santa Clara, CA,6,3,Verification,116000,5000,15000,NA,Title: Soc Design Engineer, Academic Level: Master’s degree,7434,807,62256,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/20/2021 21:19:19,Intel,Grade 9,Solution Architect,250000,Folsom, CA,25,25,Systems Engineering,175000,25000,50000,Male,Title: It Enterprise Architect, Race: Asian, Academic Level: Master’s degree,7193,862,62287,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/20/2021 21:57:04,Intel,Grade 8,Software Engineer,234000,Santa Clara, CA,2,2,ML / AI,168000,40000,26000,Male,Title: Deep Leaarning Engineer, Race: Black or African American, Academic Level: Doctorate (PhD),7434,807,62288,0,0,1,0,0,0,0,0,1,0,Black,PhD
+3/21/2021 11:13:21,Intel,Grade 8,Hardware Engineer,202000,Hillsboro, OR,14,14,Verification,155000,21000,26000,NA,Remote, Title: Soc Design Engineer,10500,820,62320,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/21/2021 18:25:16,Intel,Grade 7,Data Scientist,184000,Portland, OR,4,4,General,139000,28000,17000,NA,Title: Data Scientist, Academic Level: Doctorate (PhD),10522,820,62340,0,0,1,0,0,0,0,0,0,0,NA,PhD
+3/22/2021 12:54:46,Intel,Grade 8,Hardware Engineer,189000,Haifa, HA, Israel,9,7,Verification,118000,25000,47000,Male,Title: Verification Engineer, Race: White, Academic Level: Bachelor’s degree,4037,0,62419,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/22/2021 22:32:11,Intel,Grade 7,Hardware Engineer,166000,Santa Clara, CA,5,5,Validation,135000,15000,16000,Male,Title: Product Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,62485,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/23/2021 2:23:53,Intel,Grade 9,Technical Program Manager,96000,Bangalore, KA, India,16,5,Technical Program Manager,75000,6000,15000,NA,Title: Technical Program Manager,4058,0,62502,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/24/2021 15:23:44,Intel,Grade 7,Hardware Engineer,158000,Hillsboro, OR,5,5,SoC Design,125000,18000,15000,NA,Title: Gpu Hardware Engineer, Academic Level: Doctorate (PhD),10500,820,62734,0,0,1,0,0,0,0,0,0,0,NA,PhD
+3/24/2021 18:53:17,Intel,Grade 6,Hardware Engineer,135000,Austin, TX,2,2,ASIC Design,115000,5000,15000,Male,Title: Cad Engineer, Race: Asian, Academic Level: Master’s degree,10965,635,62767,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/24/2021 22:10:17,Intel,Grade 5,Software Engineer,118000,Austin, TX,2,2,Firmware,100000,9000,9000,Male,Title: Firmware Engineer, Academic Level: Master’s degree,10965,635,62789,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/25/2021 10:53:17,Intel,Grade 8,Software Engineer,190000,Folsom, CA,10,10,Production,144000,25000,21000,Male,Title: Component Design Engineer, Race: White, Academic Level: Bachelor’s degree,7193,862,62844,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/26/2021 3:40:30,Intel,Grade 8,Software Engineer,160000,Sacramento, CA,14,3,Networking,140000,10000,10000,Male,$10k Relocation bonus, Title: Technical Marketing Engineer, Race: Asian, Academic Level: Bachelor’s degree,7408,862,62945,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+3/26/2021 7:16:32,Intel,Grade 9,Product Designer,290000,Santa Clara, CA,25,5,Communication,200000,40000,50000,NA,Title: Design Engineer,7434,807,62958,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/26/2021 8:39:09,Intel,3,Hardware Engineer,89000,Austin, TX,1,1,Validation,78000,3000,7000,Male,Title: Validation Engineer, Race: White, Academic Level: Bachelor’s degree,10965,635,62964,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/26/2021 12:31:22,Intel,Grade 9,Hardware Engineer,245000,Santa Clara, CA,10,10,process TD,175000,30000,40000,Male,Title: Sr Staff Process Engineer, Race: Asian, Academic Level: Doctorate (PhD),7434,807,62991,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+3/26/2021 17:08:26,Intel,G6,Hardware Engineer,131000,Austin, TX,4,4,SoC Design,109000,10000,13000,NA,Title: Soc Design Engineer,10965,635,63036,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/26/2021 18:01:32,Intel,Grade 5,Data Scientist,107000,Hillsboro, OR,5,5,RET Design Engineer,91000,8000,9000,Male,Title: Data Scientist, Race: White, Academic Level: Bachelor’s degree,10500,820,63039,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/26/2021 22:17:38,Intel,L8,Hardware Engineer,180000,Austin, TX,8,8,Verification,145000,22000,13000,NA,Title: Validation Engineer,10965,635,63064,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/27/2021 9:25:25,Intel,Grade 8,Software Engineer,197000,Hillsboro, OR,4,4,Distributed Systems (Back-End),146000,28000,22000,Male,Title: Staff Software Engineer, Race: Two or More Races, Academic Level: Doctorate (PhD),10500,820,63111,0,0,1,0,0,0,0,1,0,0,Two Or More,PhD
+3/28/2021 13:23:21,Intel,Grade 8,Software Engineer,178000,Chandler, AZ,25,18,Firmware,135000,22000,21000,Male,Title: Applications Engineer, Race: White, Academic Level: Bachelor’s degree,7012,753,63219,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/29/2021 7:21:53,Intel,8,Software Engineer,200000,Folsom, CA,20,20,Distributed Systems (Back-End),160000,15000,25000,Male,Title: Senior Software Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,63295,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/29/2021 23:23:03,Intel,Grade 9,Software Engineering Manager,280000,Santa Clara, CA,17,10,ML / AI,205000,40000,35000,Male,Title: Deep Learning Sw Engineer, Race: White, Academic Level: Master’s degree,7434,807,63411,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+3/29/2021 23:54:48,Intel,L6,Hardware Engineer,168000,Santa Clara, CA,0,0,Verification,135000,16000,17000,Male,Title: Hardware Engineer,7434,807,63414,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/30/2021 7:50:23,Intel,Grade 6,Hardware Engineer,132000,Chandler, AZ,3,3,Manufacturing,103000,20000,9000,Male,Title: Packaging R&d Engineer, Race: White, Academic Level: Master’s degree,7012,753,63436,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+3/30/2021 10:58:45,Intel,Grade 6,Hardware Engineer,128000,Folsom, CA,4,4,SoC Design,108000,10000,11000,NA,Title: Soc Design Engineer,7193,862,63458,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/30/2021 17:32:05,Intel,Grade 9,Hardware Engineer,268000,Folsom, CA,23,15,Analog,185000,35000,44000,Male,Title: Analog Engineer, Academic Level: Master’s degree,7193,862,63510,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/31/2021 10:51:13,Intel,Grade 8,Software Engineer,213000,Santa Clara, CA,6,6,ML / AI,180000,5000,28000,Male,Title: Research Scientist, Race: Asian, Academic Level: Doctorate (PhD),7434,807,63589,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+3/31/2021 18:55:38,Intel,Grade 8,Software Engineer,235000,Austin, TX,10,0,ML / AI,170000,38000,28000,NA,Title: Staff Software Engineer, Academic Level: Bachelor’s degree,10965,635,63666,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+4/2/2021 11:30:10,Intel,Grade 9,Software Engineer,271000,Santa Clara, CA,20,3,Virtualization,196000,25000,50000,Female,Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,7434,807,63910,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+4/4/2021 16:50:44,Intel,Principal Eng,Hardware Engineer,360000,Santa Clara, CA,9,6,SoC Design,215000,80000,65000,NA,Title: Principal Engineer, Academic Level: Doctorate (PhD),7434,807,64177,0,0,1,0,0,0,0,0,0,0,NA,PhD
+4/4/2021 21:10:33,Intel,Grade 6,Hardware Engineer,148000,Santa Clara, CA,5,5,Validation,128000,10000,10000,Male,Title: Soc Design Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,64195,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/5/2021 11:13:47,Intel,Grade 7,Hardware Engineer,171000,Hillsboro, OR,2,2,Analog,138000,12000,21000,Male,Title: Analog Mixed Signal Design Engineer, Race: Asian, Academic Level: Doctorate (PhD),10500,820,64250,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+4/6/2021 13:48:33,Intel,Grade 6,Hardware Engineer,153000,Santa Clara, CA,5,5,Validation,128000,10000,15000,NA,Title: Soc Design Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,64424,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/6/2021 16:03:03,Intel,Grade 9,Software Engineering Manager,266000,Portland, OR,22,20,Full Stack,183000,33000,50000,Male,Title: Software Engineering Manager, Academic Level: Master’s degree,10522,820,64450,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/6/2021 18:05:48,Intel,Grade 7,Software Engineer,183000,Santa Clara, CA,13,8,Software Performance,145000,28000,10000,NA,Title: Senior Software Engineer,7434,807,64467,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/6/2021 20:39:20,Intel,Grade 8,Software Engineer,194000,Folsom, CA,21,20,Platform,149000,21000,24000,Male,Title: Software Architect, Race: Asian, Academic Level: Master’s degree,7193,862,64486,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/7/2021 11:22:13,Intel,Grade 7,Hardware Engineer,160000,Hillsboro, OR,6,6,Application Engineer,120000,15000,25000,Female,Title: Cad Engineer, Academic Level: Master’s degree,10500,820,64557,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/7/2021 21:31:48,Intel,Grade 6,Mechanical Engineer,120000,Hillsboro, OR,5,4,Analog Design and IO,105000,10000,6000,NA,Title: Analog Engineer,10500,820,64668,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/8/2021 5:37:58,Intel,Grade 7,Hardware Engineer,171000,Hillsboro, OR,2,2,Analog,138000,12000,21000,Male,Title: Analog Engineer, Race: Asian, Academic Level: Doctorate (PhD),10500,820,64706,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+4/8/2021 15:27:58,Intel,Grade 7,Software Engineer,199000,Santa Clara, CA,14,13,ML / AI,153000,25000,25000,Female,Title: Deep Learning Software Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,64815,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/8/2021 17:22:16,Intel,Grade 7,Hardware Engineer,151000,Folsom, CA,10,3,Verification,120000,17000,15000,Male,Title: Component Design Engineer, Race: Asian, Academic Level: Bachelor’s degree,7193,862,64828,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+4/9/2021 8:03:25,Intel,Grade 7,Hardware Engineer,159000,Austin, TX,9,9,ASIC Design,130000,15000,14000,Female,Title: Logic Design Engineer, Race: Asian, Academic Level: Master’s degree,10965,635,64897,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/9/2021 9:55:22,Intel,Grade 7,Hardware Engineer,160000,Hillsboro, OR,4,4,Semiconductor process,135000,10000,15000,NA,Title: Process Engineer,10500,820,64910,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/12/2021 16:36:15,Intel,Grade 7,Hardware Engineer,142000,Hillsboro, OR,8,5,SoC Design,118000,12000,10000,NA,Title: Senior Soc Design Engineer,10500,820,65350,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/13/2021 12:44:45,Intel,L6,Hardware Engineer,126000,Haifa, HA, Israel,3,2,Test,91000,12000,23000,Male,Title: Test Eng, Race: White, Academic Level: Bachelor’s degree,4037,0,65493,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/15/2021 0:57:47,Intel,Grade 7,Hardware Engineer,192000,Folsom, CA,1,1,ASIC Design,132000,50000,10000,Male,$15K relocation, Title: Graphics Hardware Engineer, Race: Asian, Academic Level: Doctorate (PhD),7193,862,65780,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+4/16/2021 9:57:25,Intel,Grade 9,Product Manager,260000,Santa Clara, CA,20,3,Product,190000,35000,35000,NA,Title: Senior Bdm,7434,807,66046,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/16/2021 22:29:53,Intel,Grade 6,Hardware Engineer,32000,Bangalore, KA, India,2,0,Verification,25000,5000,2000,Male,Title: Pre-silicon Verification Engineer, Race: Asian, Academic Level: Bachelor’s degree,4058,0,66137,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+4/16/2021 23:00:30,Intel,Grade 7,Hardware Engineer,135000,Folsom, CA,9,9,SoC Design,115000,15000,5000,NA,Title: Component Design Engineer,7193,862,66141,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/17/2021 14:56:11,Intel,Grade 10,Software Engineer,384000,Hillsboro, OR,21,19,Embedded,213000,89000,82000,Male,Title: Principal Software Engineer, Race: White, Academic Level: Master’s degree,10500,820,66201,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+4/17/2021 17:26:25,Intel,L6,Hardware Engineer,137000,Austin, TX,4,0,Validation,120000,13000,5000,Male,Remote, Title: Hardware Engineer, Race: Asian, Academic Level: Master’s degree,10965,635,66215,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/18/2021 9:43:51,Intel,Grade 7,Hardware Engineer,207000,Santa Clara, CA,17,17,Validation,155000,22000,30000,Female,Title: Hardware Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,66271,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/19/2021 22:41:47,Intel,Grade 6,Hardware Engineer,88000,Vancouver, BC, Canada,5,5,Validation,69000,12000,7000,Male,Title: Systems Engineer, Race: Asian, Academic Level: Bachelor’s degree,1320,0,66482,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+4/20/2021 23:36:22,Intel,Grade 7,Software Engineer,154000,Portland, OR,8,4,ML / AI,128000,7000,20000,NA,5% 401k, 10k relocation, Title: Data, Race: Asian, Academic Level: Master’s degree,10522,820,66643,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/21/2021 9:27:52,Intel,005,Software Engineer,121000,Hillsboro, OR,2,0,Networking,100000,11000,10000,Male,$15k joining bonus, $6.4k Relocation bonus, $33k RSU's over 3 years, Title: Network Software Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,66682,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/21/2021 18:51:50,Intel,Grade 8,Human Resources,160000,Portland, OR,10,9,Business Partner,123000,20000,15000,NA,Title: Hr,10522,820,66787,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/22/2021 10:49:13,Intel,Grade 5,Hardware Engineer,108000,Folsom, CA,1,1,Automation,95000,4000,10000,NA,Title: Graphics Hardware Engineer,7193,862,66899,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/22/2021 10:50:59,Intel,Grade 7,Hardware Engineer,205000,Santa Clara, CA,0,0,SoC Design,145000,30000,30000,Male,Relocation $10K, Bonus includes joining bonus of $10K and Quarterly/Annual performance bonus estimate of $20K, It's a return offer after internships., Title: Soc Design Engineer, Race: Asian, Academic Level: Doctorate (PhD),7434,807,66900,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+4/22/2021 16:38:19,Intel,Grade 7,Software Engineer,149000,Hillsboro, OR,8,8,Full Stack,120000,13000,16000,Female,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,66961,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/22/2021 17:39:41,Intel,Grade 6,Software Engineer,33000,Guadalajara, JA, Mexico,4,1,Security,26000,4000,3000,Male,Title: Test Content Developer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,1211,0,66976,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+4/23/2021 7:21:48,Intel,Grade 7,Software Engineer,150000,Phoenix, AZ,8,5,Performance Optimization,120000,16000,15000,NA,Title: Software Engineer,7042,753,67065,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/23/2021 21:23:09,Intel,Grade 11,Software Engineering Manager,580000,Santa Clara, CA,20,8,ML / AI,305000,155000,120000,Male,Title: Ai, Race: White, Academic Level: Bachelor’s degree,7434,807,67171,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/24/2021 18:17:54,Intel,Grade 9,Data Scientist,236000,Hillsboro, OR,8,8,General,160000,47000,30000,Male,Title: Data Scientist, Race: Asian, Academic Level: Doctorate (PhD),10500,820,67263,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+4/25/2021 17:35:03,Intel,Grade 7,Hardware Engineer,165000,Santa Clara, CA,8,8,SoC Design,135000,15000,15000,Male,Title: Digital Design Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,67352,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/27/2021 16:12:16,Intel,Grade 9,Software Engineer,255000,Portland, OR,10,10,Data,168000,47000,40000,NA,Title: Software Engineer,10522,820,67649,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/27/2021 22:27:42,Intel,7,Hardware Engineer,168000,Portland, OR,5,5,FPGA Design,125000,21000,19000,Male,Title: Senior Hardware Engineer, Race: Asian, Academic Level: Master’s degree,10522,820,67693,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/28/2021 22:41:20,Intel,Grade 6,Software Engineer,156000,Chandler, AZ,5,0,Full Stack,124000,22000,10000,NA,Title: Software Development Engineer, Academic Level: Master’s degree,7012,753,67825,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/30/2021 15:32:02,Intel,Grade 9,Product Manager,250000,Santa Clara, CA,20,20,Technical,170000,30000,50000,Male,Title: Engineering Manager, Race: Asian, Academic Level: Master’s degree,7434,807,68030,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/1/2021 8:51:27,Intel,l9,Hardware Engineer,235000,Chandler, AZ,34,34,ASIC Design,170000,15000,50000,NA,Title: Verification Engineer, Academic Level: Master’s degree,7012,753,68090,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/1/2021 12:14:23,Intel,Grade 6,Hardware Engineer,132000,Portland, OR,6,6,Validation,110000,10000,12000,Male,Title: System Validation Engineer,10522,820,68113,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/3/2021 14:53:09,Intel,Grade 6,Hardware Engineer,126000,Hillsboro, OR,3,3,Process,102000,12000,12000,Female,Title: Process Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,68296,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/3/2021 15:23:57,Intel,Grade 6,Hardware Engineer,130000,Haifa, HA, Israel,3,3,Verification,96000,10000,24000,Male,Title: Verification Engineer, Academic Level: Bachelor’s degree,4037,0,68302,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+5/4/2021 8:19:11,Intel,Grade 6,Hardware Engineer,157000,San Jose, CA,4,4,SoC Design,140000,4000,13000,Female,Title: Soc Design Engineer, Race: Asian, Academic Level: Master’s degree,7422,807,68393,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/4/2021 17:51:40,Intel,Grade 7,Software Engineering Manager,179000,Portland, OR,8,8,DevOps,135000,30000,14000,Male,Title: Software Engineering Manager, Race: White, Academic Level: Master’s degree,10522,820,68478,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+5/4/2021 22:55:51,Intel,Grade 7,Hardware Engineer,190000,Hillsboro, OR,5,5,SoC Design,134000,40000,16000,Male,Title: Soc Design Engineer,10500,820,68507,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/5/2021 2:53:10,Intel,Grade 9,Software Engineer,290000,Santa Clara, CA,13,8,ML / AI,210000,45000,35000,NA,Title: Software Architect,7434,807,68517,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/5/2021 17:53:38,Intel,Grade 8,Software Engineer,199000,Hudson, MA,5,4,Full Stack,147000,30000,22000,Male,Title: Software Engineer, Race: White, Academic Level: Doctorate (PhD),28636,506,68614,0,0,1,0,0,0,1,0,0,0,White,PhD
+5/6/2021 9:02:40,Intel,L5,Software Engineer,94000,Hillsboro, OR,3,1,Windows,83000,3000,8000,Male,Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,10500,820,68697,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+5/7/2021 8:30:10,Intel,Grade 6,Software Engineer,114000,Munich, BY, Germany,8,4,Testing (SDET),98000,8000,9000,NA,Title: Software Development Engineer,3722,0,68845,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/7/2021 19:41:33,Intel,Internship,Software Engineer,98000,Chandler, AZ,2,0,Web Development (Front-End),97000,0,1000,Female,Title: Automation Engineer, Race: Asian, Academic Level: Master’s degree,7012,753,68920,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/8/2021 0:25:57,Intel,Grade 7,Hardware Engineer,162000,Folsom, CA,10,3,Verification,120000,27000,16000,Male,Title: Pre Silicon Validation Engineer, Race: Asian, Academic Level: Bachelor’s degree,7193,862,68939,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+5/8/2021 10:39:57,Intel,Grade 8,Software Engineer,220000,Portland, OR,12,12,ML / AI,165000,30000,25000,Male,Title: Senior Software Engineer, Race: Asian, Academic Level: Doctorate (PhD),10522,820,68984,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+5/8/2021 13:08:25,Intel,Grade 9,Hardware Engineer,257000,Haifa, HA, Israel,23,23,SoC Design,170000,30000,57000,Male,Title: Senior Hardware Engineer, Academic Level: Bachelor’s degree,4037,0,68995,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+5/8/2021 15:02:05,Intel,Grade 9,Hardware Engineer,225000,Folsom, CA,15,10,Validation,157000,46000,20000,NA,Title: Component Design Engineer, Academic Level: Master’s degree,7193,862,69005,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/8/2021 17:07:01,Intel,Grade 6,Hardware Engineer,115000,Folsom, CA,3,3,Verification,98000,7000,11000,Male,Title: Verification Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,69018,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/9/2021 8:30:41,Intel,Grade 6,Hardware Engineer,136000,Hillsboro, OR,2,2,Verification,110000,11000,15000,Male,Title: Soc Design Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,69071,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/9/2021 9:56:39,Intel,Grade 8,Hardware Engineer,225000,Seattle, WA,5,5,SoC Design,155000,40000,30000,Male,Remote, Title: Research Scientist, Race: Asian, Academic Level: Doctorate (PhD),11527,819,69083,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+5/9/2021 11:02:57,Intel,Grade 7,Hardware Engineer,142000,Portland, OR,8,5,SoC Design,118000,10000,14000,Male,Title: Soc Design Engieer, Race: Asian, Academic Level: Master’s degree,10522,820,69087,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/10/2021 12:07:35,Intel,Grade 7,Software Engineer,153000,Hillsboro, OR,10,10,Full Stack,123000,14000,16000,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,10500,820,69199,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/10/2021 13:46:48,Intel,Grade 8,Hardware Engineer,235000,San Jose, CA,8,5,FPGA Design,170000,30000,35000,Male,Title: Fpga Design Engineer, Race: Asian, Academic Level: Doctorate (PhD),7422,807,69214,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+5/10/2021 17:35:04,Intel,7,Hardware Engineer,160000,Fort Collins, CO,5,5,SoC Design,124000,20000,15000,Male,Title: Soc Design Engineer, Race: White, Academic Level: Bachelor’s degree,7558,751,69262,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/11/2021 9:50:44,Intel,Grade 6,Hardware Engineer,136000,Fort Collins, CO,9,9,SoC Design,116000,9000,11000,NA,Title: Soc Design Engineer,7558,751,69370,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/11/2021 14:36:15,Intel,Grade 7,Hardware Engineer,137000,Haifa, HA, Israel,8,8,Verification,97000,18000,21000,Male,Title: Verification Engineer, Academic Level: Bachelor’s degree,4037,0,69414,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+5/12/2021 16:30:09,Intel,Grade 9,Data Scientist,239000,Hillsboro, OR,11,11,Semiconductor,163000,47000,30000,Male,Title: Data Scientist, Academic Level: Doctorate (PhD),10500,820,69609,0,0,1,0,0,0,0,0,0,0,NA,PhD
+5/13/2021 15:42:03,Intel,Grade 6,Hardware Engineer,135000,Portland, OR,5,5,Validation,113000,12000,11000,Male,Title: System Validation Engineer, Race: Hispanic / Latino, Academic Level: Master’s degree,10522,820,69734,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+5/13/2021 16:44:42,Intel,Grade 9,Hardware Engineer,206000,Hillsboro, OR,9,9,Other,153000,26000,28000,Male,Title: Product Engineer, Race: Asian, Academic Level: Doctorate (PhD),10500,820,69747,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+5/13/2021 19:48:11,Intel,Grade 6,Software Engineer,139000,Hillsboro, OR,7,5,System Engineering,114000,13000,13000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,69765,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/14/2021 4:25:21,Intel,Grade 6,Hardware Engineer,118000,Jerusalem, JM, Israel,3,3,Analog,88000,9000,21000,Male,Title: Analog Design Engineer, Race: Two or More Races, Academic Level: Bachelor’s degree,6476,0,69807,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+5/14/2021 14:11:44,Intel,Grade 6,Software Engineer,137000,Santa Clara, CA,2,2,Graphics IAGS,120000,6000,11000,Female,Title: Graphics Software Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,69874,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/14/2021 14:26:32,Intel,Grade 12,Hardware Engineer,747000,Santa Clara, CA,30,4,Security,340000,207000,200000,Male,Title: Fellow, Academic Level: Bachelor’s degree,7434,807,69876,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+5/16/2021 11:07:05,Intel,Grade 5,Hardware Engineer,20000,Bangalore, KA, India,1,1,Verification,17000,1000,2000,Male,Title: Design Verification Engineer, Race: Asian, Academic Level: Master’s degree,4058,0,70042,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/17/2021 7:58:59,Intel,Grade 7,Hardware Engineer,157000,Hudson, MA,9,9,Verification,126000,16000,15000,Male,Title: Design Verification Engineer, Race: Asian, Academic Level: Master’s degree,28636,506,70133,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/17/2021 11:26:10,Intel,Grade 5,Marketing,90000,Folsom, CA,3,3,SSDs,82000,2000,4000,NA,Title: Product Marketing Engineer,7193,862,70163,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/20/2021 9:10:53,Intel,Grade 7,Hardware Engineer,161000,Austin, TX,9,9,Verification,128000,13000,20000,NA,Title: Design Verification Engineer,10965,635,70408,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/21/2021 9:35:21,Intel,Grade 9,Hardware Engineer,224000,Portland, OR,20,20,SoC Design,162000,30000,30000,NA,Title: Product Development Engineer,10522,820,70486,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/21/2021 9:44:03,Intel,Grade 8,Hardware Engineer,210000,Folsom, CA,10,0,Networking,160000,20000,30000,Male,Title: Verification, Race: Asian, Academic Level: Master’s degree,7193,862,70488,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/21/2021 16:01:24,Intel,Grade 5,Hardware Engineer,100000,Phoenix, AZ,1,1,SoC Design,90000,5000,8000,Male,Title: Hardware Engineer, Race: Asian, Academic Level: Master’s degree,7042,753,70558,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/22/2021 7:34:18,Intel,Grade 8,Hardware Engineer,180000,Folsom, CA,10,9,ASIC Design,135000,20000,25000,NA,Title: Graphics Hardware Engineer, Academic Level: Master’s degree,7193,862,70644,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/24/2021 5:42:38,Intel,Grade 6,Hardware Engineer,115000,Folsom, CA,3,3,Analog,103000,3000,10000,Male,Title: Component Design Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,70854,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/24/2021 16:53:24,Intel,Grade 7,Hardware Engineer,165000,Folsom, CA,10,10,ASIC Design,133000,15000,20000,Male,Title: Verification Engineer, Academic Level: Master’s degree,7193,862,70940,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/26/2021 10:55:08,Intel,Grade 8,Data Scientist,118000,Bangalore, KA, India,9,0,AI,81000,30000,7000,NA,Title: Ai,4058,0,71174,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/27/2021 16:13:23,Intel,Grade 8,Software Engineer,270000,Santa Clara, CA,15,8,Production,186000,40000,44000,Male,Title: Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,71361,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/29/2021 18:25:43,Intel,Grade 5,Hardware Engineer,101000,Phoenix, AZ,2,2,SoC Design,90000,4000,8000,NA,Title: Hardware Engineer,7042,753,71635,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/1/2021 8:08:18,Intel,Grade 8,Software Engineer,169000,Toronto, ON, Canada,15,5,API Development (Back-End),121000,21000,27000,NA,Title: Principal Software Engineer, Academic Level: Master’s degree,1206,0,71867,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/1/2021 15:44:34,Intel,Grade 3,Software Engineer,107000,Santa Clara, CA,0,0,Testing (SDET),92000,5000,10000,NA,Title: Cpu Validation Engineer, Academic Level: Bachelor’s degree,7434,807,71939,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+6/3/2021 2:54:38,Intel,L8,Hardware Engineer,202000,Portland, OR,7,7,Fab Engineer,149000,27000,26000,Male,Title: Process Td Engineer, Race: Asian, Academic Level: Doctorate (PhD),10522,820,72144,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+6/3/2021 19:15:29,Intel,Grade 8,Product Manager,200000,Beaverton, OR,11,11,Product,153000,26000,26000,NA,Title: Process Engineer,10485,820,72295,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/4/2021 10:51:43,Intel,Grade 5,Hardware Engineer,23000,Bangalore, KA, India,4,1,Verification,19000,3000,1000,Female,Title: Design Verification Engineer, Race: Asian, Academic Level: Bachelor’s degree,4058,0,72379,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/7/2021 16:28:37,Intel,Senior Staff Eng,Software Engineer,395000,Santa Clara, CA,7,5,ML / AI,200000,150000,45000,Male,Title: Deep Learning Software Engineer, Race: Hispanic / Latino, Academic Level: Doctorate (PhD),7434,807,72798,0,0,1,0,0,0,0,0,0,1,Hispanic,PhD
+6/8/2021 13:03:42,Intel,Grade 5,Hardware Engineer,69000,Leixlip, KE, Ireland,5,1,FPGA Design,60000,3000,6000,Male,Title: Emulation Engineer, Academic Level: Master’s degree,18459,0,72937,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/8/2021 22:34:58,Intel,Grade 8,Hardware Engineer,171000,Folsom, CA,20,20,PAE,131000,21000,19000,NA,Title: Platform Application Engineer, Academic Level: Bachelor’s degree,7193,862,73053,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+6/9/2021 0:16:23,Intel,Grade 8,Hardware Engineer,100000,Bangalore, KA, India,17,3,ASIC Design,69000,19000,14000,Female,Retirals, etc, Title: Graphics Hardware Engineer, Race: Asian, Academic Level: Master’s degree,4058,0,73065,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/9/2021 10:38:13,Intel,Grade 9,Hardware Engineer,295000,Santa Clara, CA,15,5,ASIC Design,195000,50000,50000,NA,Title: Hardware Engineer,7434,807,73119,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/10/2021 6:07:35,Intel,Grade 6,Hardware Engineer,136000,Austin, TX,5,5,SoC Design,111000,12000,14000,Male,Title: Soc Design Engineer, Race: Asian, Academic Level: Master’s degree,10965,635,73259,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/10/2021 10:50:10,Intel,Grade 8,Software Engineer,158000,Portland, OR,11,7,OS,135000,8000,15000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10522,820,73281,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/10/2021 21:34:05,Intel,Grade 8,Hardware Engineer,173000,Portland, OR,13,13,Validation,132000,18000,23000,NA,Title: Emulation Engineer,10522,820,73398,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/11/2021 5:04:44,Intel,Grade 9,Hardware Engineer,280000,Haifa, HA, Israel,20,15,SoC Design,185000,38000,57000,NA,Title: Senior Member, Technical Staff, Academic Level: Bachelor’s degree,4037,0,73419,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+6/11/2021 15:33:21,Intel,Grade 5,Software Engineer,160000,Santa Clara, CA,4,0,API Development (Back-End),120000,28000,11000,Male,$10K sign on bonus, Title: Software Engineer, Race: Black or African American, Academic Level: Master’s degree,7434,807,73501,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+6/11/2021 23:14:15,Intel,Grade 8,Software Engineer,65000,Moscow, MC, Russia,7,0,Full Stack,50000,7000,8000,Male,Remote, Title: Software Development Engeneer, Race: White, Academic Level: Master’s degree,1384,0,73539,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+6/13/2021 8:41:18,Intel,Grade 6,Hardware Engineer,140000,Boston, MA,9,5,Analog,114000,14000,12000,Male,Title: Analog Engineer, Race: Asian, Academic Level: Master’s degree,8816,506,73652,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/14/2021 16:20:58,Intel,8,Software Engineer,159000,Portland, OR,11,7,OS,135000,8000,16000,Male,Title: Software Engg, Race: Asian, Academic Level: Master’s degree,10522,820,73812,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/14/2021 22:43:37,Intel,Grade 5,Hardware Engineer,113000,Portland, OR,3,3,SoC Design,98000,2000,13000,NA,Title: Soc Design Engineer,10522,820,73866,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2021 1:14:37,Intel,Grade 7,Software Engineer,149000,Chandler, AZ,11,11,Firmware,121000,13000,15000,Male,Title: Software Engineer, Race: Hispanic / Latino, Academic Level: Master’s degree,7012,753,73879,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+6/15/2021 7:41:18,Intel,Grade 8,Software Engineer,196000,Folsom, CA,8,8,Semiconductor,150000,24000,22000,NA,Title: Staff Engineer,7193,862,73896,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/16/2021 9:56:36,Intel,Grade 10,Technical Program Manager,320000,Hudson, MA,38,25,Cloud,220000,40000,60000,Male,Title: Systems Engineer, Race: White, Academic Level: Bachelor’s degree,28636,506,74094,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+6/17/2021 22:19:28,Intel,Grade 7,Hardware Engineer,165000,San Jose, CA,7,7,Validation,135000,20000,10000,Male,Title: Product Development Engineer, Race: Asian, Academic Level: Master’s degree,7422,807,74345,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/19/2021 6:06:58,Intel,Grade 7,Hardware Engineer,160000,Phoenix, AZ,6,6,Packaging,125000,20000,15000,NA,Title: Packaging R&d Engineer,7042,753,74498,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/20/2021 18:25:32,Intel,Grade 3,Software Engineer,98000,Portland, OR,2,2,Full Stack,84000,6000,8000,NA,Title: Software Engineer,10522,820,74627,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/20/2021 18:33:05,Intel,Grade 7,Hardware Engineer,180000,Santa Clara, CA,8,8,ML / AI,150000,5000,25000,Male,Title: Silicon Architecture Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,74629,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/20/2021 19:16:34,Intel,L7,Technical Program Manager,150000,Chandler, AZ,8,8,General,122000,13000,15000,Male,Title: Supplier Lead, Race: White, Academic Level: Doctorate (PhD),7012,753,74640,0,0,1,0,0,0,1,0,0,0,White,PhD
+6/22/2021 8:16:30,Intel,Grade 6,Data Scientist,130000,Portland, OR,4,4,General,107000,18000,6000,NA,Title: Data Scientist,10522,820,74847,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/22/2021 20:28:32,Intel,Grade 7,Hardware Engineer,144000,Sacramento, PA,6,6,Validation,115000,14000,14000,Male,Title: Test Engineer, Race: Asian, Academic Level: Bachelor’s degree,36738,577,74966,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/22/2021 23:48:37,Intel,G8,Hardware Engineer,240000,San Jose, CA,8,5,FPGA Design,170000,35000,35000,Male,Title: Fpga Design Engineer, Race: Asian, Academic Level: Doctorate (PhD),7422,807,74985,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+6/23/2021 17:52:17,Intel,Grade 8,Software Engineer,260000,Santa Clara, CA,3,0,Distributed Systems (Back-End),175000,50000,35000,Male,Title: Cloud Software Services Engineer, Race: Asian, Academic Level: Doctorate (PhD),7434,807,75090,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+6/23/2021 23:08:09,Intel,Grade 6,Software Engineer,154000,Santa Clara, CA,5,5,Distributed Systems (Back-End),125000,18000,10000,Female,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,75142,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/24/2021 0:55:18,Intel,Grade 5,Software Engineer,129000,Seattle, WA,0,0,Distributed Systems (Back-End),109000,10000,10000,Male,$10k sign on bonus, they can relocate as benefit 9k offered relocation, Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,11527,819,75152,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/24/2021 13:51:11,Intel,Grade 6,Hardware Engineer,164000,Santa Clara, CA,2,0,Validation,131000,20000,13000,Male,20k joining bonus, Title: Firmware Engineer, Academic Level: Master’s degree,7434,807,75235,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/24/2021 15:38:23,Intel,Grade 9,Software Engineering Manager,300000,Portland, OR,10,10,Data,170000,90000,40000,NA,Title: Software Engineering Manager, Academic Level: Doctorate (PhD),10522,820,75250,0,0,1,0,0,0,0,0,0,0,NA,PhD
+6/25/2021 16:39:17,Intel,Grade 3,Software Engineer,95000,Folsom, CA,4,2,Testing (SDET),85000,3000,8000,Male,Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,7193,862,75429,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/26/2021 14:03:31,Intel,Grade 8,Product Manager,190000,Petach Tikva, HM, Israel,14,4,Product,135000,20000,35000,Male,Title: Product Line Manager, Race: White, Academic Level: Master’s degree,42877,0,75532,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+6/26/2021 18:02:39,Intel,Grade 8,Software Engineer,158000,Portland, OR,11,8,OS,135000,8000,15000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10522,820,75552,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/26/2021 22:00:15,Intel,L3,Software Engineer,103000,Portland, OR,5,5,Graphics,95000,4000,4000,NA,Title: Graphics Engineer,10522,820,75563,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/26/2021 22:51:37,Intel,L5,Software Engineer,161000,San Francisco, CA,4,0,Data,120000,30000,11000,Male,Title: Software Engineer, Race: White, Academic Level: Doctorate (PhD),7419,807,75569,0,0,1,0,0,0,1,0,0,0,White,PhD
+6/28/2021 23:34:13,Intel,Grade 6,Hardware Engineer,121000,Portland, OR,4,4,Validation,101000,7000,13000,Male,Title: Systems Validation Engineer, Race: Asian, Academic Level: Master’s degree,10522,820,75813,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/29/2021 10:45:38,Intel,Grade 6,Hardware Engineer,127000,Portland, OR,5,5,Validation,102000,13000,12000,Male,Title: Product Development Engineer, Race: Asian, Academic Level: Master’s degree,10522,820,75879,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/29/2021 19:12:53,Intel,Grade 6,Hardware Engineer,142000,Santa Clara, CA,4,4,SoC Design,124000,15000,0,Female,Title: Soc Design Engineer, Academic Level: Master’s degree,7434,807,75966,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/30/2021 12:40:03,Intel,G9,Product Manager,250000,San Francisco, CA,12,10,Technical,180000,30000,40000,NA,Title: Product Manager,7419,807,76127,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/30/2021 12:47:20,Intel,L9,Product Manager,213000,Chandler, AZ,20,20,Product,160000,20000,33000,NA,Title: Product Manager,7012,753,76128,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/30/2021 15:50:19,Intel,Grade 10,Hardware Engineer,308000,Folsom, CA,22,21,SoC Design,192000,63000,53000,Male,Title: Principal Engineer, Academic Level: Master’s degree,7193,862,76176,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+7/1/2021 8:52:37,Intel,Grade 9,Hardware Engineer,226000,Portland, OR,21,20,SoC Design,165000,36000,25000,Female,Title: Platform Architect, Race: Two or More Races, Academic Level: Master’s degree,10522,820,76311,1,0,0,0,0,0,0,1,0,0,Two Or More,Master's Degree
+7/1/2021 16:43:36,Intel,Grade 8,Hardware Engineer,202000,Portland, OR,8,8,Analog,149000,30000,23000,Male,Title: Analog Engineer, Academic Level: Doctorate (PhD),10522,820,76413,0,0,1,0,0,0,0,0,0,0,NA,PhD
+7/1/2021 17:24:07,Intel,Grade 9,Technical Program Manager,339000,San Jose, CA,18,5,Technical Program Manager,171000,123000,45000,Male,35k Relocation Bonus, Title: Sr Technical Program Manager, Race: Asian, Academic Level: Master’s degree,7422,807,76420,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/1/2021 20:52:03,Intel,Grade 10,Technical Program Manager,320000,Seattle, WA,20,14,general,210000,50000,60000,NA,Title: Director,11527,819,76444,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/2/2021 19:35:53,Intel,Grade 8,Software Engineer,240000,Santa Clara, CA,5,2,Distributed Systems (Back-End),175000,40000,20000,NA,Title: Sde,7434,807,76630,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/2/2021 22:36:18,Intel,Grade 10,Technical Program Manager,415000,Santa Clara, CA,26,26,Software,235000,80000,100000,Female,Title: Director Of Technical Program Management, Race: White, Academic Level: Bachelor’s degree,7434,807,76644,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/2/2021 23:22:36,Intel,Grade 9,Hardware Engineer,257000,Portland, OR,24,24,ASIC Design,182000,30000,45000,Male,Title: Soc Design Manager, Race: Asian, Academic Level: Master’s degree,10522,820,76649,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/4/2021 2:35:25,Intel,L5,Hardware Engineer,102000,Petach Tikva, HM, Israel,4,3,Verification,80000,6000,16000,Male,Title: Verification Engineer, Race: White, Academic Level: Bachelor’s degree,42877,0,76741,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/6/2021 10:54:34,Intel,Grade 6,Software Engineer,167000,Portland, OR,5,5,API Development (Back-End),120000,35000,12000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10522,820,76958,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/6/2021 11:40:16,Intel,Grade 10,Human Resources,266000,Portland, OR,20,20,Business HR,193000,8000,65000,NA,Title: Hr Director,10522,820,76971,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/7/2021 10:55:06,Intel,Grade 6,Software Engineer,143000,Portland, OR,1,1,DevOps,110000,22000,11000,Male,Title: Design Automation Engineer, Race: Black or African American, Academic Level: Master’s degree,10522,820,77099,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+7/7/2021 13:34:54,Intel,Grade 8,Software Engineer,197000,Folsom, CA,10,10,Full Stack,142000,30000,25000,Male,Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,7193,862,77123,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/7/2021 15:08:31,Intel,Grade 6,Software Engineer,135000,Santa Clara, CA,3,3,Production,121000,3000,11000,Female,Title: Software Development Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,77132,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/7/2021 18:46:44,Intel,Grade 9,Hardware Engineer,280000,Austin, TX,16,13,SoC Design,170000,75000,35000,Male,Title: Soc Design, Race: Black or African American, Academic Level: Bachelor’s degree,10965,635,77160,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+7/8/2021 7:48:34,Intel,Grade 10,Hardware Engineer,335000,Austin, TX,23,16,SoC Design,217000,55000,63000,Male,Title: Principal Engineer, Race: Asian, Academic Level: Master’s degree,10965,635,77225,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/8/2021 9:24:50,Intel,Grade 7,Hardware Engineer,145000,Austin, TX,8,6,Verification,120000,10000,15000,Male,ESPP offered upto 10% of salary, Title: Verification Engineer, Race: Asian, Academic Level: Master’s degree,10965,635,77238,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/8/2021 11:09:53,Intel,Grade 7,Hardware Engineer,219000,Santa Clara, CA,6,0,ASIC Design,157000,38000,24000,Male,Hiring Bonus 30k, Title: Senior Logic Design Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,77256,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/8/2021 20:30:05,Intel,Grade 5,Software Engineer,137000,Santa Clara, CA,2,2,DevOps,107000,20000,10000,Male,Title: Software Engineer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,7434,807,77339,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+7/10/2021 18:54:54,Intel,Grade 7,Hardware Engineer,165000,Austin, TX,10,10,SoC Design,135000,12000,18000,Male,Title: Architect, Race: Asian, Academic Level: Master’s degree,10965,635,77588,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/10/2021 23:41:37,Intel,Grade 8,Mechanical Engineer,190000,Portland, OR,10,10,General,120000,40000,30000,Female,Title: Mechanical Engineer, Academic Level: Master’s degree,10522,820,77611,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+7/11/2021 5:29:17,Intel,Grade 8,Technical Program Manager,150000,Haifa, HA, Israel,11,3,Program Management, Product Management,130000,10000,10000,Male,Title: Program Manager Tech, Race: White, Academic Level: Master’s degree,4037,0,77625,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+7/11/2021 23:12:39,Intel,Grade 7,Data Scientist,183000,Portland, OR,0,0,RET Design,139000,17000,28000,Male,Remote, Title: Data Scientist, Race: Asian, Academic Level: Doctorate (PhD),10522,820,77707,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+7/12/2021 9:16:01,Intel,L9,Software Engineering Manager,191000,Taipei, TP, Taiwan,20,20,Client,148000,15000,28000,NA,Title: Sr Manager, Academic Level: Master’s degree,6744,0,77758,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+7/12/2021 14:16:12,Intel,Grade 5,Software Engineer,132000,Oregon, OH,2,0,Production,110000,10000,12000,NA,$15k relocation, $6.5k relocation, Title: Software Developer,17198,547,77819,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/12/2021 14:27:42,Intel,Grade 5,Software Engineer,162000,Oregon, OH,1,0,Production,110000,30000,22000,NA,Bonus Breakup ( 15k joining + 6.5k relocation), Title: Software Developer,17198,547,77823,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/13/2021 9:02:08,Intel,Grade 9,Software Engineering Manager,247000,Portland, OR,21,21,Production,162000,35000,50000,NA,Title: Information Technology Manager,10522,820,77936,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/13/2021 9:48:48,Intel,Grade 6,Software Engineer,179000,Santa Clara, CA,6,5,Production,155000,9000,15000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,77943,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/14/2021 13:17:46,Intel,Grade 6,Hardware Engineer,146000,Portland, OR,5,1,SoC Design,123000,12000,12000,Male,Title: Soc Design Engineer, Race: Asian, Academic Level: Master’s degree,10522,820,78151,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/14/2021 23:34:35,Intel,Grade 8,Hardware Engineer,266000,Santa Clara, CA,16,0,Analog,200000,26000,40000,Female,Title: Analog Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,78243,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/15/2021 0:58:49,Intel,Grade 6,Hardware Engineer,116000,Folsom, CA,4,4,Validation,103000,3000,10000,Male,Title: Emulation Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,78250,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/15/2021 13:57:39,Intel,Grade 9,Software Engineer,355000,Santa Clara, CA,9,5,DCG,200000,110000,45000,Male,Title: Software Engineer, Race: Asian, Academic Level: Doctorate (PhD),7434,807,78349,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+7/15/2021 16:58:41,Intel,Grade 11,Business Analyst,482000,Santa Clara, CA,21,21,Operations Finance,244000,114000,123000,Male,Title: Finance Director, Corporate Planning, Race: White, Academic Level: Bachelor’s degree,7434,807,78380,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/15/2021 17:37:31,Intel,Grade 11,Hardware Engineer,480000,Santa Clara, CA,25,25,SoC Design,275000,80000,125000,NA,Title: Senior Director, Academic Level: Master’s degree,7434,807,78386,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+7/16/2021 0:14:07,Intel,Grade 8,Software Engineer,222000,Haifa, HA, Israel,21,21,Formal validation s/w lead,152000,26000,45000,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,4037,0,78433,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/16/2021 8:21:35,Intel,Senior Principal Eng,Hardware Engineer,520000,San Jose, CA,25,5,SoC Design,290000,80000,150000,NA,Title: Architect,7422,807,78464,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/16/2021 11:50:17,Intel,Grade 5,Software Engineer,128000,Hillsboro, OH,2,0,Full Stack,108000,10000,10000,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,10304,515,78503,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/18/2021 21:41:17,Intel,Grade 7,Hardware Engineer,164000,Folsom, CA,10,3,Verification,120000,29000,16000,Male,Title: Asic Verification Engineer, Race: Asian, Academic Level: Bachelor’s degree,7193,862,78774,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/19/2021 1:43:10,Intel,Grade 6,Hardware Engineer,143000,Folsom, CA,2,1,Validation,120000,12000,12000,Male,Title: Product Development Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,78790,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/19/2021 14:08:05,Intel,Grade 6,Software Engineer,110000,Chandler, AZ,6,4,Full Stack,98000,3000,9000,Male,Title: Software Enginer, Race: Black or African American, Academic Level: Master’s degree,7012,753,78864,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+7/19/2021 19:08:41,Intel,Grade 8,Product Manager,209000,Portland, OR,8,8,Consumer,147000,42000,20000,Female,Title: Product Line Manager, Race: Asian, Academic Level: Master’s degree,10522,820,78899,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/20/2021 15:43:43,Intel,Grade 7,Data Scientist,152000,Portland, OR,3,2,RET,123000,14000,15000,Male,Remote, Title: Data Scientist, Race: Asian, Academic Level: Doctorate (PhD),10522,820,79055,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+7/21/2021 17:03:09,Intel,Grade 7,Data Scientist,159000,Portland, OR,3,3,RET,126000,14000,19000,Male,Title: Data Scientist, Race: Hispanic / Latino, Academic Level: Doctorate (PhD),10522,820,79253,0,0,1,0,0,0,0,0,0,1,Hispanic,PhD
+7/21/2021 21:44:15,Intel,Grade 6,Hardware Engineer,122000,Folsom, CA,5,5,SoC Design,107000,5000,10000,NA,Title: Soc Design Engineer,7193,862,79298,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/22/2021 12:15:03,Intel,G7,Software Engineer,170000,Folsom, CA,6,2,firmware,130000,16000,24000,Male,Title: Firmware Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,79411,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/23/2021 13:51:10,Intel,G8,Hardware Engineer,200000,San Jose, CA,10,10,FPGA Design,160000,20000,20000,Male,Title: Apps Engineer, Race: Asian, Academic Level: Master’s degree,7422,807,79628,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/24/2021 5:25:08,Intel,Grade 9,Technical Program Manager,110000,Bangalore, KA, India,15,3,Tech,75000,25000,10000,NA,Title: Tpm,4058,0,79714,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/25/2021 0:12:15,Intel,L7,Hardware Engineer,45000,Jerusalem, JM, Israel,10,1,Verification,30000,5000,10000,Male,Title: Pre-si Verification Engineer, Academic Level: Bachelor’s degree,6476,0,79791,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+7/25/2021 13:30:40,Intel,Grade 8,Software Engineering Manager,210000,Haifa, HA, Israel,11,11,CAD,150000,23000,37000,Male,Title: Sw Manager, Race: White, Academic Level: Master’s degree,4037,0,79839,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+7/25/2021 14:48:59,Intel,Grade 9,Technical Program Manager,235000,Phoenix, AZ,17,16,Program management,170000,30000,35000,Female,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,7042,753,79849,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/26/2021 8:33:46,Intel,Grade 9,Product Manager,270000,Santa Clara, CA,15,8,Product,200000,40000,30000,Male,Title: Planner, Race: Asian, Academic Level: Master’s degree,7434,807,79932,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/26/2021 14:48:23,Intel,Grade 6,Software Engineer,157000,Portland, OR,3,0,Production,119000,27000,11000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10522,820,79995,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/26/2021 17:00:03,Intel,Grade 12,Hardware Engineer,551000,Santa Clara, CA,30,26,SoC Design,326000,100000,125000,Male,Title: Soc Architect, Academic Level: Master’s degree,7434,807,80014,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+7/27/2021 11:02:23,Intel,Grade 6,Software Engineer,127000,Beaverton, OR,11,11,Production,104000,13000,10000,Male,Title: Software Engineer, Race: White, Academic Level: Master’s degree,10485,820,80128,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+7/27/2021 16:37:13,Intel,G8,Hardware Engineer,244000,Santa Clara, CA,20,1,SoC Design,184000,30000,30000,Male,Title: Soc Design Engineer, Race: White, Academic Level: Master’s degree,7434,807,80182,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+7/28/2021 9:10:49,Intel,G9,Hardware Engineer,292000,Portland, OR,18,11,Analog,205000,36000,51000,Male,Title: Analog Design Lead, Race: Asian, Academic Level: Master’s degree,10522,820,80294,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/29/2021 23:46:32,Intel,E7,Software Engineer,210000,Santa Clara, CA,20,2,Embedded software engineer,170000,20000,20000,NA,Title: Senior Software Engineer,7434,807,80610,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/30/2021 8:02:17,Intel,7,Technical Program Manager,160000,Santa Clara, CA,16,16,Quality and reliability,133000,9000,18000,Male,Title: Customer Quality Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,80637,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/30/2021 9:09:10,Intel,7,Hardware Engineer,90000,Taipei, TP, Taiwan,13,8,Validation,70000,10000,10000,NA,Title: Application Engineer,6744,0,80648,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/30/2021 12:24:19,Intel,Grade 8,Hardware Engineer,204000,Folsom, CA,11,11,SoC Design,160000,30000,14000,Male,Title: Soc Design Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,80687,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/31/2021 4:36:47,Intel,Grade 7,Software Engineer,48000,Gdansk, PM, Poland,10,0,DevOps,43000,3000,3000,NA,Title: Software Engineer,4660,0,80774,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/1/2021 15:45:15,Intel,Grade 6,Hardware Engineer,193000,San Jose, CA,4,0,FPGA Design,145000,33000,15000,Male,Title: Ip Design Engineer, Race: Asian, Academic Level: Master’s degree,7422,807,80893,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/2/2021 15:45:02,Intel,L6,Hardware Engineer,125000,Austin, TX,8,6,Applications Engineer,105000,10000,10000,Male,Title: Hardware Engineer, Race: Asian, Academic Level: Master’s degree,10965,635,81030,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/2/2021 18:08:08,Intel,Grade 6,Software Engineer,165000,Irvine, CA,5,0,API Development (Back-End),140000,10000,15000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,7229,803,81047,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/2/2021 18:37:53,Intel,Grade 7,Hardware Engineer,151000,Portland, OR,9,7,Validation,121000,10000,20000,Male,Title: Component Design Engineer, Academic Level: Master’s degree,10522,820,81050,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+8/2/2021 23:20:07,Intel,Grade 8,Software Engineer,185000,Portland, OR,13,7,Firmware,145000,20000,20000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10522,820,81084,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/3/2021 12:12:51,Intel,L8,Software Engineer,104000,Bangalore, KA, India,17,2,hardware,76000,15000,14000,Male,Title: Architect, Race: Asian, Academic Level: Bachelor’s degree,4058,0,81202,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/3/2021 14:16:36,Intel,Grade 5,Software Engineer,112000,Portland, OR,3,3,Full Stack,98000,4000,10000,Male,Title: Failure Analysis R&d Engineer, Race: Asian, Academic Level: Bachelor’s degree,10522,820,81231,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/3/2021 15:20:51,Intel,Grade 7,Hardware Engineer,240000,Santa Clara, CA,5,0,Validation,165000,50000,25000,Male,30000 Sign-ON bonus, Title: Product Development Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,81240,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/3/2021 15:41:47,Intel,Grade 5,Software Engineer,56000,Toronto, ON, Canada,1,1,DevOps,56000,0,0,Male,Title: Grade 5, Race: Asian, Academic Level: Bachelor’s degree,1206,0,81246,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/4/2021 0:55:20,Intel,L5,Software Engineer,74000,Taipei, TP, Taiwan,9,3,Linux Kernel,60000,8000,6000,Male,Title: Customer Engineer, Race: Asian, Academic Level: Master’s degree,6744,0,81346,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/4/2021 6:04:07,Intel,Grade 7,Hardware Engineer,90000,Hsin-chu, TP, Taiwan,6,1,SoC Design,70000,5000,15000,Male,Title: Engineer, Race: Asian, Academic Level: Master’s degree,17410,0,81403,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/4/2021 13:59:43,Intel,Grade 8,Hardware Engineer,230000,Folsom, CA,9,9,SoC Design,170000,30000,30000,NA,Title: Staff Soc Architect,7193,862,81552,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/4/2021 15:49:29,Intel,Grade 8,Software Engineer,190000,Portland, OR,7,7,OS,145000,25000,20000,NA,Title: Software Engineer,10522,820,81576,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/5/2021 19:50:37,Intel,Grade 6,Hardware Engineer,124000,Phoenix, AZ,13,3,Validation,106000,8000,10000,Male,Title: Test R&d Engineer, Race: Asian, Academic Level: Master’s degree,7042,753,81869,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/6/2021 22:14:25,Intel,Grade 7,Hardware Engineer,185000,Santa Clara, CA,3,3,Validation,140000,25000,20000,Male,Title: Device Engineer, Race: Asian, Academic Level: Doctorate (PhD),7434,807,82084,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+8/7/2021 0:35:01,Intel,Fellow,Hardware Engineer,751000,Santa Clara, CA,32,4,Security,341000,200000,210000,Male,Title: Fellow, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,7434,807,82097,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+8/8/2021 19:45:15,Intel,L5,Software Engineer,139000,Hillsboro, OR,0,0,Production,103000,13000,23000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,82280,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/8/2021 23:31:30,Intel,Grade 6,Software Engineer,132000,Folsom, CA,4,4,Full Stack,107000,15000,10000,Male,Title: Firmware Engineer, Race: Asian, Academic Level: Master’s degree,7193,862,82296,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/9/2021 12:56:30,Intel,Grade 10,Hardware Engineer,308000,Folsom, CA,22,21,Embedded Systems,192000,63000,53000,Male,Title: Principal Engineer, Academic Level: Master’s degree,7193,862,82370,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+8/9/2021 17:09:08,Intel,Grade 6,Hardware Engineer,147000,San Francisco, CA,6,6,SoC Design,128000,11000,8000,NA,Title: Soc Design Engineer,7419,807,82412,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/9/2021 18:04:21,Intel,Grade 10,Software Engineering Manager,375000,Austin, TX,33,10,Firmware,244000,55000,76000,Male,Title: Director Of Software Engineering, Race: White, Academic Level: Master’s degree,10965,635,82419,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+8/9/2021 22:39:43,Intel,Grade 8,Product Manager,163000,Hillsboro, OR,8,5,Product,123000,22000,18000,Female,Title: Product Manager, Academic Level: Master’s degree,10500,820,82472,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+8/10/2021 9:40:14,Intel,Grade 8,Hardware Engineer,200000,Hillsboro, OR,13,13,SoC Design,155000,25000,20000,Male,Title: Power Delivery Engineer, Race: Asian, Academic Level: Master’s degree,10500,820,82548,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/10/2021 10:31:38,Intel,L7,Hardware Engineer,141000,Chandler, AZ,5,0,Packaging,119000,8000,14000,Male,Title: Packaging Engineer, Race: Asian, Academic Level: Doctorate (PhD),7012,753,82561,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+8/10/2021 10:48:31,Intel,Grade 7,Hardware Engineer,234000,Santa Clarita, CA,6,0,ASIC Design,168000,43000,23000,NA,Title: Hardware Engineer,7435,803,82566,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/10/2021 16:08:35,Intel,Grade 8,Hardware Engineer,187000,Chandler, AZ,23,22,SoC Design,134000,19000,34000,Male,Title: Soc Design Engineer, Race: White, Academic Level: Bachelor’s degree,7012,753,82651,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/11/2021 9:08:50,Intel,L9,Hardware Engineer,227000,Chandler, AZ,26,26,Verification,168000,26000,34000,Male,Title: Senior Staff Test Engineer, Race: White, Academic Level: Master’s degree,7012,753,82778,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+8/12/2021 20:01:05,Intel,Grade 6,Hardware Engineer,140000,Austin, TX,6,6,ASIC Design,108000,14000,18000,Male,Title: Componenet Design Engineer, Race: Asian, Academic Level: Master’s degree,10965,635,83069,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/13/2021 19:09:49,Intel,6,Hardware Engineer,58000,Taipei, TP, Taiwan,5,0,Application engineer,45000,10000,3000,Male,Title: Hardware Engineer,6744,0,83310,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/15/2021 8:37:09,Intel,L5,Software Engineer,102000,Haifa, HA, Israel,9,7,API Development (Back-End),82000,5000,15000,Male,Title: Software Engineer, Academic Level: Bachelor’s degree,4037,0,83518,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+8/15/2021 14:21:48,Intel,Grade 7,Software Engineer,166000,Hillsboro, OH,5,5,ML / AI,142000,8000,16000,NA,Title: Deep Learning Software Engineer,10304,515,83559,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/16/2021 16:43:52,Intel,Grade 8,Hardware Engineer,215000,Portland, OR,8,8,Analog,150000,35000,30000,Male,Title: Senior Staff Scientist, Race: Asian, Academic Level: Doctorate (PhD),10522,820,83758,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+8/16/2021 21:37:11,Intel,Grade 5,Software Engineer,195000,Santa Clara, CA,1,0,ML / AI,125000,33000,37000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,7434,807,83809,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/20/2018 21:40:13,Intel,Gr8,Software Engineer,200000,San Diego, CA,18,3,Embedded,150000,18000,30000,Male,NA,7416,825,959,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/10/2018 22:53:58,Intel,Grade 5,Software Engineer,110000,Portland, OR,2,2,Distributed Systems (Back-End),93000,0,0,Male,NA,10522,820,1091,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/10/2018 10:42:59,Intel,Grade 6,Software Engineer,148000,Hillsboro, OR,8,3,DevOps,120000,10000,18000,NA,NA,10500,820,1351,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/28/2018 18:56:36,Intel,grade 6,Software Engineer,135000,Santa Clara, CA,2,2,NA,120000,7000,8000,Male,NA,7434,807,553,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/4/2018 9:14:19,Intel,Grade 6,Software Engineer,110000,Hillsboro, OR,3,3,NA,101000,3000,7000,NA,NA,10500,820,449,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/13/2018 7:26:37,Intel,Grade 8,Software Engineer,193000,Santa Clara, CA,4,1,NA,155000,8000,30000,Female,NA,7434,807,633,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/15/2018 9:02:12,Intel,7,Software Engineer,165000,Hillsboro, OR,6,6,NA,123000,25000,12000,Male,NA,10500,820,642,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/15/2018 9:26:19,Intel,10,Software Engineer,340000,Hillsboro, OR,25,16,NA,210000,75000,70000,Male,NA,10500,820,643,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/1/2018 13:37:29,Intel,G5,Software Engineer,105000,Sacramento, CA,2,2,Firmware,90000,3000,7000,Male,NA,7408,862,1039,0,0,0,0,0,0,0,0,0,0,NA,NA

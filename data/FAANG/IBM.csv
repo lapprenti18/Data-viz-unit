@@ -1,0 +1,908 @@
+timestamp,company,level,title,totalyearlycompensation,location,yearsofexperience,yearsatcompany,tag,basesalary,stockgrantvalue,bonus,gender,otherdetails,cityid,dmaid,rowNumber,Masters_Degree,Bachelors_Degree,Doctorate_Degree,Highschool,Some_College,Race_Asian,Race_White,Race_Two_Or_More,Race_Black,Race_Hispanic,Race,Education
+2/16/2018 10:49:32,IBM,7,Software Engineer,84000,Austin, TX,3,3,NA,80000,100,4000,NA,NA,10965,635,316,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/19/2018 18:34:43,IBM,6,Software Engineer,108000,San Jose, CA,0,0,NA,100000,0,8000,NA,NA,7422,807,320,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/19/2018 18:35:25,IBM,7,Software Engineer,124000,San Jose, CA,1,1,NA,124000,0,0,NA,NA,7422,807,321,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/7/2018 16:48:58,IBM,Associate Offering Manager (Band 6),Product Manager,103000,Austin, TX,0,0,ML / AI,0,0,0,Male,NA,10965,635,842,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/8/2018 18:52:17,IBM,Band 6,Software Engineer,96000,New York, NY,1,1,Web Development (Front-End),96000,0,0,Male,NA,10182,501,856,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/16/2018 2:43:34,IBM,Band 6,Software Engineer,100000,San Jose, CA,1.5,1.5,ML / AI,100000,0,0,Male,NA,7422,807,931,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/21/2018 22:11:27,IBM,6,Software Engineer,83000,Austin, TX,3,3,Web Development (Front-End),82000,0,0,Male,NA,10965,635,970,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/25/2018 13:45:04,IBM,Band 8,Software Engineer,110000,Austin, TX,8,3,Web Development (Front-End),108000,0,2000,NA,NA,10965,635,985,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/5/2018 13:25:37,IBM,STSM,Software Engineer,225000,New York, NY,21,21,NA,210000,10000,5000,Male,NA,10182,501,1061,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/8/2018 22:14:26,IBM,8,Software Engineer,167000,San Jose, CA,10,1,Distributed Systems (Back-End),162000,0,5000,Male,NA,7422,807,1082,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/25/2018 12:32:36,IBM,Band 8,Software Engineer,125000,Austin, TX,6,3,Web Development (Front-End),125000,0,1000000,Male,.8 (80%) PMR Ratio,10965,635,1201,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/26/2018 10:12:26,IBM,7,Software Engineer,106000,Austin, TX,3,3,Web Development (Front-End),0,0,0,Male,NA,10965,635,1205,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/7/2018 13:15:56,IBM,8,Software Engineer,165000,San Jose, CA,4,3,Full Stack,0,0,0,NA,NA,7422,807,1290,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/9/2018 14:41:26,IBM,7,Software Engineer,80000,Costa Mesa, CA,3,3,Networking,0,0,0,NA,NA,7153,803,1330,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/11/2018 7:23:03,IBM,L7,Software Engineer,104000,New York, NY,3,3,API Development (Back-End),0,0,0,NA,NA,10182,501,1365,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/25/2018 1:58:22,IBM,8,Software Engineer,220000,San Jose, CA,10,1,Full Stack,205000,0,15000,NA,NA,7422,807,1676,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/29/2018 14:02:27,IBM,Band 7,Software Engineer,130000,New York, NY,2,4,Full Stack,130000,0,0,NA,NA,10182,501,1743,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/29/2018 14:04:37,IBM,Band 7,Software Engineer,130000,New York, NY,4,2,Full Stack,130000,0,0,NA,NA,10182,501,1744,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/1/2018 21:58:11,IBM,7,Software Engineer,141000,San Jose, CA,2,0,DevOps,130000,0,11000,NA,NA,7422,807,1795,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/6/2018 22:48:45,IBM,7,Software Engineer,100000,Tel Aviv, TA, Israel,3,4.5,Distributed Systems (Back-End),0,0,0,NA,NA,15900,0,1893,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/10/2018 9:13:54,IBM,3,Product Designer,90000,San Francisco, CA,2,1,ux,90000,0,0,NA,NA,7419,807,1987,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/16/2018 10:35:55,IBM,10,Solution Architect,295000,Boston, MA,25,25,Full Stack,195000,25000,75000,NA,NA,8816,506,2091,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/25/2018 8:50:37,IBM,7,Product Manager,140000,San Francisco, CA,5,1,ML / AI,0,0,0,NA,NA,7419,807,2269,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/26/2018 18:30:33,IBM,Senior,Product Designer,125000,Shanghai, SH, China,12,4.5,UX + Visual + Research,0,0,0,NA,NA,3581,0,2317,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/28/2018 12:05:12,IBM,Associate Engineer,Software Engineer,76000,Austin, TX,2,2,API Development (Back-End),0,0,0,NA,NA,10965,635,2432,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/28/2018 12:06:29,IBM,Staff Engineer,Software Engineer,101000,Austin, TX,3,3,Full Stack,0,0,0,NA,NA,10965,635,2433,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/30/2018 18:35:11,IBM,9,Software Engineer,140000,Raleigh, NC,20,20,Testing (SDET),135000,0,5000,NA,NA,1317,560,2575,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/9/2018 16:32:48,IBM,7,Software Engineer,125000,San Jose, CA,0,0,API Development (Back-End),0,0,0,NA,NA,7422,807,2808,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/11/2018 12:43:19,IBM,Mid,Product Designer,110000,Austin, TX,3,3,Desktop and Mobile,0,0,0,NA,NA,10965,635,2850,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/18/2018 11:49:27,IBM,Band 9,Product Manager,157000,Dallas, TX,14,14,Cloud,0,0,0,NA,NA,11039,623,3000,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/24/2018 13:27:58,IBM,6,Software Engineer,89000,Poughkeepsie, NY,2,2,Testing (SDET),0,0,0,NA,NA,10206,501,3110,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/27/2018 12:49:19,IBM,7,Data Scientist,137000,San Jose, CA,2,1,ML / AI,135000,0,2000,NA,NA,7422,807,3163,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/31/2018 18:09:57,IBM,8,Software Engineering Manager,22000,Islamabad, IS, Pakistan,10,8,Full Stack,20000,0,2000,NA,NA,6600,0,3306,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/31/2018 18:32:15,IBM,STSM,Software Engineer,250000,New York, NY,35,25,ML / AI,0,0,0,NA,NA,10182,501,3323,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/1/2018 4:51:05,IBM,8,Software Engineer,113000,Toronto, ON, Canada,6,3,Systems Software Development,113000,0,1000,NA,Salary in CAD!,1206,0,3512,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/1/2018 11:05:50,IBM,Staff Engineer,Software Engineer,103000,Markham, ON, Canada,5,5,Full Stack,101000,0,2000,NA,NA,3468,0,3550,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/2/2018 9:16:04,IBM,7,Software Engineer,102000,Austin, TX,5,3,API Development (Back-End),102000,0,0,NA,NA,10965,635,3609,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/9/2018 18:54:54,IBM,7,Product Designer,125000,San Francisco, CA,2,2,Web Development (Front-End),0,0,0,NA,NA,7419,807,3809,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/11/2018 17:32:47,IBM,9,Software Engineer,300000,Cambridge, MA,10,10,Full Stack,0,0,0,Male,NA,8821,506,3856,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/12/2018 12:48:07,IBM,Senior Engineer,Software Engineer,157000,Austin, TX,6,6,API Development (Back-End),157000,0,0,Male,NA,10965,635,3862,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/15/2018 13:13:15,IBM,Band 8 backend engineer,Software Engineer,135000,Austin, TX,3,3,Distributed Systems (Back-End),130000,0,2000,Male,NA,10965,635,3932,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/19/2018 7:38:58,IBM,7,Software Engineer,105000,Yorktown Heights, NY,0,0,API Development (Back-End),105000,0,10000,NA,NA,41596,501,4003,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/20/2018 14:33:47,IBM,Advisory Engineer,Software Engineer,120000,Austin, TX,4,4,Web Development (Front-End),0,0,0,NA,NA,10965,635,4022,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/3/2018 17:58:31,IBM,6,Software Engineer,93000,Cambridge, MA,0,0,ML / AI,93000,2000,0,Female,7800 sign on bonus,8821,506,4214,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/4/2018 20:49:29,IBM,Advisory,Software Engineer,153000,San Jose, CA,6,3,API Development (Back-End),153000,0,0,Male,NA,7422,807,4238,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/19/2018 10:00:39,IBM,L9,Software Engineer,180000,Austin, TX,25,0,DevOps,180000,0,0,Male,NA,10965,635,4507,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/22/2018 11:28:03,IBM,Band 9,Product Designer,190000,San Jose, CA,10,5,ML / AI,0,0,0,Male,NA,7422,807,4592,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/26/2018 14:40:23,IBM,Band 9,Software Engineer,175000,Boston, MA,10,3,Web Development (Front-End),173000,0,2000,Male,NA,8816,506,4670,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/18/2019 16:51:19,IBM,7,Product Designer,140000,San Jose, CA,3,1,UX,0,0,0,Male,NA,7422,807,5183,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/20/2019 16:41:17,IBM,Associate Engineer,Software Engineer,75000,San Jose, CA,5,5,Full Stack,0,0,0,Male,NA,7422,807,5229,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/30/2019 22:36:42,IBM,Advisory Engineer,Software Engineer,170000,San Francisco, CA,9,9,API Development (Back-End),0,0,0,Male,NA,7419,807,5473,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/1/2019 17:46:44,IBM,10,Solution Architect,198000,Ann Arbor, MI,15,15,Healthcare,0,0,0,Male,IBM Sucks,9026,505,5538,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/3/2019 9:04:03,IBM,Staff Engineer,Software Engineer,102000,Chicago, IL,2,2,Distributed Systems (Back-End),0,0,0,Male,NA,8198,602,5575,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/3/2019 11:36:31,IBM,9,Software Engineer,161000,Austin, TX,15,5,Networking,0,0,0,Male,NA,10965,635,5579,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/7/2019 6:52:43,IBM,Band7,Software Engineer,120000,Boston, MA,0,0,Web Development (Front-End),0,0,0,Male,NA,8816,506,5705,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/10/2019 5:28:01,IBM,Senior Engineer,Software Engineer,158000,Raleigh, NC,20,20,Cloud,156000,0,1000,Male,NA,1317,560,5774,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/11/2019 11:31:31,IBM,10,Solution Architect,200000,Denver, CO,22,12,Cloud,0,0,0,Male,NA,7548,751,5802,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/11/2019 11:34:14,IBM,Distinguished Engineer,Solution Architect,300000,Denver, CO,24,12,ML / AI,0,0,0,Male,NA,7548,751,5803,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/13/2019 10:32:47,IBM,Senior Software Engineer,Software Engineer,225000,Cleveland, OH,14,3,Distributed Systems (Back-End),210000,0,15000,Male,N/A,10276,510,5859,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/15/2019 1:04:34,IBM,L3,Data Scientist,30000,Gurgaon, HR, India,10,5,Python,30000,0,1000,Male,NA,16743,0,5900,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/16/2019 2:08:55,IBM,6,Software Engineer,75000,Toronto, ON, Canada,0,0.5,DevOps,0,0,0,Male,NA,1206,0,5931,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/18/2019 20:27:06,IBM,Associate Engineer,Software Engineer,100000,Washington, DC,1,1,Full Stack,0,0,0,NA,NA,40303,511,5986,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/19/2019 5:09:10,IBM,Advisory Engineer,Software Engineer,115000,Austin, TX,20,20,Security,0,0,0,Female,NA,10965,635,5992,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/25/2019 6:42:31,IBM,Staff Engineer,Software Engineer,120000,Austin, TX,3,2,iOS,120000,0,0,Male,NA,10965,635,6149,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/25/2019 14:34:48,IBM,Sr. Software Engineer,Software Engineer,215000,Cleveland, OH,8,1.5,Full Stack,198000,0,17000,Male,NA,10276,510,6157,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/4/2019 9:38:58,IBM,9,Software Engineering Manager,155000,Boston, MA,20,3,Distributed Systems (Back-End),154000,0,1000,Male,NA,8816,506,6384,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/6/2019 8:07:30,IBM,STSM,Software Engineering Manager,210000,New York, NY,21,18,API Development (Back-End),0,0,0,NA,NA,10182,501,6450,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/6/2019 19:19:22,IBM,Band 9,Software Engineering Manager,155000,Boston, MA,20,3,API Development (Back-End),154000,0,1000,Male,NA,8816,506,6469,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/7/2019 16:26:05,IBM,L8,Software Engineering Manager,154000,Denver, CO,6,3,ML / AI,144000,10000,1000,Female,Stock grants very unusual,7548,751,6498,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/9/2019 9:42:52,IBM,7,Software Engineer,136000,Boston, MA,1,1,API Development (Back-End),126000,8000,2000,Male,NA,8816,506,6549,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/10/2019 7:02:55,IBM,10,Product Manager,244000,Chicago, IL,15,3,Offering Management,209000,30000,5000,Male,NA,8198,602,6578,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/13/2019 7:52:45,IBM,Advisory Engineer,Software Engineer,122000,Poughkeepsie, NY,4,4,DevOps,0,0,0,Male,NA,10206,501,6659,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/22/2019 12:54:51,IBM,Grade 10,Software Engineer,380000,San Jose, CA,18,2,Distributed Systems (Back-End),330000,50000,0,Male,NA,7422,807,6957,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/24/2019 21:46:00,IBM,Staff Engineer,Software Engineer,130000,San Jose, CA,0,0,ML / AI,0,0,0,Male,NA,7422,807,7030,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/26/2019 17:26:33,IBM,8,Data Scientist,155000,Washington, DC,5,2,ML / AI,141000,0,14000,Male,NA,40303,511,7100,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/28/2019 10:04:47,IBM,10,Solution Architect,250000,Zurich, ZH, Switzerland,23,21,Infrastructure,240000,5000,5000,Male,NA,6736,0,7161,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/30/2019 17:57:45,IBM,7,Software Engineer,110000,Durham, NC,2,2,DevOps,110000,0,0,NA,NA,9606,560,7244,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/6/2019 19:21:02,IBM,7,Product Manager,115000,Austin, TX,2,2,ML / AI,0,0,0,Male,NA,10965,635,7505,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/7/2019 23:06:53,IBM,Associate Engineer,Software Engineer,107000,San Jose, CA,2,2,Distributed Systems (Back-End),107000,2000,2000,Male,NA,7422,807,7537,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/9/2019 19:07:49,IBM,Staff Engineer,Software Engineer,120000,Littleton, MA,5,2,Full Stack,117000,0,3000,Male,NA,30610,506,7585,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/10/2019 21:26:59,IBM,7,Software Engineer,112000,Austin, TX,3,0,Distributed Systems (Back-End),10000,0,2000,Male,NA,10965,635,7632,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/10/2019 21:28:03,IBM,6,Software Engineer,81000,Austin, TX,3,3,Distributed Systems (Back-End),79000,0,2000,Male,NA,10965,635,7633,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/13/2019 2:25:18,IBM,8,Product Manager,167000,New York, NY,4,4,ML / AI,165000,0,2000,Male,NA,10182,501,7733,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/15/2019 7:30:46,IBM,Advisory Engineer,Software Engineer,123000,Poughkeepsie, NY,4,4,Full Stack,123000,0,0,Male,NA,10206,501,7791,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/30/2019 17:36:24,IBM,6,Software Engineer,103000,Raleigh, NC,0,0,Full Stack,88000,0,15000,Male,NA,1317,560,8274,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/1/2019 14:52:02,IBM,Senior Engineer,Software Engineer,163000,Durham, NC,14,14,Web Development (Front-End),150000,10000,3000,Male,NA,9606,560,8303,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/2/2019 19:32:03,IBM,Advisory Offering Manager,Product Manager,141000,New York, NY,6,2,Full Stack,140000,0,1000,Female,NA,10182,501,8360,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/7/2019 16:30:51,IBM,Senior Engineer,Software Engineer,164000,Austin, TX,20,12,API Development (Back-End),0,0,0,Male,NA,10965,635,8489,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/9/2019 2:47:40,IBM,7,Product Designer,130000,Boston, MA,8,3,Web Development (Front-End),125000,0,5000,Male,NA,8816,506,8540,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/10/2019 12:45:23,IBM,10,Solution Architect,222000,Austin, TX,20,8,Security,186000,33000,3000,Male,NA,10965,635,8583,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/12/2019 15:48:38,IBM,9,Software Engineering Manager,210000,San Jose, CA,8,8,ML / AI,0,0,0,NA,NA,7422,807,8648,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/15/2019 23:16:20,IBM,Band 10,Software Engineer,500000,San Jose, CA,9,0,Distributed Systems (Back-End),0,0,0,NA,NA,7422,807,8738,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/16/2019 16:58:52,IBM,Band 6,Software Engineer,85000,Raleigh, NC,2,1,API Development (Back-End),0,0,0,Male,NA,1317,560,8764,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/23/2019 5:14:05,IBM,Staff Engineer,Software Engineer,53000,Sindelfingen, BW, Germany,1,1,Security,53000,0,0,Male,Böblingen, Germany,16581,0,9021,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/24/2019 4:30:35,IBM,Advisory Engineer,Software Engineer,105000,Sindelfingen, BW, Germany,8,4,Full Stack,104000,0,1000,Male,Böblingen, Germany,16581,0,9085,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/25/2019 15:57:55,IBM,7,Software Engineer,114000,Austin, TX,2,2,API Development (Back-End),114000,0,0,Male,NA,10965,635,9134,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/28/2019 8:55:34,IBM,Staff Engineer,Software Engineer,150000,Cambridge, MA,1,1,ML / AI,132000,10000,8000,Male,NA,8821,506,9196,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/28/2019 18:20:43,IBM,6,Software Engineer,110000,San Jose, CA,0,0,Cloud Networking,100000,0,10000,Female,Not an 'entry track hire' (so not sure if I'm considered level 6); Also they mentioned employees with 1-2 experience are around 95-100k base,7422,807,9213,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/28/2019 20:13:00,IBM,Sr. Software Engineer,Software Engineer,215000,Cleveland, OH,10,3,Cloud (SaaS, Big Data),200000,0,15000,Other,NA,10276,510,9215,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/30/2019 15:56:08,IBM,6,Software Engineer,80000,Toronto, ON, Canada,3,3,Full Stack,79000,0,1000,Male,Annual bonus typically capped at 2% of salary for all employees with rare exceptions,1206,0,9277,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/6/2019 21:01:34,IBM,Associate Engineer,Software Engineer,89000,Austin, TX,1,1,Distributed Systems (Back-End),0,0,0,NA,NA,10965,635,9505,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/7/2019 11:32:35,IBM,7,Software Engineer,90000,Toronto, ON, Canada,3,1,C++,0,0,0,NA,NA,1206,0,9535,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/11/2019 15:41:34,IBM,7,Software Engineer,123000,San Jose, CA,2,2,IMS,121000,0,1000,Male,NA,7422,807,9671,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/14/2019 19:19:34,IBM,Band 10,Human Resources,185000,Armonk, NY,10,10,HR,180000,0,5000,NA,NA,12932,501,9800,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2019 8:25:49,IBM,6,Software Engineer,85000,Raleigh, NC,1,1,API Development (Back-End),0,0,0,NA,NA,1317,560,9840,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2019 10:20:08,IBM,Sr Software Engineer Manager,Software Engineering Manager,158000,San Jose, CA,15,3,Distributed Systems (Back-End),155000,0,3000,Male,NA,7422,807,9882,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2019 16:15:28,IBM,Staff Engineer,Software Engineer,135000,Des Moines, IA,17,0.5,DevOps,0,0,0,NA,NA,8053,679,10006,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2019 18:51:22,IBM,8,Software Engineer,122000,Austin, TX,6,6,API Development (Back-End),0,0,0,Female,NA,10965,635,10068,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2019 19:59:56,IBM,Band 6,Software Engineer,124000,Poughkeepsie, NY,6,6,Firmware,0,0,0,NA,NA,10206,501,10093,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2019 23:23:45,IBM,7,Software Engineer,98000,Haifa, HA, Israel,10,6,Full Stack,0,0,0,Male,NA,4037,0,10152,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/16/2019 7:00:26,IBM,Band 8 (Advisory),Software Engineer,147000,Durham, NC,34,34,Distributed Systems (Back-End),146000,0,1000,Male,Research Triangle Park,9606,560,10203,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/16/2019 8:17:18,IBM,Advisory Engineer,Software Engineer,127000,Littleton, MA,5,5,DevOps,0,0,0,Male,NA,30610,506,10225,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/16/2019 10:01:56,IBM,9,Solution Architect,165000,St. Petersburg, FL,30,5,Networking,165000,0,1000,Male,NA,11821,539,10256,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 8:16:05,IBM,9,Software Engineering Manager,198000,Boston, MA,2,2,Testing (SDET),0,0,0,Male,NA,8816,506,10443,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 11:03:01,IBM,8,Software Engineer,150000,Dallas, TX,8,5,Distributed Systems (Back-End),148000,0,2000,Male,NA,11039,623,10469,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 15:59:22,IBM,6,Software Engineer,115000,San Jose, CA,0,0.3,Full Stack,105000,0,10000,Male,Bonus is signing bonus, not annual,7422,807,10521,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/17/2019 20:06:34,IBM,Band 9,Product Designer,165000,Austin, TX,6,1,Software Product Design,0,0,0,Male,NA,10965,635,10552,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/18/2019 4:58:05,IBM,8,Software Engineer,135000,Atlanta, GA,10,4,DevOps,0,0,0,Male,NA,7839,524,10604,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/19/2019 9:23:54,IBM,Senior Engineer,Software Engineer,165000,Toronto, ON, Canada,15,12,Security,0,0,0,NA,NA,1206,0,10714,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/19/2019 12:30:32,IBM,7A,Software Engineer,73000,Windsor, CT,13,5,Full Stack,73000,0,0,Male,NA,12007,533,10727,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/23/2019 8:58:37,IBM,Band 8,Software Engineer,175000,San Francisco, CA,9,8,API Development (Back-End),155000,23000,2000,Male,NA,7419,807,10982,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/24/2019 6:47:53,IBM,Band 6,Software Engineer,80000,Ottawa, ON, Canada,1,0,DevOps,80000,0,0,Male,NA,5906,0,11018,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/25/2019 22:15:22,IBM,9,Software Engineer,177000,San Jose, CA,15,7,DevOps,175000,0,2000,Male,NA,7422,807,11106,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/26/2019 4:54:15,IBM,7,Software Engineer,106000,Poughkeepsie, NY,1,1,Full Stack,106000,0,0,Female,NA,10206,501,11118,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/3/2019 19:51:36,IBM,7,Software Engineer,99000,Ottawa, ON, Canada,5,5,Full Stack,0,0,0,NA,NA,5906,0,11425,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/10/2019 16:43:18,IBM,Principal Offering Manager,Product Manager,150000,Houston, TX,13,6,Storage,135000,17000,1000,Female,NA,11109,618,11646,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/12/2019 22:18:12,IBM,Staff Engineer,Software Engineer,125000,San Jose, CA,2,2,Web Development (Front-End),0,0,0,NA,NA,7422,807,11746,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/14/2019 10:10:42,IBM,Advisory Engineer,Software Engineer,135000,Austin, TX,14,14,Full Stack,0,0,0,Female,NA,10965,635,11820,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/16/2019 10:45:48,IBM,7,Data Scientist,157000,San Jose, CA,2,2,ML / AI,155000,0,2000,Male,NA,7422,807,11925,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/18/2019 15:43:20,IBM,7,Software Engineer,157000,San Jose, CA,6,4,Distributed Systems (Back-End),155000,0,2000,NA,NA,7422,807,12070,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/23/2019 23:09:58,IBM,7,Software Engineer,137000,San Jose, CA,2,2,Full Stack,137000,0,0,Female,NA,7422,807,12298,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/29/2019 22:42:03,IBM,L7,Data Scientist,130000,San Jose, CA,5,2,ML / AI,0,0,0,Male,NA,7422,807,12589,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/31/2019 11:26:45,IBM,6,Software Engineer,75000,Markham, ON, Canada,3,3,Full Stack,75000,0,0,Male,Security,3468,0,12651,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/1/2019 5:58:04,IBM,7,Software Engineer,40000,Tel Aviv, TA, Israel,2,3,Full Stack,0,0,0,Male,NA,15900,0,12711,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/1/2019 13:54:04,IBM,Band 8,Software Engineering Manager,155000,Denver, CO,6,4,ML / AI,144000,10000,1000,Female,NA,7548,751,12734,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/9/2019 10:18:53,IBM,Band 9,Software Engineer,170000,Dallas, TX,10,6,DevOps,165000,0,5000,Male,NA,11039,623,12937,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/9/2019 10:23:29,IBM,Band 8,Software Engineer,155000,Dallas, TX,13,4,DevOps,150000,0,5000,Male,NA,11039,623,12939,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/11/2019 12:28:06,IBM,Band 9,Software Engineer,175000,Austin, TX,25,5,Full Stack,175000,0,0,Male,NA,10965,635,12985,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/11/2019 13:17:52,IBM,Entry,Software Engineer,98000,Raleigh, NC,0,0,API Development (Back-End),88000,0,10000,Male,NA,1317,560,12986,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/13/2019 8:37:25,IBM,Senior Technical Staff Member,Solution Architect,160000,Atlanta, GA,26,19,Distributed Systems (Back-End),160000,0,1000,Male,NA,7839,524,13059,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/13/2019 15:30:23,IBM,Staff Engineer,Software Engineer,93000,Tucson, AZ,3,1,DevOps,92000,0,1000,Male,NA,7056,789,13086,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/14/2019 10:03:20,IBM,Band 10, Program Director,Software Engineering Manager,201000,Durham, NC,19,19,Full Stack,195000,0,6000,Male,NA,9606,560,13128,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/17/2019 13:43:38,IBM,7,Software Engineer,113000,Austin, TX,3,2,Distributed Systems (Back-End),0,0,0,Male,NA,10965,635,13308,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/18/2019 7:54:17,IBM,9,Solution Architect,150000,Dallas, TX,12,7,Cloud,150000,0,0,NA,NA,11039,623,13343,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/22/2019 13:08:14,IBM,8,Product Manager,145000,Portland, OR,10,6,ML / AI,0,0,0,Female,NA,10522,820,13544,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/22/2019 16:14:13,IBM,Band 6,Software Engineer,88000,Austin, TX,0,0,DevOps,88000,0,0,Female,NA,10965,635,13554,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/27/2019 19:14:28,IBM,Band 6,Product Designer,103000,Austin, TX,2,1,ML / AI,88000,0,15000,Male,UX Designer,10965,635,13762,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/28/2019 9:07:45,IBM,Senior Engineer,Software Engineer,162000,Austin, TX,7,7,EDA,160000,0,2000,Male,NA,10965,635,13785,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/30/2019 15:34:19,IBM,Staff Engineer,Software Engineer,113000,Rochester, MN,4,4,Distributed Systems (Back-End),112000,0,1000,Male,NA,9266,611,13925,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/2/2019 7:36:34,IBM,Senior Technical Staff Member,Software Engineer,200000,Durham, NC,17,3,Distributed Systems (Back-End),197000,0,3000,Male,NA,9606,560,13992,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/2/2019 14:21:30,IBM,Placement,Software Engineer,19000,Manchester, EN, United Kingdom,0,0,Full Stack,0,0,0,Other,NA,14722,0,14000,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/3/2019 12:28:51,IBM,Band 9,Solution Architect,151000,Vancouver, BC, Canada,17,12,Network Operations Management,0,0,0,Female,NA,1320,0,14031,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/5/2019 11:26:12,IBM,Contractor,Software Engineer,256000,Austin, TX,20,3.5,Web Development (Front-End),256000,0,0,Male,Contract developer in IBM Watson. Turned down salary multiple times.,10965,635,14129,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/6/2019 12:49:55,IBM,8,Software Engineer,157000,San Jose, CA,12,4,iOS,155000,0,2000,Male,NA,7422,807,14189,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/6/2019 22:25:06,IBM,Senior Technical Staff Member,Software Engineer,300000,San Jose, CA,15,12,ML / AI,260000,30000,10000,Male,NA,7422,807,14217,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/8/2019 18:52:20,IBM,7,Software Engineer,136000,Boston, MA,5,2,Full Stack,136000,0,0,Female,NA,8816,506,14276,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/13/2019 14:19:32,IBM,7,Software Engineer,142000,San Jose, CA,6,4,API Development (Back-End),142000,0,0,Male,NA,7422,807,14546,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/13/2019 18:04:02,IBM,Advisory Engineer,Software Engineer,185000,San Jose, CA,3,3,Full Stack,180000,3000,2000,Male,NA,7422,807,14560,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/13/2019 18:41:20,IBM,8,Product Manager,146000,New York, NY,3,3,Offering management,142000,0,4000,Male,NA,10182,501,14572,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/13/2019 18:56:25,IBM,6,Software Engineer,98000,Austin, TX,2,2,DevOps,88000,0,10000,Female,New hire after 2 summers of internships at IBM,10965,635,14574,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/14/2019 11:38:34,IBM,Senior Engineer,Software Engineer,200000,Raleigh, NC,10,10,Full Stack,170000,25000,5000,Male,NA,1317,560,14701,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/14/2019 14:19:23,IBM,8,Software Engineer,78000,Winchester, EN, United Kingdom,7,7,Full Stack,0,0,0,Male,NA,12551,0,14726,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/14/2019 20:01:22,IBM,9,Software Engineer,214000,Austin, TX,28,20,Distributed Systems (Back-End),187000,20000,7000,Female,NA,10965,635,14761,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/18/2019 8:23:34,IBM,6,Software Engineer,98000,Austin, TX,2,2,DevOps,88000,0,10000,Male,NA,10965,635,15057,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/18/2019 11:01:18,IBM,6,Software Engineer,59000,Baton Rouge, LA,2,2,Mobile (iOS + Android),57000,0,2000,Male,NA,8723,716,15066,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/19/2019 17:58:00,IBM,9,Software Engineer,155000,Dallas, TX,14,5,Distributed Systems (Back-End),155000,0,5000,Male,NA,11039,623,15132,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/20/2019 16:15:13,IBM,9,Software Engineer,280000,New York, NY,11,11,Full Stack,250000,30000,2000,Male,NA,10182,501,15174,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/29/2019 6:45:00,IBM,STSM,Software Engineer,220000,Austin, TX,15,8,Security,195000,22000,3000,Male,NA,10965,635,15533,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/30/2019 7:10:11,IBM,B9,Product Designer,238000,Austin, TX,6,6,Testing (SDET),210000,25000,3000,Male,NA,10965,635,15588,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/30/2019 9:51:20,IBM,Band 7,Software Engineer,80000,Markham, ON, Canada,6,6,Web Development (Front-End),79000,0,1000,Male,NA,3468,0,15593,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/30/2019 20:42:03,IBM,Band 7A,Software Engineer,45000,Vilnius, VL, Lithuania,11,7,Full Stack,45000,0,0,NA,NA,6537,0,15611,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/1/2019 9:38:52,IBM,Product Manager,Product Manager,145000,New York, NY,3,3,ML / AI,145000,0,2000,Male,NA,10182,501,15636,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/2/2019 23:43:28,IBM,Advisory Engineer,Software Engineer,42000,Bangalore, KA, India,4,4,ML / AI,42000,1000,1000,Female,NA,4058,0,15726,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/3/2019 1:40:21,IBM,Staff Engineer,Software Engineer,38000,Bangalore, KA, India,4,4,ML / AI,38000,0,0,Male,NA,4058,0,15731,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/5/2019 10:58:01,IBM,9,Software Engineer,155000,Austin, TX,19,19,Cloud,154000,0,1000,Male,NA,10965,635,15862,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/5/2019 12:05:26,IBM,7,Data Scientist,156000,San Jose, CA,2,2,ML / AI,155000,0,1000,Male,NA,7422,807,15867,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/6/2019 12:00:40,IBM,6,Software Engineer,67000,Ottawa, ON, Canada,0,0,Web Development (Front-End),63000,0,4000,Male,NA,5906,0,15906,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/6/2019 12:03:06,IBM,6,Software Engineer,89000,Ottawa, ON, Canada,0,0,Web Development (Front-End),84000,0,5000,Male,NA,5906,0,15907,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/11/2019 20:26:18,IBM,Associate Engineer,Software Engineer,92000,Rochester, MN,1,1,API Development (Back-End),92000,0,0,Male,NA,9266,611,16166,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/14/2019 16:42:49,IBM,Senior Engineer,Software Engineer,195000,Durham, NC,6,6,Full Stack,165000,0,30000,Male,NA,9606,560,16259,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/15/2019 7:21:42,IBM,7,Software Engineer,103000,Austin, TX,5,2.5,API Development (Back-End),103000,0,0,Male,NA,10965,635,16279,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/17/2019 6:30:28,IBM,Senior,Software Engineer,169000,Poughkeepsie, NY,16,16,SW,167000,0,2000,Male,NA,10206,501,16383,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/23/2019 12:36:24,IBM,7,Data Scientist,158000,San Jose, CA,3,3,Full Stack,156000,0,2000,Male,NA,7422,807,16624,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/23/2019 21:11:22,IBM,Band 8,Software Engineer,130000,Austin, TX,7,7,Security,129000,0,1000,NA,NA,10965,635,16651,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/27/2019 10:39:29,IBM,Staff Engineer,Software Engineer,122000,Poughkeepsie, NY,5,5,API Development (Back-End),121000,0,1000,Male,NA,10206,501,16766,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/1/2019 21:24:49,IBM,Associate Engineer,Software Engineer,116000,New York, NY,0,0,DevOps,106000,0,10000,Male,NA,10182,501,16993,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/1/2019 22:42:51,IBM,6,Software Engineer,113000,Atlanta, GA,0,0,Web Development (Front-End),98000,0,15000,NA,NA,7839,524,16996,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/4/2019 16:54:47,IBM,6,Software Engineer,166000,New York, NY,0,0,Distributed Systems (Back-End),119000,0,42000,NA,NA,10182,501,17126,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/5/2019 16:39:15,IBM,7,Product Designer,102000,Austin, TX,2,2,Security,102000,0,0,Female,NA,10965,635,17168,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/5/2019 16:43:37,IBM,Band 7,Software Engineer,124000,Austin, TX,6,2,Full Stack,123000,0,2000,Male,Transferred from NYC, Allowed to Keep Salary - Masters,10965,635,17170,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/5/2019 17:02:30,IBM,Staff Engineer,Software Engineer,170000,San Francisco, CA,2,1,ML / AI,150000,0,20000,Male,Masters,7419,807,17171,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/5/2019 18:26:28,IBM,Band 7,Product Designer,113000,Austin, TX,4,4,Security,113000,0,0,Female,Masters,10965,635,17179,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/6/2019 2:03:06,IBM,7,Software Engineer,113000,New York, NY,0,0,Full Stack,102000,0,11000,Male,NA,10182,501,17196,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/8/2019 11:48:56,IBM,7,Data Scientist,98000,Markham, ON, Canada,1,1,ML / AI,98000,0,0,Male,Masters,3468,0,17319,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/9/2019 20:42:49,IBM,6,Software Engineer,87000,Toronto, ON, Canada,0,0,API Development (Back-End),82000,0,5000,NA,NA,1206,0,17375,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/10/2019 16:37:37,IBM,Band 8,Software Engineer,150000,Austin, TX,15,4,API Development (Back-End),150000,0,0,Male,Masters,10965,635,17415,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/14/2019 7:27:54,IBM,7,Software Engineer,120000,Southbury, CT,3,0.5,DevOps,120000,0,0,Male,Masters,13518,533,17564,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/14/2019 10:16:36,IBM,Associate Engineer,Software Engineer,115000,Poughkeepsie, NY,0,0,OS,95000,0,20000,Female,NA,10206,501,17570,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/15/2019 19:52:24,IBM,Band 7,Data Scientist,111000,Durham, NC,1,1,ML / AI,111000,0,0,Male,PhD,9606,560,17674,0,0,1,0,0,0,0,0,0,0,NA,PhD
+11/17/2019 7:27:34,IBM,Senior Offering Manager,Product Manager,161000,New York, NY,8,2,ML / AI,160000,0,1000,NA,NA,10182,501,17729,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/17/2019 15:52:17,IBM,Band 6,Software Engineer,87000,Rochester, MN,2,2,DevOps,87000,0,0,Male,NA,9266,611,17743,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/18/2019 19:09:27,IBM,Associate Engineer,Software Engineer,98000,Durham, NC,0,0,Web Development (Front-End),88000,0,10000,Male,NA,9606,560,17784,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/19/2019 19:51:40,IBM,Associate Offering Manager,Product Manager,98000,Chicago, IL,0,0,Product Management,88000,0,10000,NA,NA,8198,602,17838,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/21/2019 7:34:21,IBM,6,Software Engineer,88000,Austin, TX,2,1,Distributed Systems (Back-End),88000,0,0,Male,15,000 one time sign on bonus (used for relocation),10965,635,17905,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/22/2019 14:07:51,IBM,6,Software Engineer,110000,Atlanta, GA,1,0,Distributed Systems (Back-End),110000,0,0,Male,Masters,7839,524,17968,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/24/2019 7:11:59,IBM,Staff Engineer,Software Engineer,84000,Markham, ON, Canada,4,4,Distributed Systems (Back-End),80000,0,4000,Male,NA,3468,0,18024,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/24/2019 14:34:50,IBM,Associate Engineer,Software Engineer,98000,Raleigh, NC,0,0,API Development (Back-End),88000,0,10000,Male,NA,1317,560,18049,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/24/2019 19:49:39,IBM,7,Software Engineer,96000,Rochester, MN,2,2,API Development (Back-End),96000,0,0,Male,NA,9266,611,18062,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/26/2019 10:30:47,IBM,Associate Engineer,Software Engineer,116000,San Jose, CA,0,0,ML / AI,106000,0,10000,Male,NA,7422,807,18128,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/26/2019 11:15:04,IBM,6,Software Engineer,15000,Cluj-Napoca, CJ, Romania,0,0,Android,15000,0,0,Male,NA,4702,0,18133,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/27/2019 6:35:30,IBM,Senior Technical Staff Member,Software Engineer,233000,Armonk, NY,20,17,Full Stack,228000,0,5000,Male,NA,12932,501,18168,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/30/2019 19:35:38,IBM,6,Software Engineer,98000,Austin, TX,0,0,DevOps,88000,0,10000,Male,NA,10965,635,18292,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/30/2019 22:19:47,IBM,7,Software Engineer,150000,New York, NY,2,2,ML / AI,146000,0,4000,Male,Masters,10182,501,18295,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+12/5/2019 16:16:39,IBM,9,Software Engineer,167000,Raleigh, NC,10,10,DevOps,165000,0,2000,NA,NA,1317,560,18472,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/6/2019 5:49:21,IBM,6,Software Engineer,135000,Atlanta, GA,1,0,Distributed Systems (Back-End),120000,0,15000,Male,Masters,7839,524,18493,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+12/6/2019 16:52:10,IBM,6,Software Engineer,89000,Austin, TX,1,1,Distributed Systems (Back-End),89000,0,0,NA,NA,10965,635,18509,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/7/2019 17:36:08,IBM,9,Software Engineer,210000,Austin, TX,28,20,Distributed Systems (Back-End),187000,20000,3000,Male,NA,10965,635,18570,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/13/2019 10:31:59,IBM,6,Software Engineer,15000,Cluj-Napoca, CJ, Romania,0,0,API Development (Back-End),15000,0,0,Male,NA,4702,0,18837,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/2/2020 8:12:15,IBM,Senior,Software Engineer,167000,Poughkeepsie, NY,19,17,Distributed Systems (Back-End),167000,0,1000,Female,NA,10206,501,19572,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/3/2020 11:52:58,IBM,6,Software Engineer,98000,Poughkeepsie, NY,1,1,Full Stack,88000,0,10000,Male,NA,10206,501,19626,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/7/2020 17:47:33,IBM,7,Software Engineer,105000,Poughkeepsie, NY,2,2,Full Stack,105000,0,0,Female,Masters,10206,501,19849,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/9/2020 8:17:25,IBM,Staff Engineer,Software Engineer,87000,Markham, ON, Canada,7,5,Distributed Systems (Back-End),85000,0,2000,Male,Masters,3468,0,19934,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/11/2020 7:26:32,IBM,8,Software Engineer,179000,New York, NY,8,0,API Development (Back-End),174000,0,5000,Male,NA,10182,501,20036,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/14/2020 13:46:21,IBM,Associate Offering Manager,Product Manager,98000,Boston, MA,1,1,DevOps,96000,0,2000,Male,NA,8816,506,20173,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/14/2020 18:07:38,IBM,Staff Engineer,Software Engineer,66000,Ottawa, ON, Canada,1,1,Web Development (Front-End),65000,0,1000,NA,NA,5906,0,20185,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/14/2020 20:40:16,IBM,9,Solution Architect,195000,San Francisco, CA,10,8,Cloud,190000,0,5000,Male,Masters,7419,807,20195,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/14/2020 21:41:27,IBM,Senior Technical Staff Member,Software Engineer,240000,San Francisco, CA,15,10,Distributed Systems (Back-End),0,0,0,Other,NA,7419,807,20204,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/16/2020 22:17:30,IBM,9,Software Engineer,280000,San Jose, CA,15,10,ML / AI,250000,30000,3000,NA,PhD,7422,807,20366,0,0,1,0,0,0,0,0,0,0,NA,PhD
+1/17/2020 15:17:20,IBM,7,Software Engineer,121000,Austin, TX,4,4,Full Stack,121000,0,0,Male,NA,10965,635,20414,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/18/2020 22:23:40,IBM,6,Software Engineer,111000,New York, NY,1,1,API Development (Back-End),107000,3000,1000,Male,NA,10182,501,20507,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/21/2020 16:13:56,IBM,Senior Engineer,Software Engineer,132000,Rochester, MN,26,26,Operating Systems,132000,0,1000,Male,Masters,9266,611,20723,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/22/2020 18:39:46,IBM,Apprentice,Software Engineer,47000,Atlanta, GA,0,0,Full Stack,47000,0,0,Male,12 month software engineering apprenticeship,7839,524,20816,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/23/2020 4:33:19,IBM,8,Data Scientist,140000,Atlanta, GA,3,3,ML / AI,137000,0,3000,NA,NA,7839,524,20846,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/23/2020 11:44:50,IBM,Advisory Engineer,Software Engineer,180000,San Jose, CA,5,4,API Development (Back-End),180000,0,0,Male,Masters,7422,807,20869,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/24/2020 10:46:01,IBM,9,Solution Architect,180000,Dallas, TX,20,7,Web Development (Front-End),180000,0,0,Male,NA,11039,623,20961,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/25/2020 8:47:58,IBM,8,Software Engineer,137000,Houston, TX,5,3,Distributed Systems (Back-End),137000,0,0,Female,NA,11109,618,21026,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/25/2020 22:20:30,IBM,Staff Engineer,Software Engineer,140000,San Jose, CA,0,0,ML / AI,140000,0,0,Male,additional $20,000 signing bonus (not included in TC) - Masters,7422,807,21060,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/26/2020 1:40:31,IBM,7,Software Engineer,160000,San Francisco, CA,0,0,ML / AI,140000,0,20000,Male,Masters,7419,807,21068,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/26/2020 15:59:45,IBM,level 9,Solution Architect,340000,New York, NY,20,2,Cloud,330000,0,10000,Male,Masters,10182,501,21106,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/27/2020 17:00:56,IBM,Band 9,Software Engineer,228000,San Francisco, CA,8,4,Distributed Systems (Back-End),218000,0,10000,Male,PhD,7419,807,21179,0,0,1,0,0,0,0,0,0,0,NA,PhD
+1/27/2020 18:13:22,IBM,6,Software Engineer,99000,Littleton, MA,1,1,API Development (Back-End),99000,0,1000,NA,NA,30610,506,21187,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/27/2020 22:47:43,IBM,Band 7,Software Engineer,126000,Austin, TX,2,2,Distributed Systems (Back-End),126000,0,0,Male,Masters,10965,635,21206,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/28/2020 18:14:10,IBM,Consultant,Software Engineer,146000,Reston, VA,10,8,Full Stack,138000,0,8000,Male,Masters,11433,511,21277,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/28/2020 20:06:01,IBM,9,Software Engineer,185000,Durham, NC,19,1,Distributed Systems (Back-End),185000,0,0,Male,Masters,9606,560,21284,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+1/30/2020 9:35:19,IBM,Band 7,Software Engineer,14000,Campinas, SP, Brazil,8,5,API Development (Back-End),13000,0,1000,Male,NA,3432,0,21398,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/31/2020 17:52:20,IBM,Band 6,Software Engineer,88000,Austin, TX,0,0,DevOps,88000,0,0,Female,NA,10965,635,21513,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/1/2020 15:41:14,IBM,Associate Engineer,Software Engineer,88000,Houston, TX,0,0,Full Stack,88000,0,0,Male,10k signing,11109,618,21556,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/3/2020 13:45:43,IBM,7,Software Engineer,121000,Columbus, OH,2,2,Distributed Systems (Back-End),120000,0,1000,Male,Masters,10278,535,21665,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/3/2020 15:25:04,IBM,9,Software Engineer,175000,Raleigh, NC,14,0,DevOps,175000,0,0,NA,signing bonus 20000 - Masters,1317,560,21674,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/4/2020 11:04:12,IBM,9,Software Engineering Manager,169000,Austin, TX,15,5,Web Development (Front-End),168000,0,1000,Female,NA,10965,635,21736,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/4/2020 12:23:14,IBM,6,Software Engineer,117000,Austin, TX,1,0.5,DevOps,90000,0,27000,Male,10000 Bonus,10965,635,21745,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/4/2020 16:57:08,IBM,7,Software Engineer,115000,Austin, TX,3,1,Distributed Systems (Back-End),115000,0,0,NA,NA,10965,635,21755,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/4/2020 17:15:31,IBM,L7,Software Engineer,106000,Durham, NC,3,0,Web Development (Front-End),106000,0,0,Male,NA,9606,560,21757,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/5/2020 21:23:21,IBM,7,Software Engineer,108000,Austin, TX,3,1,DevOps,108000,0,0,Male,NA,10965,635,21858,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/7/2020 19:53:59,IBM,Band 6,Software Engineer,86000,Rochester, MN,2,2,DevOps,86000,0,0,Male,NA,9266,611,22002,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/8/2020 4:17:14,IBM,Band 8,Software Engineer,165000,New York, NY,10,1,DevOps,165000,0,0,Male,NA,10182,501,22017,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/9/2020 16:01:54,IBM,9,Software Engineer,194000,Littleton, MA,12,12,Distributed Systems (Back-End),194000,0,0,Male,NA,30610,506,22118,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/11/2020 10:42:57,IBM,7,Software Engineer,120000,Durham, NC,4,1,Web Development (Front-End),120000,0,0,Male,Masters,9606,560,22264,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/14/2020 18:35:15,IBM,Band 7,Software Engineer,46000,Budapest, BU, Hungary,12,5,iOS,46000,0,0,Male,Masters,4001,0,22605,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/14/2020 19:34:32,IBM,Staff Engineer,Software Engineer,122000,Poughkeepsie, NY,3,3,Emulation,121000,0,1000,Female,Masters,10206,501,22614,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/15/2020 11:50:47,IBM,9,Software Engineer,180000,Raleigh, NC,22,22,Distributed Systems (Back-End),178000,0,2000,Male,NA,1317,560,22874,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/18/2020 11:28:33,IBM,Director,Solution Architect,380000,Dallas, TX,27,15,Full Stack,280000,50000,50000,Male,NA,11039,623,23230,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/18/2020 13:56:49,IBM,Staff Engineer,Software Engineer,90000,Toronto, ON, Canada,2,1,API Development (Back-End),83000,0,7000,NA,Masters,1206,0,23239,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/19/2020 16:01:31,IBM,Staff Engineer,Software Engineer,72000,London, EN, United Kingdom,4,1,Full Stack,72000,0,0,Male,NA,12008,0,23328,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/20/2020 16:07:36,IBM,9,Product Manager,176000,San Francisco, CA,9,6,ML / AI,176000,2000,0,NA,NA,7419,807,23409,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/23/2020 8:11:25,IBM,7,Software Engineer,105000,Austin, TX,1,1,Web Development (Front-End),105000,0,0,Female,NA,10965,635,23570,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/23/2020 19:18:02,IBM,9,Software Engineering Manager,215000,New York, NY,15,1,Distributed Systems (Back-End),210000,0,5000,Female,NA,10182,501,23607,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/25/2020 15:41:54,IBM,Associate Engineer,Software Engineer,40000,Galway, GY, Ireland,0,0,Full Stack,40000,0,0,Male,NA,4018,0,23770,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/26/2020 4:08:46,IBM,7,Software Engineer,127000,New York, NY,1,0,ML / AI,127000,0,0,Male,Masters,10182,501,23821,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/28/2020 13:33:36,IBM,9,Software Engineer,252000,Austin, TX,10,4,Distributed Systems (Back-End),215000,35000,2000,Male,NA,10965,635,24016,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/28/2020 13:48:55,IBM,Advisory Software Engineer,Software Engineer,132000,Austin, TX,4,4,API Development (Back-End),131000,0,1000,Male,cloud api + backend - Masters and PhD,10965,635,24017,1,0,1,0,0,0,0,0,0,0,NA,Master's Degree
+3/1/2020 14:29:09,IBM,Band 8,Product Manager,165000,Washington, DC,5,2,Security,165000,0,0,NA,NA,40303,511,24121,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/1/2020 17:16:34,IBM,7,Software Engineer,91000,Toronto, ON, Canada,2,2,Distributed Systems (Back-End),91000,0,0,Male,NA,1206,0,24129,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/2/2020 12:46:33,IBM,10,Product Manager,187000,Dallas, TX,16,16,Cloud,185000,0,2000,Female,NA,11039,623,24167,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/4/2020 16:21:51,IBM,Band 7,Software Engineer,70000,Toronto, ON, Canada,3,1,Testing (SDET),70000,0,0,Male,Masters,1206,0,24321,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/5/2020 22:59:54,IBM,7,Product Manager,126000,San Jose, CA,2,2,ML / AI,126000,0,0,Male,NA,7422,807,24432,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/6/2020 14:58:58,IBM,B9,Product Designer,210000,San Jose, CA,15,1,ML / AI,210000,0,0,Female,NA,7422,807,24478,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/7/2020 23:49:44,IBM,8,Software Engineer,180000,San Jose, CA,7,3,Full Stack,180000,0,1000,Female,Masters,7422,807,24575,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/9/2020 15:38:44,IBM,8,Software Engineer,147000,Zurich, ZH, Switzerland,9,2,ML / AI,147000,0,0,Male,Masters and PhD,6736,0,24667,1,0,1,0,0,0,0,0,0,0,NA,Master's Degree
+3/11/2020 18:42:00,IBM,Band 7,Software Engineer,121000,Austin, TX,5,3,API Development (Back-End),121000,0,0,Male,NA,10965,635,24833,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/12/2020 12:27:40,IBM,8,Software Engineer,145000,Chicago, IL,9,4,Mobile (iOS + Android),145000,0,0,NA,NA,8198,602,24862,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/19/2020 5:50:28,IBM,Senior Technical Staff Member,Software Engineer,270000,Austin, TX,15,15,ML / AI,215000,50000,5000,Male,Masters,10965,635,25182,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/19/2020 17:21:57,IBM,Staff Engineer,Software Engineer,80000,Toronto, ON, Canada,2,2,Web Development (Front-End),70000,0,10000,Male,NA,1206,0,25214,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/19/2020 19:01:45,IBM,6,Data Scientist,120000,Armonk, NY,0,0,ML / AI,120000,0,0,Female,$15000 bonus - Masters,12932,501,25218,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/20/2020 12:50:19,IBM,7,Software Engineer,120000,Palo Alto, CA,4,4,API Development (Back-End),120000,0,0,Female,10,000 signing bonus. Initial hire 105k, 5k raise every year,7351,807,25247,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/20/2020 16:38:36,IBM,7,Solution Architect,112000,Costa Mesa, CA,3,3,ai,112000,0,0,Female,NA,7153,803,25257,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/21/2020 18:58:28,IBM,Associate Offering Manager,Product Manager,116000,New York, NY,3,1,Research,110000,0,6000,Male,NA,10182,501,25294,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/23/2020 10:49:19,IBM,8,Software Engineer,167000,Los Angeles, CA,6,4,Full Stack,157000,5000,5000,Male,NA,7275,803,25356,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/29/2020 19:46:57,IBM,6,Software Engineer,65000,Toronto, ON, Canada,1,1,ML / AI,60000,0,5000,NA,NA,1206,0,25673,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/31/2020 0:50:16,IBM,8,Data Scientist,179000,San Jose, CA,3,3,ML / AI,178000,0,1000,Male,Internal promotion,7422,807,25744,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/31/2020 16:59:07,IBM,9,Software Engineer,168000,Chicago, IL,14,6,Distributed Systems (Back-End),167000,0,1000,Male,NA,8198,602,25782,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/1/2020 1:00:49,IBM,Senior Engineer,Software Engineer,100000,Seoul, KG, Korea, South,20,20,Full Stack,100000,0,0,Male,Masters,16372,0,25803,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/2/2020 16:12:35,IBM,6,Software Engineer,88000,Poughkeepsie, NY,0,0,Testing (SDET),88000,0,0,Male,Signing bonus $15,000,10206,501,25899,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/11/2020 16:20:47,IBM,6,Data Scientist,45000,Stockholm, ST, Sweden,1,1,Full Stack,45000,0,0,NA,Masters,6713,0,26432,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/15/2020 14:24:58,IBM,9,Software Engineering Manager,210000,New York, NY,16,1,Distributed Systems (Back-End),210000,0,1000,Female,NA,10182,501,26683,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/15/2020 18:50:58,IBM,9,Technical Program Manager,176000,Phoenix, AZ,20,5,DevOps,176000,0,0,Female,Masters,7042,753,26710,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/16/2020 20:57:51,IBM,9,Software Engineer,160000,San Antonio, TX,9,3,API Development (Back-End),160000,0,1000,Male,25K signing bonus,11229,641,26795,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/21/2020 14:49:38,IBM,7,Software Engineer,64000,Toronto, ON, Canada,1,1,Full Stack,64000,0,0,NA,Masters,1206,0,27061,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/22/2020 1:33:00,IBM,Senior Consultant,Data Scientist,66000,Melbourne, VI, Australia,3,2,ML / AI,66000,0,1000,Male,NA,1225,0,27096,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/28/2020 11:53:59,IBM,8,Software Engineer,118000,Ottawa, ON, Canada,10,1,ML / AI,118000,0,0,Male,Masters,5906,0,27453,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/2/2020 12:28:13,IBM,Director,Product Manager,380000,Austin, TX,20,10,Full Stack,265000,40000,75000,Male,NA,10965,635,27706,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/3/2020 1:47:54,IBM,Band 8,Software Engineer,165000,New York, NY,10,1,DevOps,165000,0,0,Male,NA,10182,501,27750,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/4/2020 12:28:32,IBM,Staff Engineer,Software Engineer,65000,Markham, ON, Canada,2,2,API Development (Back-End),65000,0,0,Male,NA,3468,0,27845,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/6/2020 1:31:30,IBM,6,Software Engineer,65000,Stuttgart, BW, Germany,4,2,Distributed Systems (Back-End),63000,0,2000,Male,NA,3753,0,28013,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/6/2020 11:34:33,IBM,Senior Engineer,Software Engineer,200000,San Francisco, CA,13,13,Full Stack,200000,0,0,Male,NA,7419,807,28036,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/7/2020 11:04:41,IBM,Associate Data Scientist,Data Scientist,98000,Chicago, IL,0,0,ML / AI,88000,0,10000,Male,New grad,8198,602,28110,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/9/2020 9:21:38,IBM,Senior Engineer,Software Engineer,225000,Los Angeles, CA,8,6,Full Stack,185000,35000,5000,Male,NA,7275,803,28246,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/9/2020 10:48:41,IBM,6,Data Scientist,85000,Calgary, AB, Canada,2,2,ML / AI,71000,0,14000,Male,Black,5794,0,28253,0,0,0,0,0,0,0,0,1,0,Black,NA
+5/12/2020 17:12:59,IBM,7,Product Manager,124000,Cambridge, MA,1,1,ML / AI,124000,0,0,Other,Masters,8821,506,28450,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/14/2020 8:28:53,IBM,8,Software Engineer,150000,Dallas, TX,12,6,Distributed Systems (Back-End),150000,0,0,Male,Masters,11039,623,28583,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/23/2020 9:06:31,IBM,9,Software Engineer,200000,San Francisco, CA,14,14,ML / AI,200000,0,0,Male,Masters,7419,807,29270,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/28/2020 9:42:05,IBM,7,Software Engineer,137000,San Jose, CA,2,2,Distributed Systems (Back-End),135000,2000,0,NA,NA,7422,807,29585,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/28/2020 10:48:51,IBM,7,Software Engineer,85000,Ottawa, ON, Canada,5,2,Full Stack,85000,0,0,NA,NA,5906,0,29590,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/29/2020 14:49:31,IBM,Director,Product Designer,358000,New York, NY,15,4,Design,295000,50000,13000,NA,NA,10182,501,29697,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/30/2020 16:53:02,IBM,B8,Solution Architect,170000,Atlanta, GA,25,20,Cloud,165000,5000,0,Male,NA,7839,524,29754,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/31/2020 5:51:31,IBM,7,Software Engineer,110000,Tel Aviv, TA, Israel,1,1,API Development (Back-End),100000,0,10000,Male,NA,15900,0,29795,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/1/2020 1:30:18,IBM,7,Software Engineer,105000,Cambridge, MA,6,4,API Development (Back-End),105000,0,0,NA,Masters,8821,506,29855,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/1/2020 17:57:17,IBM,7,Product Designer,120000,Cambridge, MA,5,1,UX,115000,0,5000,Female,NA,8821,506,29904,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/4/2020 3:57:38,IBM,Band 7,Software Engineer,141000,Emeryville, CA,2,2,API Development (Back-End),141000,0,0,NA,NA,15315,807,30059,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/4/2020 13:06:54,IBM,Band 7,Software Engineer,140000,Austin, TX,5,5,Full Stack,126000,0,14000,Male,NA,10965,635,30082,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/5/2020 4:13:25,IBM,Advisory Engineer,Software Engineer,115000,Madison, WI,6,1,Distributed Systems (Back-End),115000,0,0,Male,Masters,11582,669,30133,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/6/2020 15:12:45,IBM,Band 9,Software Engineer,123000,Fredericton, NB, Canada,7,5,Security,100000,21000,2000,Male,Masters,1298,0,30233,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/6/2020 15:52:43,IBM,Level 7,Business Analyst,105000,Raleigh, NC,9,1,BC,105000,0,0,Male,Masters (Remote),1317,560,30234,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/7/2020 22:32:59,IBM,Director,Software Engineering Manager,397000,San Jose, CA,20,20,ML / AI,280000,20000,97000,Male,Masters,7422,807,30309,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/8/2020 10:48:22,IBM,10,Data Scientist,270000,Armonk, NY,13,12,Data Science,270000,0,0,Male,NA,12932,501,30332,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/9/2020 13:12:46,IBM,Senior,Data Scientist,131000,San Francisco, CA,3,3,Analytics/ Data Science,131000,0,0,Female,BS,7419,807,30411,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/9/2020 22:54:24,IBM,Band 9,Software Engineer,117000,Canberra, CT, Australia,10,6,Linux kernel/Firmware,117000,0,0,Male,Remote,1336,0,30451,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/11/2020 19:29:39,IBM,Band 9,Software Engineering Manager,210000,New York, NY,16,1,Distributed Systems (Back-End),210000,0,0,Female,NA,10182,501,30621,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/12/2020 9:18:06,IBM,Staff Engineer,Software Engineer,119000,Denver, CO,3,1,API Development (Back-End),119000,0,0,Female,NA,7548,751,30658,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/15/2020 21:31:16,IBM,Band 8 - Advisory Software Engineer,Software Engineer,142000,Austin, TX,6,2,Full Stack,142000,0,0,Male,promotion, .979 PMR for area, prev 2 yrs band 7 in nyc, had external offer - Masters,10965,635,30860,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/18/2020 5:59:11,IBM,Program Director,Product Manager,205000,Austin, TX,12,4,ML / AI,195000,0,10000,Male,Masters,10965,635,31049,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/21/2020 17:42:46,IBM,band 6,Management Consultant,188000,New York, NY,6,1,Security,150000,0,38000,Female,Masters,10182,501,31260,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/21/2020 19:16:38,IBM,8,Software Engineer,165000,New York, NY,5,3,Distributed Systems (Back-End),162000,0,3000,Male,Masters,10182,501,31264,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/23/2020 20:44:56,IBM,Band 10,Solution Architect,285000,Washington, DC,20,8,Cloud,245000,0,40000,Male,Remote,40303,511,31418,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/24/2020 13:03:15,IBM,7,Software Engineer,115000,Raleigh, NC,4,1,Full Stack,115000,4000,0,NA,Masters,1317,560,31459,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/26/2020 11:32:15,IBM,7,Software Engineer,122000,San Jose, CA,7,7,Full Stack,120000,0,2000,Male,Masters,7422,807,31635,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/26/2020 20:08:13,IBM,Senior Engineer,Software Engineer,202000,New York, NY,17,4,Full Stack,185000,7000,10000,Male,NA,10182,501,31662,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/28/2020 5:51:18,IBM,Band 8,Product Designer,165000,New York, NY,5,5,ML / AI,165000,0,0,Male,Masters (Remote),10182,501,31722,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/29/2020 13:02:02,IBM,8,Product Manager,148000,Austin, TX,3,3,Systems,148000,0,0,NA,NA,10965,635,31784,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/30/2020 21:36:33,IBM,Band 8,Product Designer,137000,Austin, TX,11,5,Security,137000,0,0,Male,NA,10965,635,31918,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/1/2020 23:51:52,IBM,Senior Engineer,Software Engineer,110000,Canberra, CT, Australia,15,15,Linux,110000,0,0,Male,NA,1336,0,32027,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/3/2020 15:56:03,IBM,B10,Product Manager,195000,Austin, TX,12,4,ML / AI,195000,0,0,Male,Masters,10965,635,32227,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+7/5/2020 15:03:50,IBM,Band 8,Hardware Engineer,150000,Austin, TX,6,1,RTL design,150000,0,0,NA,NA,10965,635,32325,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/6/2020 14:19:56,IBM,8,Solution Architect,157000,Los Angeles, CA,13,1,DevOps,150000,0,7000,Male,Race: Asian, Academic Level: Master’s degree,7275,803,32411,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/6/2020 14:20:27,IBM,Senior Engineer,Software Engineer,194000,Littleton, MA,13,13,Distributed Systems (Back-End),194000,0,0,Male,Race: Asian, Academic Level: Bachelor’s degree,30610,506,32412,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/7/2020 14:11:47,IBM,7,Software Engineer,127000,San Francisco, CA,6,3,Full Stack,127000,0,0,Male,Race: Hispanic / Latino, Academic Level: Bachelor’s degree,7419,807,32561,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+7/8/2020 9:52:06,IBM,6,Data Scientist,74000,London, EN, United Kingdom,0,0,ML / AI,54000,0,20000,Male,Race: Two or More Races, Academic Level: Master’s degree,12008,0,32638,1,0,0,0,0,0,0,1,0,0,Two Or More,Master's Degree
+7/10/2020 13:02:22,IBM,7,Product Manager,124000,Cambridge, MA,1,1,Mobile (iOS + Android),124000,0,0,NA,NA,8821,506,32837,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/13/2020 12:15:06,IBM,Associate Engineer,Software Engineer,120000,San Jose, CA,1,1,Distributed Systems (Back-End),105000,0,15000,Male,Race: Asian, Academic Level: Bachelor’s degree,7422,807,33041,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/13/2020 12:33:30,IBM,Staff Engineer,Software Engineer,170000,San Francisco, CA,1,0,ML / AI,150000,0,20000,Male,Academic Level: Master’s degree,7419,807,33042,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+7/15/2020 11:38:39,IBM,Senior Engineer,Software Engineer,104000,Toronto, ON, Canada,25,10,Distributed Systems (Back-End),103000,0,1000,Male,Race: White,1206,0,33206,0,0,0,0,0,0,1,0,0,0,White,NA
+7/16/2020 14:46:36,IBM,Entry Level Associate Developer,Software Engineer,92000,Washington, DC,0,0,Cloud Applications,83000,0,9000,Female,Race: Asian, Academic Level: Bachelor’s degree,40303,511,33297,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/16/2020 15:20:50,IBM,7,Software Engineer,107000,Washington, DC,2,2,Full Stack,107000,0,0,Female,Race: Asian, Academic Level: Bachelor’s degree,40303,511,33301,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/17/2020 2:19:45,IBM,Senior Technical Staff Member,Solution Architect,93000,Cologne, NW, Germany,10,4,Security,93000,0,0,Male,Race: White, Academic Level: Technical or occupational certificate,3659,0,33350,0,0,0,0,0,0,1,0,0,0,White,NA
+7/17/2020 10:26:08,IBM,9,Software Engineer,195000,Yorktown Heights, NY,4,4,Research,175000,20000,0,Male,401k gets 1% (of salary) automatic contribution, match up to 5% (of salary) after being employed for one year. Offered $80k RSUs vesting over 4 years with two 2-year cliffs ($40k after 2 years, $40k after 4 years). Reported total compensation is averaged across RSU cliffs, Race: White, Academic Level: Doctorate (PhD),41596,501,33373,0,0,1,0,0,0,1,0,0,0,White,PhD
+7/18/2020 4:52:02,IBM,Band 7,Sales,185000,Dallas, TX,5,2,Security,115000,0,70000,Male,Remote, Academic Level: Master’s degree,11039,623,33444,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+7/18/2020 21:40:47,IBM,7,Data Scientist,130000,New York, NY,3,1,ML / AI,130000,0,0,Male,Race: Asian, Academic Level: Master’s degree,10182,501,33494,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/19/2020 8:21:18,IBM,9,Data Scientist,200000,Cleveland, OH,9,4,Full Stack,180000,0,20000,NA,Remote,10276,510,33517,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/20/2020 5:16:58,IBM,L3,Software Engineer,75000,Washington, DC,2,2,Web Development (Front-End),75000,0,4000,NA,NA,40303,511,33593,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/22/2020 9:04:50,IBM,7,Recruiter,105000,Cambridge, MA,8,2,Consulting,105000,0,0,NA,NA,8821,506,33874,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/22/2020 12:29:33,IBM,Staff Engineer,Hardware Engineer,100000,Austin, TX,4,4,Hardware Development,100000,0,1000,Male,Race: White, Academic Level: Bachelor’s degree,10965,635,33898,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/24/2020 2:00:58,IBM,8,Product Manager,125000,Tel Aviv, TA, Israel,13,2,Security,125000,0,0,Male,Race: White, Academic Level: Master’s degree,15900,0,34076,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+7/26/2020 21:26:33,IBM,7,Marketing,112000,San Francisco, CA,5,3,SaaS, Services,112000,0,0,NA,Product Marketing,7419,807,34344,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/30/2020 10:17:39,IBM,Staff Engineer,Software Engineer,24000,Bangalore, KA, India,5,3,Full Stack,23000,0,1000,Female,Race: Asian, Academic Level: Bachelor’s degree,4058,0,34734,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/31/2020 11:02:50,IBM,8,Software Engineer,175000,New York, NY,10,1,Developer Advocate,160000,0,15000,Male,Race: White, Academic Level: Master’s degree,10182,501,34858,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+7/31/2020 17:23:00,IBM,Staff Engineer,Software Engineer,140000,Littleton, MA,4,1,Distributed Systems (Back-End),125000,0,15000,Male,Race: Asian, Academic Level: Master’s degree,30610,506,34913,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/31/2020 23:42:57,IBM,7,Software Engineer,24000,Bangalore, KA, India,4,4,Full Stack,24000,0,1000,NA,NA,4058,0,34937,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/4/2020 6:28:08,IBM,6,Software Engineer,146000,San Francisco, CA,0,0,API Development (Back-End),131000,0,15000,Male,Race: Two or More Races, Academic Level: Bachelor’s degree,7419,807,35236,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+8/4/2020 14:42:31,IBM,B7,Software Engineer,160000,Yorktown Heights, NY,2,2,Full Stack,150000,10000,4000,NA,NA,41596,501,35307,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/4/2020 20:33:18,IBM,B10,Management Consultant,250000,Toronto, ON, Canada,12,12,Consulting,215000,15000,15000,NA,Academic Level: Master’s degree,1206,0,35349,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+8/5/2020 9:20:24,IBM,Associate Offering Manager,Product Manager,150000,New York, NY,2,0,Product,135000,0,15000,Male,Race: Hispanic / Latino, Academic Level: Master’s degree,10182,501,35382,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+8/6/2020 18:27:36,IBM,Band 7,Software Engineer,106000,Durham, NC,3,0,Web Development (Front-End),106000,0,0,NA,NA,9606,560,35597,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/6/2020 19:26:10,IBM,7,Product Manager,140000,San Francisco, CA,7,5,Technical,140000,0,0,Female,Remote, Race: White, Academic Level: Bachelor’s degree,7419,807,35602,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/7/2020 10:04:06,IBM,7,Software Engineer,103000,Poughkeepsie, NY,3,2,Security,103000,0,1000,Male,Race: White, Academic Level: Bachelor’s degree,10206,501,35663,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/9/2020 23:02:51,IBM,8,Software Engineer,141000,Houston, TX,4,3,API Development (Back-End),135000,4000,2000,NA,NA,11109,618,35906,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/10/2020 9:30:16,IBM,Band 8,Software Engineer,130000,New York, NY,6,4,Data,130000,0,0,Male,Race: Hispanic / Latino, Academic Level: Master’s degree,10182,501,35931,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+8/12/2020 13:51:03,IBM,Band 7,Software Engineer,147000,Zurich, ZH, Switzerland,6,1,ML / AI,147000,0,2000,NA,NA,6736,0,36237,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/14/2020 11:42:02,IBM,L7,Software Engineer,130000,Foster City, CA,1,1,Distributed Systems (Back-End),130000,0,0,NA,NA,41948,807,36499,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/15/2020 19:27:36,IBM,Band 8,Data Scientist,154000,Sunnyvale, CA,6,2,ML / AI,154000,0,0,NA,Academic Level: Master’s degree,7472,807,36654,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+8/17/2020 9:50:59,IBM,Staff Engineer,Software Engineer,110000,Austin, TX,5,5,Testing (SDET),109000,0,1000,Male,Race: White, Academic Level: Bachelor’s degree,10965,635,36797,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/17/2020 10:21:28,IBM,Band 8,Software Engineer,150000,Durham, NC,25,5,Networking,150000,0,0,Male,Race: White, Academic Level: Bachelor’s degree,9606,560,36800,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/17/2020 10:52:01,IBM,Band 8,Marketing,119000,New York, NY,7,1,Content Marketing,112000,7000,0,Male,Race: White, Academic Level: Bachelor’s degree,10182,501,36805,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/17/2020 15:37:52,IBM,Band 05,Software Engineer,87000,Toronto, ON, Canada,1,1,DevOps,87000,0,0,Male,$5k signing bonus, Race: Asian, Academic Level: Bachelor’s degree,1206,0,36848,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/17/2020 17:36:54,IBM,Band 7,Software Engineer,127000,Atlanta, GA,10,5,Security,127000,0,0,Male,Remote, Race: White, Academic Level: Bachelor’s degree,7839,524,36861,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/17/2020 18:36:02,IBM,Band 8,Software Engineer,138000,Houston, TX,5,3,Distributed Systems (Back-End),138000,0,0,Female,Race: White, Academic Level: Bachelor’s degree,11109,618,36873,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/18/2020 7:17:09,IBM,Band 8,Software Engineer,123000,Bowling Green, OH,15,15,Full Stack,123000,0,2000,Male,Remote, Race: White, Academic Level: Bachelor’s degree,10260,547,36939,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/18/2020 9:23:03,IBM,Advisory Engineer,Software Engineer,125000,Houston, TX,7,5,Full Stack,121000,4000,0,NA,NA,11109,618,36959,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/18/2020 21:33:46,IBM,Band 10,Solution Architect,85000,Mumbai, MH, India,20,1,Data,85000,0,0,NA,NA,6457,0,37078,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/18/2020 23:20:03,IBM,Band 7,Software Engineer,112000,Austin, TX,4,2,DevOps,112000,0,0,NA,NA,10965,635,37089,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/19/2020 1:15:59,IBM,Band 7,Product Designer,30000,Bucharest, BU, Romania,13,4,User Experience (UX),30000,0,0,Male,Race: White, Academic Level: Bachelor’s degree,4701,0,37091,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/19/2020 5:41:46,IBM,B9,Business Analyst,170000,New York, NY,14,13,Operations,168000,0,2000,Female,Race: Hispanic / Latino, Academic Level: Master’s degree,10182,501,37105,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+8/19/2020 6:45:05,IBM,B10,Software Engineering Manager,305000,New York, NY,18,5,Distributed Systems (Back-End),250000,50000,5000,Male,Remote, Race: Asian, Academic Level: Master’s degree,10182,501,37107,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/19/2020 7:56:11,IBM,Band 7,Data Scientist,60000,Columbia, MO,2,2,Data,60000,0,0,NA,Data analyst working data science, Academic Level: Bachelor’s degree,9332,604,37117,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+8/19/2020 19:08:42,IBM,Band 7,Data Scientist,110000,Denver, CO,4,4,ML / AI,110000,0,1000,NA,Remote,7548,751,37232,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/22/2020 12:26:20,IBM,Band 6,Software Engineer,98000,Austin, TX,0,0,Systems,88000,0,10000,Male,Race: White, Academic Level: Bachelor’s degree,10965,635,37608,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/22/2020 17:18:14,IBM,L2,Data Scientist,105000,Columbus, OH,4,2,ML / AI,105000,0,0,Male,Race: White, Academic Level: Bachelor’s degree,10278,535,37634,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/23/2020 12:32:08,IBM,Band 8,Software Engineering Manager,112000,Tel Aviv, TA, Israel,13,4,DevOps,110000,0,2000,NA,NA,15900,0,37701,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/23/2020 15:17:54,IBM,Band 7,Software Engineer,98000,Ottawa, ON, Canada,6,2,API Development (Back-End),98000,0,0,Male,Academic Level: Bachelor’s degree,5906,0,37718,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+8/24/2020 7:41:19,IBM,Band 7,Software Engineer,28000,Delhi, DL, India,1,1,ML / AI,28000,0,0,Male,Race: Asian, Academic Level: Bachelor’s degree,13690,0,37778,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/24/2020 21:26:12,IBM,Band 7,Software Engineer,112000,Chicago, IL,4,4,Distributed Systems (Back-End),110000,0,2000,Male,Race: White, Academic Level: Bachelor’s degree,8198,602,37897,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/26/2020 8:18:12,IBM,Senior Engineer,Software Engineer,125000,Paris, IL, France,22,10,Full Stack,120000,0,5000,Male,Academic Level: Master’s degree,6409,0,38129,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+8/26/2020 14:24:28,IBM,Band 6,Software Engineer,105000,New York, NY,1,1,Data,105000,0,0,Male,10k Signing Bonus, Race: White, Academic Level: Bachelor’s degree,10182,501,38186,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/27/2020 7:53:02,IBM,Advisory Engineer,Software Engineer,165000,Cambridge, MA,4,4,Blockchain,158000,3000,4000,Male,NA,8821,506,38299,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/28/2020 11:24:04,IBM,L4,Data Scientist,140000,San Jose, CA,5,2,Full Stack,140000,0,3000,Male,10k joining bonus, Race: Asian, Academic Level: Master’s degree,7422,807,38509,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/30/2020 5:33:53,IBM,L8,Software Engineer,36000,Moscow, MC, Russia,13,6,Aix,35000,0,2000,Male,Race: White, Academic Level: Bachelor’s degree,1384,0,38762,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/30/2020 18:00:25,IBM,Band 8,Product Manager,157000,New York, NY,8,2,Growth,157000,0,1000,Male,Race: White, Academic Level: Bachelor’s degree,10182,501,38809,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/30/2020 18:38:11,IBM,Band 8,Product Designer,138000,Austin, TX,12,5,User Experience (UX),138000,0,0,Male,Race: White, Academic Level: Bachelor’s degree,10965,635,38812,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/30/2020 19:43:18,IBM,Band 10,Solution Architect,245000,Kansas City, MO,20,16,Data,230000,15000,0,NA,NA,9364,616,38821,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/30/2020 22:05:54,IBM,Band 8,Software Engineer,42000,Bangalore, KA, India,5,5,ML / AI,42000,0,1000,Male,Race: Asian, Academic Level: Master’s degree,4058,0,38833,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/31/2020 11:06:22,IBM,Associate Engineer,Software Engineer,70000,Austin, TX,1,1,API Development (Back-End),70000,0,0,Male,Remote, Race: Asian, Academic Level: Bachelor’s degree,10965,635,38888,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+9/1/2020 14:31:54,IBM,Band 10,Data Scientist,260000,San Francisco, CA,15,2,Data Science,260000,0,0,NA,NA,7419,807,39051,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/1/2020 19:39:31,IBM,Band 9,Software Engineering Manager,224000,San Francisco, CA,15,5,Distributed Systems (Back-End),220000,0,4000,NA,NA,7419,807,39091,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/2/2020 13:34:09,IBM,Band 9,Software Engineer,165000,Raleigh, NC,23,1,Cloud,165000,0,0,Male,Race: White, Academic Level: Bachelor’s degree,1317,560,39237,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/2/2020 14:01:53,IBM,Band 6,Software Engineer,117000,Raleigh, NC,1,1,DevOps,85000,0,27000,Male,Race: White, Academic Level: Bachelor’s degree,1317,560,39249,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/2/2020 15:04:03,IBM,L7,Product Designer,232000,Austin, TX,17,6,User Experience (UX),222000,5000,5000,Male,10k relocation bonus, Race: White, Academic Level: Bachelor’s degree,10965,635,39269,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/2/2020 15:18:51,IBM,Band 8,Software Engineer,72000,Paris, IL, France,9,8,ML / AI,72000,0,1000,Male,Race: White, Academic Level: Doctorate (PhD),6409,0,39276,0,0,1,0,0,0,1,0,0,0,White,PhD
+9/2/2020 17:25:21,IBM,Band 8,Product Manager,148000,Austin, TX,3,3,Technical,148000,0,0,NA,Academic Level: Bachelor’s degree,10965,635,39307,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+9/2/2020 19:21:47,IBM,Band 9,Software Engineer,205000,Poughkeepsie, NY,6,6,Full Stack,167000,35000,3000,Male,Race: Two or More Races, Academic Level: Bachelor’s degree,10206,501,39331,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+9/3/2020 0:16:50,IBM,Associate Engineer,Software Engineer,110000,Houston, TX,2,0,Full Stack,100000,10000,0,Male,Race: White, Academic Level: Master’s degree,11109,618,39405,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+9/3/2020 6:37:13,IBM,Band 7,Software Engineer,90000,Toronto, ON, Canada,5,5,Web Development (Front-End),89000,1000,0,NA,NA,1206,0,39432,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/3/2020 17:34:13,IBM,Band 7,Software Engineer,150000,San Jose, CA,5,3,API Development (Back-End),150000,0,0,NA,NA,7422,807,39591,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/3/2020 18:15:53,IBM,Band 8,Sales,250000,New York, NY,15,2,Sales,135000,0,115000,NA,NA,10182,501,39604,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/4/2020 4:00:42,IBM,Band 8,Software Engineer,43000,Hyderabad, TS, India,12,12,Full Stack,41000,0,2000,Male,Academic Level: Master’s degree,47926,0,39667,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+9/4/2020 6:15:23,IBM,L7,Software Engineer,70000,Ireland, IN,15,15,Full Stack,70000,0,0,Female,Shittiest company to be working, Race: Asian, Academic Level: Master’s degree,28920,649,39674,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/4/2020 10:49:04,IBM,Band 7,Data Scientist,156000,San Jose, CA,3,3,ML / AI,156000,0,0,Male,Race: Asian, Academic Level: Master’s degree,7422,807,39714,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/5/2020 22:02:56,IBM,Band 7,Software Engineer,85000,Toronto, ON, Canada,1,1,Full Stack,85000,0,0,NA,Academic Level: Bachelor’s degree,1206,0,39953,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+9/6/2020 1:20:35,IBM,Band 7,Software Engineer,119000,Austin, TX,3,3,Distributed Systems (Back-End),115000,4000,0,Male,Race: Asian, Academic Level: Master’s degree,10965,635,39968,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/7/2020 19:17:12,IBM,Band 7,Software Engineer,110000,Raleigh, NC,1,1,Distributed Systems (Back-End),110000,0,0,Male,1.5k relocation, Academic Level: Master’s degree,1317,560,40146,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+9/8/2020 8:58:12,IBM,Associate Offering Manager,Product Manager,122000,San Jose, CA,1,1,Product,112000,0,10000,Male,Race: White, Academic Level: Bachelor’s degree,7422,807,40219,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/9/2020 13:27:33,IBM,Band 7,Software Engineer,125000,San Jose, CA,2,2,Full Stack,125000,0,0,Male,Race: White, Academic Level: Bachelor’s degree,7422,807,40424,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/10/2020 12:04:35,IBM,Senior Engineer,Software Engineering Manager,215000,Austin, TX,18,15,ML / AI,190000,0,25000,Male,Race: White, Academic Level: Master’s degree,10965,635,40581,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+9/10/2020 15:20:24,IBM,9,Marketing,141000,Austin, TX,18,3,Product,141000,0,0,Male,Product Marketing Manager, Academic Level: Master’s degree,10965,635,40601,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+9/10/2020 22:41:46,IBM,Band 7,Data Scientist,145000,Armonk, NY,5,0,ML / AI,145000,0,0,Male,$15K - 25K joining bonus (not confirmed yet), Race: Asian, Academic Level: Master’s degree,12932,501,40658,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/11/2020 10:24:26,IBM,Band 7,Software Engineer,155000,Yorktown Heights, NY,1,1,ML / AI,140000,0,15000,NA,NA,41596,501,40712,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/15/2020 9:37:17,IBM,Band 7,Product Designer,115000,New York, NY,1,1,User Experience (UX),115000,0,0,Female,Race: Hispanic / Latino, Academic Level: Master’s degree,10182,501,41197,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+9/15/2020 14:04:45,IBM,Band 10,Human Resources,220000,New York, NY,16,16,HR,200000,0,20000,NA,NA,10182,501,41230,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/15/2020 19:10:05,IBM,Band 7,Software Engineering Manager,127000,Costa Mesa, CA,15,6,Testing (SDET),127000,0,1000,NA,NA,7153,803,41273,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/16/2020 12:30:59,IBM,L7,Management Consultant,110000,Raleigh, NC,5,5,Analytic,110000,0,1000,Female,$5K bonus for high performance, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,1317,560,41386,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+9/17/2020 4:48:23,IBM,Band 6,Software Engineer,88000,Rochester, MN,0,0,Distributed Systems (Back-End),85000,0,3000,Male,Race: Asian, Academic Level: Bachelor’s degree,9266,611,41490,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+9/17/2020 15:32:59,IBM,Band 8,Software Engineer,194000,New York, NY,9,4,Data,194000,0,0,Male,Race: White, Academic Level: Master’s degree,10182,501,41572,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+9/18/2020 6:00:34,IBM,Band 9,Business Analyst,130000,New York, NY,10,1,Finance,130000,0,0,Male,$, Race: White, Academic Level: Master’s degree,10182,501,41646,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+9/21/2020 11:41:55,IBM,Band 8,Software Engineer,180000,Yorktown Heights, NY,1,0,Quantum,165000,0,15000,Female,+ 7k relocation (Remote), Race: White, Academic Level: Bachelor’s degree,41596,501,41976,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/22/2020 17:07:57,IBM,Band 8,Solution Architect,122000,Austin, TX,5,5,ML / AI,118000,2000,3000,Male,Master's Degree Tuition Reimbursement, Relocation, Race: White, Academic Level: Master’s degree,10965,635,42281,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+9/23/2020 7:13:13,IBM,Band 9,Sales,215000,Cincinnati, OH,17,2,Technical,145000,0,70000,NA,Remote,10274,515,42363,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/23/2020 9:48:18,IBM,Band 7,Software Engineer,67000,Markham, ON, Canada,2,2,Full Stack,67000,0,0,NA,NA,3468,0,42377,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/23/2020 11:20:55,IBM,Senior Engineer,Software Engineer,88000,Lima, LI, Peru,5,5,Security,86000,0,2000,Male,Race: Hispanic / Latino, Academic Level: Bachelor’s degree,4625,0,42391,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+9/23/2020 14:12:30,IBM,Band 6,Software Engineer,57000,Markham, ON, Canada,1,1,Back-end development,57000,0,0,Female,NA,3468,0,42412,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/23/2020 14:57:54,IBM,Band 6,Software Engineer,119000,San Jose, CA,0,0,API Development (Back-End),109000,0,10000,NA,NA,7422,807,42419,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/23/2020 22:20:45,IBM,Band 7,Software Engineer,135000,San Jose, CA,4,4,Distributed Systems (Back-End),135000,0,0,Female,Academic Level: Bachelor’s degree,7422,807,42486,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+9/24/2020 8:53:44,IBM,Band 10,Software Engineer,225000,Austin, TX,19,5,Full Stack,225000,0,0,NA,Remote, Academic Level: Master’s degree,10965,635,42543,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+9/24/2020 13:25:48,IBM,Band 7,Sales,185000,Dallas, TX,6,2,Security,115000,0,70000,NA,Remote, Academic Level: Master’s degree,11039,623,42576,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+9/25/2020 11:40:47,IBM,Band 7,Software Engineer,175000,Cambridge, MA,3,0,Security,165000,0,10000,NA,Remote, Academic Level: Master’s degree,8821,506,42706,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+9/25/2020 13:28:34,IBM,Band 7,Product Manager,80000,Stuttgart, BW, Germany,2,2,Product,80000,0,4000,NA,NA,3753,0,42722,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/25/2020 16:13:15,IBM,Associate Offering Manager,Product Manager,120000,Austin, TX,2,2,Product,120000,0,0,Female,$20K signing bonus, Race: Black or African American, Academic Level: Master’s degree,10965,635,42747,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+9/26/2020 20:40:24,IBM,Band 8,Product Designer,145000,Austin, TX,6,6,User Experience (UX),145000,0,0,Female,Race: White, Academic Level: Master’s degree,10965,635,42870,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+9/27/2020 20:01:13,IBM,Band 7,Data Scientist,144000,Armonk, NY,2,1,ML / AI,140000,2000,3000,Male,Race: Asian, Academic Level: Master’s degree,12932,501,42952,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/28/2020 2:48:02,IBM,L1,Data Scientist,110000,New York, NY,0,0,Data,110000,0,0,Female,10k signing bonus, Race: Black or African American, Academic Level: Master’s degree,10182,501,42974,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+9/28/2020 4:07:13,IBM,Band 9,Solution Architect,194000,Pittsburgh, PA,20,15,Cloud Advisory,194000,0,5000,NA,NA,10648,508,42980,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/28/2020 7:31:05,IBM,Staff Engineer,Software Engineer,113000,Austin, TX,7,5,Web Development (Front-End),112000,0,1000,Male,Race: White, Academic Level: Bachelor’s degree,10965,635,42993,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/28/2020 20:18:14,IBM,Band 6,Sales,96000,Atlanta, GA,2,2,Technical,78000,0,18000,NA,Remote,7839,524,43126,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/29/2020 10:54:49,IBM,STSM,Software Engineer,265000,San Jose, CA,20,18,Distributed Systems (Back-End),255000,0,10000,NA,NA,7422,807,43206,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/30/2020 7:34:05,IBM,Software Engineer - Band 7,Software Engineer,138000,New York, NY,4,4,API Development (Back-End),135000,0,3000,Female,Cash Rewards for contributing to IP portfolio, Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10182,501,43320,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/30/2020 7:48:30,IBM,Band 7,Software Engineer,108000,Austin, TX,8,5,Web Development (Front-End),106000,0,1000,Male,Title: Software Developer, Race: Two or More Races, Academic Level: Bachelor’s degree,10965,635,43323,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+9/30/2020 17:41:08,IBM,Band 7,Product Designer,111000,Raleigh, NC,4,2,User Experience (UX),111000,0,0,Male,Title: User Experience Design,1317,560,43410,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/2/2020 11:27:52,IBM,Band 9,Product Designer,200000,San Jose, CA,20,1,User Experience (UX),200000,0,0,Male,Race: White, Academic Level: Master’s degree,7422,807,43648,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/4/2020 9:00:37,IBM,Band 7,Software Engineer,87000,Bielefeld, NW, Germany,7,5,Full Stack,87000,0,0,Male,Title: Technical Specialist, Race: Hispanic / Latino, Academic Level: High school or equivalent,12943,0,43833,0,0,0,1,0,0,0,0,0,1,Hispanic,Highschool
+10/6/2020 20:45:08,IBM,Band 7,Product Manager,113000,Dallas, TX,4,4,Internal,113000,0,0,Male,Race: Asian, Academic Level: Master’s degree,11039,623,44172,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/6/2020 21:54:47,IBM,Band 8,Software Engineer,150000,Austin, TX,4,1,DevOps,150000,0,0,NA,NA,10965,635,44176,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/8/2020 6:13:55,IBM,B8,Marketing,111000,New York, NY,7,4,Events,111000,0,0,Male,Race: White, Academic Level: Bachelor’s degree,10182,501,44325,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+10/8/2020 12:27:39,IBM,Band 8,Software Engineering Manager,102000,Markham, ON, Canada,7,7,Testing (SDET),102000,0,0,Male,Title: Manager, Race: Asian, Academic Level: Bachelor’s degree,3468,0,44374,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+10/12/2020 4:49:48,IBM,Band 8,Product Manager,39000,New Delhi, DL, India,6,5,Product,38000,0,1000,Male,Title: Offering Manager, Race: Asian, Academic Level: Master’s degree,14799,0,44796,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/12/2020 13:56:07,IBM,Band 6,Software Engineer,131000,San Jose, CA,1,1,API Development (Back-End),116000,0,15000,NA,Title: Software Engineer,7422,807,44873,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/13/2020 0:50:16,IBM,Band 7,Business Analyst,100000,Dallas, TX,4,1,Infrastructure,90000,1000,9000,NA,NA,11039,623,44937,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/13/2020 14:22:39,IBM,Band 7,Software Engineer,107000,New York, NY,36,9,Applications,107000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Master’s degree,10182,501,45005,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/13/2020 15:03:58,IBM,M4,Human Resources,290000,San Francisco, CA,15,3,Consumer,225000,40000,25000,NA,NA,7419,807,45010,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/14/2020 6:15:58,IBM,Band 7,Software Engineer,125000,Durham, NC,1,1,Site Reliability (SRE),110000,0,15000,Male,Title: Devops Developer, Race: White, Academic Level: Master’s degree,9606,560,45085,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/14/2020 10:40:55,IBM,Band 6,Software Engineer,98000,Atlanta, GA,0,0,Web Development (Front-End),88000,0,10000,NA,NA,7839,524,45111,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/14/2020 20:33:01,IBM,Band 10,Solution Architect,265000,Dallas, TX,20,2,iOS,265000,0,0,Male,Remote, Title: Cloud Architect, Race: White, Academic Level: Master’s degree,11039,623,45199,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/16/2020 6:19:49,IBM,Senior Engineer,Software Engineer,170000,Austin, TX,10,10,Web Development (Front-End),155000,0,15000,Male,Title: Senior Software Engineer, Race: White, Academic Level: Master’s degree,10965,635,45384,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/16/2020 18:58:25,IBM,Band 9,Technical Program Manager,190000,Austin, TX,19,7,Data,187000,0,3000,NA,Title: Senior Managing Consultant,10965,635,45464,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/17/2020 0:51:02,IBM,Associate Engineer,Software Engineer,60000,Houston, TX,0,0,Full Stack,55000,0,5000,NA,Title: Entry Level Associate Engineer,11109,618,45495,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/17/2020 6:04:50,IBM,l5,Sales,70000,Ireland, IN,1,1,ML / AI,50000,0,20000,NA,NA,28920,649,45505,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/18/2020 20:00:22,IBM,Band 8,Software Engineer,121000,Dallas, TX,3,3,API Development (Back-End),121000,0,0,NA,Title: Junior Software Architect,11039,623,45662,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/18/2020 20:01:03,IBM,Band 7,Software Engineer,108000,Dallas, TX,3,3,API Development (Back-End),108000,0,0,NA,Title: Software Engineer Ii,11039,623,45663,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/19/2020 6:33:21,IBM,Band 9,Software Engineer,181000,New York, NY,40,16,Mainframe,178000,3000,0,Male,Race: White, Academic Level: Master’s degree,10182,501,45706,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/20/2020 0:27:07,IBM,Senior engineer,Mechanical Engineer,260000,New York, NY,20,20,Technical,258000,2000,0,Male,NA,10182,501,45842,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/20/2020 19:15:17,IBM,Advisory Engineer,Software Engineer,133000,Poughkeepsie, NY,20,20,Mainframe,132000,0,1000,Male,Title: Advisory Software Engineer, Race: White, Academic Level: Master’s degree,10206,501,45931,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/21/2020 5:10:47,IBM,Senior Offering Manager,Software Engineering Manager,270000,Austin, TX,6,0,Distributed Systems (Back-End),210000,60000,0,NA,NA,10965,635,45964,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/21/2020 5:50:57,IBM,L7,Software Engineer,110000,Austin, TX,5,1,Web Development (Front-End),110000,0,0,Female,Signing bonus $5k, Title: Software Engineer, Race: White, Academic Level: Master’s degree,10965,635,45969,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/21/2020 8:31:47,IBM,Band 6,Software Engineer,90000,Durham, NC,2,1,Full Stack,90000,0,0,Male,Title: Full Stack Software Developer, Race: White, Academic Level: Bachelor’s degree,9606,560,45975,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+10/21/2020 12:45:29,IBM,Staff Engineer,Software Engineer,131000,Raleigh, NC,7,7,DevOps,126000,5000,1000,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,1317,560,46009,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+10/21/2020 13:28:04,IBM,L8,Management Consultant,169000,Sydney, NS, Australia,10,1,Enterprise,169000,0,0,Male,Race: White, Academic Level: Master’s degree,1311,0,46014,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/23/2020 12:25:10,IBM,Band 7,Product Designer,115000,New York, NY,2,2,User Experience (UX),115000,0,0,Female,Title: Ux Designer, Race: Asian, Academic Level: Master’s degree,10182,501,46249,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/23/2020 17:59:27,IBM,B7,Hardware Engineer,100000,Poughkeepsie, NY,5,5,Mainframe,100000,0,0,Male,Title: Staff Engineer, Race: Asian, Academic Level: Master’s degree,10206,501,46296,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/25/2020 16:13:00,IBM,Band 6,Data Scientist,95000,Austin, TX,0,0,Data,95000,0,0,NA,NA,10965,635,46479,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/25/2020 20:05:54,IBM,Band 6,Software Engineer,98000,Austin, TX,1,0,Web Development (Front-End),88000,0,10000,Male,Title: Front End Developer, Race: Two or More Races, Academic Level: Bachelor’s degree,10965,635,46499,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+10/26/2020 17:54:36,IBM,Band 7,Software Engineer,115000,Raleigh, NC,3,1,API Development (Back-End),115000,0,0,Female,Title: Full Stack Application Developer, Race: Asian, Academic Level: Master’s degree,1317,560,46616,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/26/2020 19:07:59,IBM,Band 7,Sales,145000,New York, NY,3,3,Enterprise,80000,0,65000,Male,Race: White, Academic Level: Bachelor’s degree,10182,501,46623,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+10/27/2020 12:59:50,IBM,Band 7,Sales,185000,Dallas, TX,2,2,Security,115000,0,70000,NA,Remote,11039,623,46697,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/27/2020 14:12:14,IBM,Band 7,Software Engineer,121000,Dublin, OH,8,4,Distributed Systems (Back-End),121000,0,1000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10285,535,46709,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/27/2020 16:55:29,IBM,Band 6,Software Engineer,107000,Columbus, OH,1,0,API Development (Back-End),93000,0,15000,Male,Title: Software Engineer - Backend Developer Ai Teams, Race: Black or African American, Academic Level: Bachelor’s degree,10278,535,46741,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+10/28/2020 19:34:42,IBM,Band 7,Software Engineer,125000,Austin, TX,1,1,Cloud,100000,0,25000,NA,Title: Cloud Software Developer,10965,635,46895,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/29/2020 5:34:09,IBM,Band 8,Product Designer,168000,New York, NY,6,6,User Experience (UX),158000,0,10000,Male,Remote, Title: Design Lead, Race: Asian, Academic Level: Master’s degree,10182,501,46938,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/29/2020 8:40:06,IBM,Program Director,Product Manager,252000,San Francisco, CA,15,2,Enterprise,252000,0,0,Male,Title: Program Director, Race: Asian, Academic Level: Master’s degree,7419,807,46953,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/29/2020 10:47:43,IBM,Band 8,Product Designer,134000,Boston, MA,8,4,User Interfaces,134000,0,0,NA,Title: Product Designer,8816,506,46970,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/30/2020 13:48:03,IBM,Band 7,Software Engineer,143000,San Jose, CA,2,2,Full Stack,143000,0,0,Male,Title: Software Developer, Race: Asian, Academic Level: Master’s degree,7422,807,47135,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/30/2020 15:44:21,IBM,Band 6,Software Engineer,102000,Raleigh, NC,0,0,Z Systems,92000,0,10000,Male,Title: Systems Engineer, Race: Two or More Races, Academic Level: Bachelor’s degree,1317,560,47147,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+10/30/2020 20:19:26,IBM,Band 7,Sales,100000,London, EN, United Kingdom,5,5,Data,50000,0,50000,NA,NA,12008,0,47172,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/31/2020 22:48:43,IBM,Band 6,Software Engineer,64000,Ottawa, ON, Canada,3,3,Full Stack,64000,0,0,Female,Title: Software Developer, Race: Asian, Academic Level: Bachelor’s degree,5906,0,47258,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+11/2/2020 13:15:05,IBM,Band 6,Software Engineer,64000,Ottawa, ON, Canada,0,0,Web Development (Front-End),64000,0,4000,Male,Title: Software Developer, Race: White, Academic Level: Bachelor’s degree,5906,0,47382,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+11/3/2020 7:42:28,IBM,L1,Data Scientist,135000,New York, NY,0,0,Data,130000,0,1000,Female,Remote, Title: Data Scientist, Race: White, Academic Level: Master’s degree,10182,501,47508,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+11/3/2020 12:33:51,IBM,Band 8,Software Engineer,120000,Denver, CO,3,2,ML / AI,120000,1000,1000,NA,NA,7548,751,47542,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/5/2020 8:40:36,IBM,L8,Solution Architect,150000,Toronto, ON, Canada,15,1,API Development (Back-End),140000,0,10000,Male,Title: Solution Architect, Race: Asian, Academic Level: Bachelor’s degree,1206,0,47706,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+11/9/2020 9:36:41,IBM,B7,Business Analyst,80000,Southbury, CT,5,5,Technical,80000,0,0,Female,Race: White, Academic Level: Bachelor’s degree,13518,533,47994,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+11/10/2020 14:44:09,IBM,L1,Software Engineer,83000,Toronto, ON, Canada,0,0,ML / AI,83000,0,0,Male,Race: Hispanic / Latino, Academic Level: Bachelor’s degree,1206,0,48129,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+11/11/2020 15:44:25,IBM,Band 6,Software Engineer,105000,New York, NY,1,1,Full Stack,105000,0,0,NA,Title: Software Developer,10182,501,48231,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/12/2020 9:15:46,IBM,Associate Engineer,Software Engineer,100000,Raleigh, NC,0,0,DevOps,83000,0,17000,NA,Title: Software Engineer,1317,560,48297,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/14/2020 13:13:04,IBM,Band 10,Solution Architect,160000,Stuttgart, BW, Germany,25,20,Cloud,130000,0,30000,NA,Title: It Architect, Academic Level: Bachelor’s degree,3753,0,48508,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+11/15/2020 7:46:02,IBM,L2,Software Engineer,32000,Bangalore, KA, India,6,2,Full Stack,32000,0,0,Male,Title: Senior Software Developer, Race: Asian, Academic Level: Bachelor’s degree,4058,0,48561,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+11/16/2020 2:12:38,IBM,Band 7,Software Engineer,76000,Dublin, DN, Ireland,5,5,Full Stack,75000,0,1000,NA,Title: Senior Software Engineer,4015,0,48629,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/16/2020 9:45:39,IBM,Band 7,Software Engineer,135000,Toronto, ON, Canada,10,3,Full Stack,128000,8000,0,Male,Title: Application Architect, Race: White, Academic Level: Bachelor’s degree,1206,0,48645,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+11/19/2020 13:49:52,IBM,Band 8,Software Engineer,43000,San Jose, SJ, Costa Rica,10,5,API Development (Back-End),43000,0,0,Male,Title: Software Engineer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,3634,0,49011,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+11/19/2020 23:43:06,IBM,Band 6,Software Engineer,110000,Littleton, MA,0,0,Data,100000,0,10000,Female,Title: Software Engineer, Race: Black or African American, Academic Level: Bachelor’s degree,30610,506,49056,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+11/23/2020 15:20:04,IBM,L2,Software Engineer,103000,Durham, NC,5,5,DevOps,103000,0,0,Male,Title: Technical Support, Race: White, Academic Level: Bachelor’s degree,9606,560,49371,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+11/24/2020 10:35:35,IBM,Band 8,Software Engineer,80000,Brazil, IN,6,5,Kernel / Compilers,80000,0,1000,Male,Remote, Title: Advisory Software Engineer, Race: White, Academic Level: Master’s degree,8363,581,49455,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+11/24/2020 12:00:32,IBM,Band 9,Product Designer,161000,Austin, TX,11,5,User Experience (UX),161000,0,0,Male,Title: Senior Designer, Race: White, Academic Level: Bachelor’s degree,10965,635,49466,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+11/24/2020 14:23:40,IBM,Band 9,Software Engineer,201000,Yorktown Heights, NY,8,4,ML / AI,191000,8000,2000,Male,Title: Research Software Engineer, Race: Asian, Academic Level: Master’s degree,41596,501,49481,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+11/24/2020 16:06:18,IBM,Band 7,Software Engineer,137000,Boston, MA,5,5,Security,137000,0,1000,Male,Title: Staff Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,8816,506,49492,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+11/25/2020 14:00:45,IBM,Band 8,Solution Architect,120000,Denver City, TX,16,16,Systems,120000,0,0,NA,NA,11045,651,49598,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/28/2020 5:36:53,IBM,Band 10,Human Resources,220000,New York, NY,16,16,Infrastructure,197000,10000,10000,Male,Remote, Race: Hispanic / Latino, Academic Level: Master’s degree,10182,501,49752,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+11/29/2020 14:03:47,IBM,L7,Software Engineer,48000,Winchester, EN, United Kingdom,3,3,Full Stack,48000,0,0,NA,Title: Senior Software Engineer,12551,0,49824,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/30/2020 21:11:28,IBM,Band 8,Software Engineer,140000,Houston, TX,5,3,Production,140000,0,0,Female,Title: Software Team Lead, Race: White, Academic Level: Bachelor’s degree,11109,618,49947,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+12/2/2020 19:31:02,IBM,Band 10,Management Consultant,181000,Toronto, ON, Canada,12,12,Technical,166000,8000,8000,Male,Title: Associate Partner, Race: Asian, Academic Level: Master’s degree,1206,0,50145,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+12/4/2020 7:07:13,IBM,Band 7,Software Engineer,109000,Rochester, MN,8,5,Full Stack,109000,0,0,Male,Title: Staff Software Engineer, Race: White, Academic Level: Bachelor’s degree,9266,611,50299,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+12/7/2020 21:26:25,IBM,Band 6,Software Engineer,120000,Littleton, MA,0,0,Watson,110000,0,10000,Female,Remote, Title: Software Engineer, Race: Black or African American, Academic Level: Bachelor’s degree,30610,506,50563,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+12/11/2020 12:30:40,IBM,Band 8,Software Engineer,144000,Chicago, IL,6,4,Web Development (Front-End),144000,0,0,Male,Remote, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,8198,602,51006,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+12/11/2020 12:48:01,IBM,Band 7,Product Designer,113000,Austin, TX,2,2,User Research,113000,0,0,Female,Race: Asian, Academic Level: Master’s degree,10965,635,51010,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+12/11/2020 17:51:33,IBM,Band 9,Technical Program Manager,130000,Toronto, ON, Canada,10,10,Data,130000,0,2000,Male,Title: Senior Managing Consultant, Race: White, Academic Level: Bachelor’s degree,1206,0,51037,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+12/13/2020 12:33:28,IBM,Band 10,Sales,300000,San Francisco, CA,25,15,Enterprise,200000,0,100000,Male,Remote, Title: Bde, Race: Asian, Academic Level: Master’s degree,7419,807,51157,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+12/14/2020 20:26:28,IBM,Band 6,Software Engineer,79000,Markham, ON, Canada,2,1,Distributed Systems (Back-End),77000,0,2000,NA,Title: Software Developer, Academic Level: Bachelor’s degree,3468,0,51264,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+12/15/2020 19:45:42,IBM,Band 8,Software Engineer,109000,Ottawa, ON, Canada,28,21,Full Stack,108000,0,1000,NA,Title: Advisory Software Engineer,5906,0,51371,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/15/2020 19:52:23,IBM,Band 10,Software Engineering Manager,200000,Charlotte, NC,15,15,Data,200000,0,0,NA,Remote,9594,517,51372,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/16/2020 3:06:37,IBM,Consultant,Management Consultant,160000,New York, NY,5,0,Strategy,160000,0,0,Male,Academic Level: Master’s degree,10182,501,51402,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+12/16/2020 17:37:54,IBM,Band 8,Software Engineer,129000,Austin, TX,5,1,DevOps,129000,0,0,NA,Title: Devops Engineer,10965,635,51504,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/17/2020 13:45:31,IBM,9,Sales,210000,St. Louis, MO,5,5,Enterprise,100000,0,110000,NA,Remote,11896,609,51613,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/17/2020 16:59:15,IBM,Band 7,Management Consultant,93000,Montreal, QC, Canada,3,3,Enterprise,93000,0,1000,Male,Race: White, Academic Level: Bachelor’s degree,1182,0,51630,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+12/18/2020 13:18:09,IBM,Band 7,Software Engineer,110000,Austin, TX,2,2,Web Development (Front-End),110000,0,0,Female,Title: Staff Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,10965,635,51730,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+12/18/2020 18:39:55,IBM,Band 9,Sales,250000,Chicago, IL,11,3,Product,165000,0,85000,Female,Remote, Title: Sales Brand Specialist, Race: White, Academic Level: Master’s degree,8198,602,51763,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+12/19/2020 5:52:17,IBM,09,Product Designer,260000,Pittsburgh, PA,11,5,User Experience (UX),168000,90000,2000,NA,Title: Senior Product Designer, Academic Level: Bachelor’s degree,10648,508,51798,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+12/20/2020 14:55:41,IBM,Band 6,Software Engineer,100000,Austin, TX,0,0,API Development (Back-End),90000,0,10000,Male,Race: Black or African American, Academic Level: Bachelor’s degree,10965,635,51900,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+12/20/2020 18:43:41,IBM,Band 6,Software Engineer,89000,Rochester, MN,2,2,Full Stack,88000,1000,0,Male,Race: White, Academic Level: Bachelor’s degree,9266,611,51920,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+12/21/2020 5:29:56,IBM,Senior Technical Staff Member,Software Engineer,120000,Winchester, EN, United Kingdom,17,17,Data,120000,0,0,NA,Title: Software Architect,12551,0,51964,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/27/2020 12:29:00,IBM,Band 6,Hardware Engineer,110000,San Jose, CA,0,0,Firmware,110000,0,0,NA,$20k signing bonus, Title: Firmware Developer, Academic Level: Bachelor’s degree,7422,807,52457,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+12/27/2020 18:46:25,IBM,Band 7,Management Consultant,103000,Toronto, ON, Canada,2,2,Technical,103000,0,0,Male,Title: Senior Consultant, Race: Asian, Academic Level: Bachelor’s degree,1206,0,52476,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+12/28/2020 14:58:38,IBM,Band 7,Software Engineer,61000,Markham, ON, Canada,10,6,API Development (Back-End),61000,0,3000,Male,Title: Software Developer, Race: White, Academic Level: Bachelor’s degree,3468,0,52532,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+12/29/2020 5:36:57,IBM,Band 7,Data Scientist,135000,New York, NY,3,2,ML / AI,130000,5000,0,Male,Title: Data Scientist, Race: Asian, Academic Level: Bachelor’s degree,10182,501,52580,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+12/31/2020 6:46:47,IBM,L1,Product Designer,92000,Austin, TX,2,0,User Experience (UX),92000,0,0,NA,Title: Ux Designer,10965,635,52747,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/2/2021 18:20:09,IBM,Band 7,Software Engineer,78000,Ottawa, ON, Canada,7,3,Networking,78000,0,0,Male,Title: Staff Software Developer, Race: Two or More Races, Academic Level: Bachelor’s degree,5906,0,52947,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+1/3/2021 20:00:33,IBM,Band 8,Product Designer,134000,Littleton, MA,9,4,Web and Mobile,133000,0,1000,Male,Title: Product Designer, Race: White, Academic Level: Bachelor’s degree,30610,506,53033,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/4/2021 13:15:02,IBM,Band 8,Software Engineer,125000,Atlanta, GA,5,5,API Development (Back-End),125000,0,0,Male,Race: Hispanic / Latino, Academic Level: Doctorate (PhD),7839,524,53099,0,0,1,0,0,0,0,0,0,1,Hispanic,PhD
+1/4/2021 15:17:54,IBM,Staff Engineer,Software Engineer,94000,Rochester, MN,5,5,Web Development (Front-End),93000,0,1000,NA,Title: Software Engineer, Academic Level: Bachelor’s degree,9266,611,53114,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+1/4/2021 19:14:39,IBM,Band 7,Software Engineer,106000,Durham, NC,3,1,Web Development (Front-End),106000,0,0,NA,Title: Front End Engineer,9606,560,53139,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/5/2021 9:35:51,IBM,Band 10,Software Engineer,233000,Zurich, ZH, Switzerland,15,15,enterprise architectures,227000,0,6000,Male,Title: Executive It Architect, Race: White, Academic Level: Doctorate (PhD),6736,0,53192,0,0,1,0,0,0,1,0,0,0,White,PhD
+1/5/2021 17:47:40,IBM,Band 9,Software Engineer,173000,Durham, NC,15,14,Full Stack,172000,0,1000,Female,Title: Senior Software Engineer, Race: White, Academic Level: Bachelor’s degree,9606,560,53236,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/7/2021 8:57:52,IBM,L9,Technical Program Manager,280000,New York, NY,13,1,SAP,260000,0,20000,Male,Title: Senior Managing Consultant, Race: Asian, Academic Level: Master’s degree,10182,501,53391,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/7/2021 20:24:24,IBM,Band 7,Software Engineer,109000,Austin, TX,2,2,Full Stack,97000,4000,8000,Female,Title: Software Developer, Race: Asian, Academic Level: Bachelor’s degree,10965,635,53461,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+1/7/2021 21:11:50,IBM,Advisory Engineer,Software Engineer,123000,Poughkeepsie, NY,6,6,ML / AI,123000,0,0,Male,Title: Advisory Software Engineer, Race: White, Academic Level: Bachelor’s degree,10206,501,53469,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/8/2021 19:36:42,IBM,Band 9,Data Scientist,191000,Los Angeles, CA,3,3,ML / AI,191000,0,0,Male,Title: Lead Data Scientist & Senior Managing Consultant, Race: White, Academic Level: Master’s degree,7275,803,53566,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+1/11/2021 8:50:15,IBM,Band 9,Sales,200000,Austin, TX,19,19,Technical,150000,0,50000,Male,Computer Engineer, Title: Field Technical Sales, Race: Asian, Academic Level: Bachelor’s degree,10965,635,53732,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+1/11/2021 11:40:52,IBM,Band 9,Software Engineering Manager,192000,San Francisco, CA,7,6,Site Reliability (SRE),192000,0,0,NA,Title: Site Reliability Manager, Academic Level: Bachelor’s degree,7419,807,53744,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+1/11/2021 13:26:03,IBM,Band 7,Software Engineer,133000,New York, NY,10,2,Web Development (Front-End),133000,0,0,NA,Title: Software Engineer,10182,501,53753,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/11/2021 15:38:07,IBM,Band 7,Software Engineer,110000,Austin, TX,2,2,DevOps,110000,0,0,Female,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,10965,635,53765,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/12/2021 12:10:12,IBM,Band 7,Product Designer,115000,New York, NY,3,3,User Experience (UX),115000,0,0,NA,NA,10182,501,53859,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/12/2021 18:33:52,IBM,Band 6,Software Engineer,88000,Poughkeepsie, NY,1,1,Full Stack,88000,0,0,Female,10k sign on bonus, Title: Associate Engineer, Race: White, Academic Level: Bachelor’s degree,10206,501,53913,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/13/2021 4:28:57,IBM,L5,Software Engineer,39000,Dublin, DN, Ireland,1,1,DevOps,39000,0,0,NA,Title: Software Engineer,4015,0,53966,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/13/2021 20:54:01,IBM,Senior Offering Manager,Product Manager,157000,Austin, TX,3,3,Enterprise,157000,0,2000,Female,Title: Senior Product Manager, Race: Black or African American, Academic Level: Master’s degree,10965,635,54051,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+1/14/2021 18:30:05,IBM,Band 7,Business Analyst,94000,Atlanta, GA,2,2,Analytic,94000,0,0,Female,Title: Senior Consultant, Race: Asian, Academic Level: Bachelor’s degree,7839,524,54161,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+1/14/2021 21:11:09,IBM,Senior Engineer,Software Engineer,163000,Austin, TX,15,15,Distributed Systems (Back-End),163000,0,0,Male,Title: Senior Software Engineer, Race: White, Academic Level: Bachelor’s degree,10965,635,54176,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/15/2021 6:21:30,IBM,Senior Designer - 8,Product Designer,99000,Toronto, ON, Canada,7,5,Interaction Design,97000,0,2000,NA,Title: User Experience Designer,1206,0,54215,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/16/2021 10:50:01,IBM,Band 7,Software Engineer,125000,Atlanta, GA,8,8,Android,125000,0,0,Female,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,7839,524,54339,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/18/2021 3:27:43,IBM,Band 6,Software Engineer,93000,Chicago, IL,0,0,API Development (Back-End),90000,0,3000,Male,Title: Cloud Developer, Race: Black or African American, Academic Level: Bachelor’s degree,8198,602,54480,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+1/18/2021 7:43:52,IBM,Band 7,Data Scientist,49000,Barcelona, CT, Spain,17,3,Data,45000,0,4000,Male,Title: Database Specialist, Race: White, Academic Level: Master’s degree,3807,0,54492,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+1/20/2021 6:44:06,IBM,Band 8,Software Engineer,145000,Pittsburgh, PA,10,6,Distributed Systems (Back-End),144000,0,1000,NA,Title: Advisory Software Engineer,10648,508,54723,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/20/2021 9:48:47,IBM,Band 8,Software Engineer,165000,Boston, MA,4,4,Full Stack,159000,3000,4000,NA,Title: Advisory Software Engineer,8816,506,54738,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/20/2021 19:37:31,IBM,Band 9,Product Manager,271000,Dallas, TX,14,5,Product,189000,82000,0,Male,2019, Race: White, Academic Level: Bachelor’s degree,11039,623,54795,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/20/2021 22:47:55,IBM,Band 7,Software Engineer,102000,Raleigh, NC,2,2,Testing (SDET),102000,0,0,Male,10k sign on bonus, Title: Software Developer, Race: Black or African American, Academic Level: Bachelor’s degree,1317,560,54809,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+1/21/2021 9:31:50,IBM,Band 7,Software Engineer,75000,Toronto, ON, Canada,6,6,Data,75000,0,0,Male,Race: White, Academic Level: Bachelor’s degree,1206,0,54839,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/21/2021 16:01:32,IBM,Band 9,Business Analyst,155000,San Jose, CA,45,20,Internal,155000,0,0,Female,Remote, Race: White, Academic Level: Master’s degree,7422,807,54897,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+1/22/2021 6:53:24,IBM,Band 8,Software Engineer,107000,Dublin, DN, Ireland,22,21,ML / AI,107000,0,0,Male,Title: Technical Lead, Race: White, Academic Level: Bachelor’s degree,4015,0,54974,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/25/2021 10:19:03,IBM,Band 7,Software Engineer,120000,Irving, TX,5,5,API Development (Back-End),120000,0,0,Male,Title: Staff Software Engineer, Race: White, Academic Level: Bachelor’s degree,11115,623,55305,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/26/2021 8:55:23,IBM,Band 9,Software Engineer,159000,Miami, FL,29,22,Full Stack,159000,0,5000,Male,Remote, Title: Senior Full Stack Software Engineer, Race: Hispanic / Latino, Academic Level: Master’s degree,1242,528,55443,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+1/27/2021 13:05:24,IBM,Band 6,Software Engineer,100000,Littleton, MA,0,0,Site Reliability (SRE),100000,0,0,Male,$10k Sign on bonus, Title: Site Reliability Engineer, Race: White, Academic Level: Bachelor’s degree,30610,506,55621,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/27/2021 19:59:15,IBM,Band 9,Solution Architect,155000,Seattle, WA,14,8,Data,155000,0,0,Female,Remote, Race: White, Academic Level: Bachelor’s degree,11527,819,55679,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/28/2021 14:44:50,IBM,Band 7,Management Consultant,162000,New York, NY,6,1,Strategy,162000,0,0,NA,Title: Senior Consultant,10182,501,55776,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/28/2021 15:22:06,IBM,Band 6,Software Engineer,93000,Irving, TX,3,3,Full Stack,89000,0,4000,Male,10k signing bonus, Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,11115,623,55781,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/29/2021 20:31:37,IBM,Band 6,Software Engineer,87000,Austin, TX,3,3,Full Stack,87000,0,0,Male,Remote, Title: Software Developer, Race: Asian, Academic Level: Bachelor’s degree,10965,635,55925,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+1/30/2021 2:53:49,IBM,Band 7,Product Designer,120000,San Jose, CA,2,2,User Research,120000,0,0,Male,Title: Ux Researcher, Race: Asian, Academic Level: Bachelor’s degree,7422,807,55941,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+1/31/2021 15:12:28,IBM,7,Software Engineer,140000,New York, NY,5,3,Full Stack,140000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,10182,501,56066,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/31/2021 22:16:58,IBM,Band 6,Software Engineer,71000,Toronto, ON, Canada,1,1,Full Stack,71000,0,0,Male,Title: Software Developer, Race: Asian, Academic Level: Bachelor’s degree,1206,0,56097,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+2/1/2021 1:15:48,IBM,Band 7,Software Engineer,119000,Austin, TX,3,3,ML / AI,119000,0,0,NA,Title: Software Engineer,10965,635,56111,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/2/2021 16:24:53,IBM,Band 9,Solution Architect,155000,Portland, OR,12,8,Data,155000,0,0,Female,Remote, Race: White, Academic Level: Bachelor’s degree,10522,820,56326,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+2/3/2021 10:13:44,IBM,Band 8,Solution Architect,200000,Zurich, ZH, Switzerland,14,1,Cloud,180000,0,20000,Male,Title: Solution Architect, Race: White, Academic Level: Master’s degree,6736,0,56431,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+2/3/2021 17:34:17,IBM,Band 7,Software Engineer,138000,Boston, MA,5,5,API Development (Back-End),137000,1000,1000,Male,Title: Staff Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,8816,506,56475,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+2/4/2021 10:03:31,IBM,Band 7,Software Engineer,108000,Austin, TX,5,5,ML / AI,108000,0,0,NA,Title: Developer Advocate,10965,635,56546,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/4/2021 12:49:22,IBM,Band 8,Software Engineer,125000,Raleigh, NC,3,2,API Development (Back-End),125000,0,0,Male,Title: Advisory Software Engineer, Race: White, Academic Level: Master’s degree,1317,560,56563,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+2/5/2021 11:40:19,IBM,Staff Engineer,Software Engineer,144000,San Jose, CA,5,3,Distributed Systems (Back-End),144000,0,0,NA,Title: Staff Engineer,7422,807,56676,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/7/2021 18:03:55,IBM,Band 7,Software Engineer,135000,Chicago, IL,2,2,Cloud,96000,0,39000,NA,Title: Sales Engineer, Remote, Academic Level: Bachelor’s degree,8198,602,56886,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+2/8/2021 22:04:13,IBM,Band 6,Business Analyst,44000,Singapore, SG, Singapore,2,2,Consultant,40000,0,3000,NA,Title: Business Transformation Consultant, Academic Level: Bachelor’s degree,17912,0,57003,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+2/9/2021 17:26:44,IBM,Band 9,Data Scientist,174000,Charleston, SC,11,2,Computer vision,174000,0,0,Male,Remote, Title: Senior Data Scientist, Race: White, Academic Level: Master’s degree,10726,519,57074,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+2/10/2021 8:44:51,IBM,Band 7,Product Designer,127000,New York, NY,3,2,User Experience (UX),127000,0,0,Female,Title: Ux Designer,10182,501,57151,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/10/2021 10:33:57,IBM,Band 8,Product Manager,168000,New York, NY,5,5,Operations,168000,0,0,NA,Title: Offering Manager,10182,501,57158,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/11/2021 8:38:42,IBM,Software Engineer,Software Engineer,85000,Cleveland, OH,8,8,API Development (Back-End),85000,0,0,Male,Remote, Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,10276,510,57283,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+2/14/2021 17:13:07,IBM,Band 8,Software Engineer,101000,Toronto, ON, Canada,3,3,Distributed Systems (Back-End),93000,0,8000,NA,NA,1206,0,57625,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/15/2021 11:41:32,IBM,Band 7,Software Engineer,122000,Irving, TX,3,3,Site Reliability (SRE),120000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,11115,623,57702,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+2/18/2021 23:08:51,IBM,Band 7,Software Engineer,45000,Taipei, TP, Taiwan,4,2,Web Development (Front-End),45000,0,0,NA,Title: Application,6744,0,58245,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/20/2021 16:24:32,IBM,Band 8,Data Scientist,156000,New York, NY,10,2,ibm,156000,0,0,Female,Race: Asian, Academic Level: Master’s degree,10182,501,58458,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+2/21/2021 9:02:47,IBM,Band 9,Product Designer,163000,Pittsburgh, PA,8,2,Content Design,163000,0,0,Male,Race: White, Academic Level: Master’s degree,10648,508,58513,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+2/21/2021 18:01:07,IBM,Band 7,Software Engineer,79000,Toronto, ON, Canada,2,2,Compilers, Embedded Systems,79000,0,0,Male,Title: Staff Software Developer, Race: Asian, Academic Level: Bachelor’s degree,1206,0,58560,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+2/22/2021 9:54:13,IBM,Band 9,Data Scientist,197000,Traverse City, MI,9,5,Healthcare,180000,15000,2000,Male,Remote, Title: Data Scientist, Race: White, Academic Level: Master’s degree,9148,540,58618,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+2/22/2021 16:25:48,IBM,Band 6,Software Engineer,95000,Durham, NC,2,1,Full Stack,95000,0,0,Male,Title: Full Stack Developer, Race: Black or African American, Academic Level: Bachelor’s degree,9606,560,58683,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+2/23/2021 6:25:37,IBM,Band 7,Software Engineer,39000,Bratislava, BL, Slovakia,5,4,Full Stack,39000,0,0,Male,Title: Application Developer, Race: White, Academic Level: Master’s degree,5013,0,58772,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+2/24/2021 10:02:07,IBM,Band 6,Software Engineer,45000,Baton Rouge, LA,1,1,Full Stack,45000,0,0,Male,Title: Application Developer, Race: Asian, Academic Level: Bachelor’s degree,8723,716,58936,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+2/24/2021 16:08:30,IBM,Senior Engineer,Hardware Engineer,176000,Rochester, MN,23,23,SoC Design,165000,10000,1000,Male,Title: Senior Memory Design Engineer, Race: White, Academic Level: Master’s degree,9266,611,58986,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+2/25/2021 20:00:13,IBM,Staff Engineer,Software Engineer,107000,Austin, TX,6,5,Site Reliability (SRE),106000,0,1000,Male,Title: Staff Software Engineer, Race: White, Academic Level: Bachelor’s degree,10965,635,59185,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+2/26/2021 11:36:18,IBM,Senior Engineer,Software Engineer,110000,Raleigh, NC,7,0,SAP ABAP,110000,0,0,Male,$15k Signing Bonus, Title: Senior Sap Abap Developer, Race: White, Academic Level: Master’s degree,1317,560,59260,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+2/26/2021 21:53:58,IBM,Senior Engineer,Hardware Engineer,175000,Rochester, MN,23,23,SoC Design,168000,8000,1000,Male,Title: Memory Designer, Race: White, Academic Level: Master’s degree,9266,611,59344,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+2/27/2021 14:52:34,IBM,Band 7,Software Engineer,125000,Zurich, ZH, Switzerland,7,4,Full Stack,125000,0,0,Male,Title: Software Engineer, Academic Level: Master’s degree,6736,0,59418,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2/27/2021 17:27:45,IBM,Band 8,Product Designer,160000,New York, NY,12,2,User Experience (UX),160000,0,0,Female,Title: Product Design Lead, Race: Two or More Races, Academic Level: Associate Degree,10182,501,59427,0,0,0,0,0,0,0,1,0,0,Two Or More,NA
+3/1/2021 8:52:02,IBM,Band 8,Software Engineer,110000,Philadelphia, PA,7,7,Security,110000,1000,0,Male,Race: Hispanic / Latino, Academic Level: Some college coursework completed,10646,504,59585,0,0,0,0,1,0,0,0,0,1,Hispanic,Some College
+3/3/2021 8:59:18,IBM,Band 6,Management Consultant,80000,Cambridge, MA,6,2,Security,80000,0,0,Female,Title: Security Strategy, Risk, And Compliance Consultant, Race: White, Academic Level: Master’s degree,8821,506,59872,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+3/3/2021 9:55:34,IBM,Band 8,Product Manager,133000,Raleigh, NC,4,4,Product,133000,0,0,NA,Title: Senior Offering Manager,1317,560,59879,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/3/2021 17:32:05,IBM,Band 7,Software Engineer,129000,Durham, NC,7,7,Distributed Systems (Back-End),129000,0,1000,Male,Title: Software Engineer,9606,560,59954,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/3/2021 22:16:03,IBM,Band 9,Product Designer,200000,San Jose, CA,15,2,User Experience (UX),200000,5000,0,NA,Title: Design Lead,7422,807,60001,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/5/2021 20:47:24,IBM,Band 8,Software Engineer,145000,Dallas, TX,5,5,Full Stack,145000,0,0,Male,Remote, Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,11039,623,60288,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/6/2021 17:46:59,IBM,Band 6,Hardware Engineer,104000,New York, NY,0,0,SoC Design,94000,0,10000,Female,Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,10182,501,60365,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+3/6/2021 23:05:02,IBM,Band 8,Product Designer,123000,Raleigh, NC,5,3,User Experience (UX),123000,0,0,Male,Title: Sr. Designer, Academic Level: Master’s degree,1317,560,60392,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/7/2021 14:51:45,IBM,Associate Offering Manager,Product Manager,97000,Poughkeepsie, NY,1,1,Product,87000,0,10000,Female,$10,000 sign-on bonus, Title: Associate Offering Manager, Race: White, Academic Level: Bachelor’s degree,10206,501,60449,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/7/2021 15:59:44,IBM,Band 8,Data Scientist,160000,New York, NY,6,6,ML Product,160000,0,0,Female,Title: Data Scientist, Race: Asian, Academic Level: Master’s degree,10182,501,60456,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/7/2021 21:43:28,IBM,Band 6,Management Consultant,75000,Toronto, ON, Canada,0,0,#finance,75000,0,0,Male,Title: Associate Consultant, Race: Asian, Academic Level: Bachelor’s degree,1206,0,60503,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+3/8/2021 11:57:09,IBM,Program Director,Product Manager,200000,Raleigh, NC,9,8,Enterprise,191000,0,9000,Male,Title: Offering Manager, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,1317,560,60567,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+3/9/2021 7:07:59,IBM,Band 6,Software Engineer,107000,Cambridge, MA,3,1,API Development (Back-End),97000,0,10000,Male,Title: Software Engineer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,8821,506,60697,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+3/9/2021 9:08:03,IBM,Band 7,Software Engineer,142000,San Francisco, CA,5,5,Web Development (Front-End),142000,0,0,Female,Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,7419,807,60712,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+3/9/2021 17:29:04,IBM,Band 6,Software Engineer,45000,Baton Rouge, LA,1,1,API Development (Back-End),45000,0,0,Male,Title: Application Developer, Race: White, Academic Level: Bachelor’s degree,8723,716,60800,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/11/2021 20:47:51,IBM,Band 7,Product Designer,105000,Atlanta, GA,8,6,User Experience (UX),105000,0,0,Female,Title: Senior Ux Designer, Race: Asian, Academic Level: Master’s degree,7839,524,61183,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/12/2021 22:06:06,IBM,Band 9,Software Engineer,205000,San Francisco, CA,14,14,Full Stack,205000,0,5000,NA,Title: Developer Advocate,7419,807,61350,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/13/2021 23:08:15,IBM,Band 8,Software Engineer,138000,Austin, TX,8,8,DevOps,138000,0,3000,NA,Title: Advisory Software Engineer,10965,635,61443,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/13/2021 23:32:27,IBM,Band 7,Software Engineer,80000,Toronto, ON, Canada,2,2,Compilers, Embedded Software Development, Computer Hardware,80000,0,0,NA,Title: Staff Software Developer,1206,0,61444,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/14/2021 10:44:10,IBM,Band 8,Software Engineer,150000,Austin, TX,3,1,DevOps,150000,0,0,Male,Title: Devops Engineer, Race: White, Academic Level: Bachelor’s degree,10965,635,61471,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/15/2021 11:27:42,IBM,Band 7,Software Engineer,137000,San Jose, CA,2,2,Full Stack,137000,0,0,NA,Title: Software Engineer,7422,807,61587,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/15/2021 20:58:41,IBM,Band 7,Software Engineer,140000,Boston, MA,3,3,Full Stack,134000,6000,0,Male,Title: Software Developer, Race: White, Academic Level: Master’s degree,8816,506,61680,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+3/16/2021 10:44:22,IBM,Band 8,Software Engineer,145000,San Jose, CA,7,3,Distributed Systems (Back-End),145000,0,2000,NA,Title: Software Engineer,7422,807,61712,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/16/2021 17:07:25,IBM,Associate Engineer,Data Scientist,73000,Rochester, MN,2,2,Finance,73000,0,0,Male,Title: Data Scientist, Race: White, Academic Level: Bachelor’s degree,9266,611,61755,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/16/2021 23:31:25,IBM,Band 7,Data Scientist,115000,Austin, TX,2,2,General,98000,0,17000,Male,Title: Data Scientist, Race: White, Academic Level: Bachelor’s degree,10965,635,61800,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/17/2021 13:11:21,IBM,Band 7,Software Engineer,110000,Durham, NC,4,2,API Development (Back-End),110000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Associate Degree,9606,560,61867,0,0,0,0,0,0,1,0,0,0,White,NA
+3/17/2021 20:11:37,IBM,Band 9,Software Engineer,165000,San Jose, CA,25,5,Distributed Systems (Back-End),165000,0,0,Male,Title: Sr Software Engineer, Race: White, Academic Level: Bachelor’s degree,7422,807,61921,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/18/2021 8:48:45,IBM,Band 6,Software Engineer,68000,Toronto, ON, Canada,2,2,Android,68000,0,0,NA,Title: Application Developer,1206,0,61973,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/19/2021 6:12:53,IBM,Advisory Engineer,Software Engineer,129000,Burlington, VT,20,20,Production,129000,0,0,Male,Remote, Title: Advisory Software Engineer, Race: White, Academic Level: Master’s degree,1153,523,62100,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+3/19/2021 6:39:01,IBM,Associate Engineer,Data Scientist,125000,New York, NY,1,1,General,115000,0,10000,Female,Title: Data Scientist, Academic Level: Bachelor’s degree,10182,501,62104,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+3/19/2021 9:13:05,IBM,Band 7,Software Engineer,87000,Austin, TX,5,5,Site Reliability (SRE),87000,0,0,Male,Title: Ibm Kubernetes Sre, Race: White, Academic Level: Bachelor’s degree,10965,635,62114,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/19/2021 17:02:14,IBM,Band 7,Software Engineer,121000,Austin, TX,5,4,API Development (Back-End),121000,0,0,Male,Title: Staff Software Engineer, Race: Two or More Races, Academic Level: Bachelor’s degree,10965,635,62176,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+3/20/2021 9:13:00,IBM,Band 9,Management Consultant,188000,San Francisco, CA,20,10,Analytics,180000,6000,2000,NA,Title: Senior Managing Consultant,7419,807,62234,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/21/2021 16:14:50,IBM,Band 6,Software Engineer,92000,Austin, TX,4,4,ML / AI,92000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,10965,635,62334,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/21/2021 19:20:07,IBM,Band 9,Management Consultant,161000,Dallas, TX,6,6,Security,161000,0,0,Male,Title: Professional Services Consultant, Race: White, Academic Level: Master’s degree,11039,623,62344,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+3/23/2021 3:40:58,IBM,Band 7,Software Engineer,78000,Ottawa, ON, Canada,6,6,API Development (Back-End),78000,0,0,Male,Title: Staff Software Developer, Academic Level: Bachelor’s degree,5906,0,62505,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+3/23/2021 20:30:22,IBM,L9,Solution Architect,372000,Sunnyvale, CA,18,2,Site Reliability (SRE),245000,0,127000,Male,Title: Solutions Architect, Race: Asian, Academic Level: Master’s degree,7472,807,62614,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/24/2021 0:39:42,IBM,Band 9,Product Designer,200000,San Jose, CA,15,2,User Experience (UX),200000,0,0,Female,Title: Lead, Race: White,7422,807,62650,0,0,0,0,0,0,1,0,0,0,White,NA
+3/25/2021 8:14:30,IBM,Senior Technical Staff Member,Solution Architect,177000,Chicago, IL,16,16,Cloud,177000,0,0,NA,Remote, Title: Solution Architect, Academic Level: Bachelor’s degree,8198,602,62818,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+3/25/2021 8:47:29,IBM,Band 7,Software Engineer,125000,Miami, FL,3,2,Full Stack,125000,0,0,Male,Remote, Title: Software Engineer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,1242,528,62822,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+3/25/2021 8:50:21,IBM,Band 8,Software Engineer,130000,Raleigh, NC,5,5,Site Reliability (SRE),130000,0,0,Male,Title: Site Reliability Engineer, Race: White, Academic Level: Bachelor’s degree,1317,560,62823,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/26/2021 6:49:58,IBM,Band 6,Software Engineer,69000,Toronto, ON, Canada,1,1,API Development (Back-End),65000,0,4000,Male,Title: Software Developer, Academic Level: Master’s degree,1206,0,62956,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/26/2021 12:37:30,IBM,Band 7,Management Consultant,95000,Toronto, ON, Canada,2,2,Business Analyst,95000,0,0,Male,Title: Senior Consultant, Race: White, Academic Level: Bachelor’s degree,1206,0,62993,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+3/29/2021 4:21:55,IBM,Band 10,Management Consultant,300000,Toronto, ON, Canada,20,5,Telecom,220000,0,80000,Male,Remote, Title: Solutions Executive, Race: White, Academic Level: Master’s degree,1206,0,63284,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+3/29/2021 13:37:09,IBM,Band 8,Software Engineer,160000,New York, NY,3,3,ML / AI,160000,0,1000,Female,Title: Cognitive Software Engineer, Race: White, Academic Level: Master’s degree,10182,501,63341,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+3/29/2021 14:15:38,IBM,Band D,Management Consultant,475000,Dallas, TX,25,2,Cognitive, Cloud & Business Transformation,310000,25000,140000,Male,$30K signing bonus, Title: Partner, Race: Asian, Academic Level: Master’s degree,11039,623,63348,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/29/2021 14:59:05,IBM,Band 7,Software Engineer,140000,Austin, TX,1,1,DevOps,105000,0,35000,Male,Title: Cloud Engineer, Academic Level: Master’s degree,10965,635,63356,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+3/29/2021 21:42:08,IBM,Band 7,Software Engineer,145000,New York, NY,3,1,ML / AI,130000,0,15000,Male,Bonus is sign-on so only for the first year, Title: Cognitive Software Engineer, Race: Asian, Academic Level: Master’s degree,10182,501,63405,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/30/2021 20:54:51,IBM,Band 7,Software Engineer,136000,San Jose, CA,2,2,ML / AI,136000,0,0,NA,Title: Staff Software Engineer,7422,807,63526,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/31/2021 17:26:32,IBM,Band 7,Software Engineer,75000,Toronto, ON, Canada,5,2,Full Stack,75000,0,0,NA,Title: Software Engineer,1206,0,63651,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/31/2021 19:32:58,IBM,Band 8,Software Engineer,97000,Markham, ON, Canada,6,6,Full Stack,97000,0,0,Male,Title: Software Developer, Race: Asian, Academic Level: Bachelor’s degree,3468,0,63673,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+4/2/2021 9:12:57,IBM,Band 7,Software Engineer,74000,Ottawa, ON, Canada,5,2,Data,74000,0,0,Male,5000 signing bonus, Title: Technical Analyst, Race: Asian, Academic Level: Master’s degree,5906,0,63888,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/2/2021 11:34:00,IBM,Band 7,Product Designer,73000,London, EN, United Kingdom,4,4,User Experience (UX),73000,0,0,Male,Title: Designer, Race: White, Academic Level: Bachelor’s degree,12008,0,63911,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/2/2021 11:52:12,IBM,Band 6,Software Engineer,40000,Vilnius, VL, Lithuania,1,1,API Development (Back-End),40000,0,0,Male,Title: Application Developer, Race: White, Academic Level: Bachelor’s degree,6537,0,63914,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/2/2021 13:26:38,IBM,Band 7 A,Software Engineer,20000,Bangalore, KA, India,6,2,API Development (Back-End),20000,0,0,Male,Title: Senior Software Developer, Race: Asian, Academic Level: Bachelor’s degree,4058,0,63931,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+4/2/2021 18:36:42,IBM,Band 6,Software Engineer,106000,Durham, NC,1,0,API Development (Back-End),91000,0,15000,Male,Title: Entry Level Backend Developer, Race: Black or African American, Academic Level: Bachelor’s degree,9606,560,63970,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+4/3/2021 22:04:24,IBM,L7,Software Engineer,94000,Toronto, ON, Canada,2,2,Data,94000,0,0,Male,Remote, Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,1206,0,64095,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/4/2021 6:10:37,IBM,Band 10,Technical Program Manager,176000,Dubai, DU, United Arab Emirates,30,22,Customer Success,180000,0,0,Male,Title: Program Manager, Race: White, Academic Level: Bachelor’s degree,6765,0,64119,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/4/2021 9:57:52,IBM,Band 6,Software Engineer,70000,Toronto, ON, Canada,1,0,Systems,70000,0,0,Male,Title: Developer, Academic Level: Bachelor’s degree,1206,0,64131,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+4/4/2021 10:13:28,IBM,Band 10,Product Manager,215000,Raleigh, NC,30,18,Enterprise,215000,0,5000,Male,Title: Program Director, Race: Asian, Academic Level: Master’s degree,1317,560,64134,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/4/2021 17:41:13,IBM,Band 7,Technical Program Manager,83000,Toronto, ON, Canada,11,2,Project Management,83000,0,0,Male,Title: Project Manager, Race: Asian, Academic Level: Bachelor’s degree,1206,0,64181,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+4/5/2021 9:00:18,IBM,Band 6,Software Engineer,71000,Ottawa, ON, Canada,1,1,Web Development (Front-End),71000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,5906,0,64237,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/6/2021 13:42:56,IBM,Band 8,Product Manager,148000,Raleigh, NC,4,4,Product,148000,0,0,Male,Strong benefits package as well, Title: Senior Offering Manager, Race: White, Academic Level: Master’s degree,1317,560,64420,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+4/7/2021 1:39:27,IBM,Band 7,Software Engineer,138000,San Francisco, CA,4,4,Embedded,138000,0,0,Female,Title: Backend Software Engineer, Race: White, Academic Level: Master’s degree,7419,807,64510,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+4/7/2021 15:19:49,IBM,Band 6,Software Engineer,88000,Houston, TX,4,4,Testing (SDET),88000,0,0,NA,Title: Software Engineer,11109,618,64604,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/8/2021 5:11:11,IBM,Band 10,Solution Architect,231000,Raleigh, NC,21,3,Data,216000,14000,1000,Male,Title: Solution Architect, Race: White, Academic Level: Bachelor’s degree,1317,560,64702,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/9/2021 12:31:41,IBM,Band 8,Software Engineer,156000,Boston, MA,6,3,Data,150000,4000,2000,Male,Title: Advisory Software Engineer, Race: Asian, Academic Level: Master’s degree,8816,506,64936,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/9/2021 13:08:10,IBM,Band 6,Software Engineer,128000,Austin, TX,2,0,Distributed Systems (Back-End),115000,0,13000,Male,Title: Software Engineer, Race: Two or More Races, Academic Level: Bachelor’s degree,10965,635,64946,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+4/10/2021 19:13:26,IBM,Band 8,Product Manager,150000,Austin, TX,14,3,Product,150000,0,2000,NA,Title: Offering Manager,10965,635,65091,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/10/2021 20:20:04,IBM,Band 6,Software Engineer,168000,New York, NY,1,1,DevOps,120000,24000,24000,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,10182,501,65100,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/11/2021 12:47:12,IBM,Band 9,Software Engineer,160000,Toronto, ON, Canada,7,7,Full Stack,129000,28000,3000,Male,Title: Senior Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,1206,0,65158,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+4/12/2021 15:01:40,IBM,Band 7,Software Engineer,100000,Tucson, AZ,2,2,Systems,100000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Master’s degree,7056,789,65337,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+4/12/2021 16:00:21,IBM,Band 8,Sales,205000,Atlanta, GA,7,4,Sales Cloud,130000,0,75000,Female,Title: Sales Executive, Race: Asian, Academic Level: Master’s degree,7839,524,65346,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/12/2021 23:23:26,IBM,Band 9,Software Engineer,130000,Ottawa, ON, Canada,25,17,Distributed Systems (Back-End),120000,4000,1000,NA,Title: Senior Software Engineer, Academic Level: Master’s degree,5906,0,65414,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/13/2021 8:54:32,IBM,Band 7,Software Engineer,102000,Austin, TX,3,3,Web Development (Front-End),102000,0,0,Male,Title: Frontend Engineer, Race: White, Academic Level: Bachelor’s degree,10965,635,65456,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/13/2021 12:14:46,IBM,Band 7,Software Engineer,60000,Bratislava, BL, Slovakia,8,0,Testing (SDET),60000,0,0,NA,Remote, Title: Test Automation Engineer,5013,0,65490,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/13/2021 18:50:09,IBM,Band 10,Solution Architect,310000,Denver, CO,27,16,Distributed Systems (Back-End),185000,0,125000,Male,Remote, Title: Gtm Consultant, Race: White, Academic Level: Bachelor’s degree,7548,751,65553,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/13/2021 21:12:49,IBM,Associate Offering Manager,Product Manager,114000,San Jose, CA,1,1,Product,114000,0,0,Female,Title: Associate Offering Manager, Academic Level: Bachelor’s degree,7422,807,65574,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+4/14/2021 10:48:41,IBM,Band D,Software Engineer,367000,Austin, TX,16,16,ML / AI,228000,60000,79000,NA,Title: Distinguished Engineer,10965,635,65656,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/14/2021 15:53:39,IBM,Band 10,Management Consultant,200000,London, EN, United Kingdom,16,2,Customer Experience,200000,3000,0,Female,Title: Associate Partner, Race: White, Academic Level: Bachelor’s degree,12008,0,65708,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/16/2021 19:35:39,IBM,Senior Engineer,Software Engineer,144000,Raleigh, NC,25,9,API Development (Back-End),144000,0,0,Female,Title: Senior Software Enginneer, Race: Asian, Academic Level: Master’s degree,1317,560,66119,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/17/2021 11:13:49,IBM,Band 6,Software Engineer,85000,Markham, ON, Canada,0,0,Compilers,85000,0,0,Male,Title: Compiler Developer, Race: White, Academic Level: Master’s degree,3468,0,66181,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+4/17/2021 16:54:53,IBM,Band 8,Software Engineer,169000,New York, NY,4,4,Distributed Systems (Back-End),169000,0,0,Female,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,10182,501,66213,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/20/2021 3:55:02,IBM,Band 10,Solution Architect,144000,Bangalore, KA, India,17,5,Multicloud,110000,4000,30000,Male,Title: Solutions Architect, Race: Asian, Academic Level: Master’s degree,4058,0,66501,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/20/2021 18:52:02,IBM,Distinguished Engineer,Software Engineer,367000,Austin, TX,16,16,ML / AI,228000,60000,79000,Male,Title: Distinguished Engineer, Race: Black or African American, Academic Level: Master’s degree,10965,635,66607,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+4/20/2021 18:56:41,IBM,9,Recruiter,149000,Plano, TX,10,4,Leadership,146000,3000,0,NA,Remote, Title: Recruiting Manager,11204,623,66609,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/20/2021 22:43:34,IBM,Band 7,Software Engineer,22000,Guadalajara, JA, Mexico,4,4,API Development (Back-End),22000,0,0,Male,Title: Software Developer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,1211,0,66639,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+4/21/2021 12:15:34,IBM,Band 8,Product Manager,145000,New York, NY,5,3,Analytic,140000,5000,1000,NA,Title: Product Manager,10182,501,66713,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/21/2021 21:35:45,IBM,Band 7,Software Engineer,98000,Houston, TX,8,8,API Development (Back-End),98000,0,0,Female,Title: Application Developer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,11109,618,66809,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+4/23/2021 7:10:32,IBM,Band 8,Hardware Engineer,134000,Rochester, MN,8,8,ASIC Design,134000,0,0,Male,Title: Circuit Design Engineer, Race: White, Academic Level: Bachelor’s degree,9266,611,67063,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/23/2021 8:16:58,IBM,Band 7,Product Designer,140000,San Jose, CA,2,2,User Experience (UX),140000,0,0,NA,Title: Ux,7422,807,67073,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/23/2021 9:06:14,IBM,Band 6,Software Engineer,89000,Austin, TX,2,2,Firmware,89000,0,0,Male,Title: Firmware Engineer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,10965,635,67080,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+4/23/2021 19:34:14,IBM,Band 9,Software Engineer,163000,Durham, NC,33,33,Networking,162000,0,1000,NA,Title: Sr Software Engineer,9606,560,67162,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/24/2021 7:58:11,IBM,Band 7,Software Engineer,80000,Toronto, ON, Canada,6,3,Full Stack,80000,0,0,Male,Title: Software Developer, Race: Asian, Academic Level: Master’s degree,1206,0,67207,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/25/2021 12:31:18,IBM,STSM,Software Engineer,228000,Boston, MA,15,10,Distributed Systems (Back-End),214000,15000,0,NA,Title: Stsm,8816,506,67332,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/25/2021 13:34:20,IBM,Band 8,Technical Program Manager,124000,Durham, NC,9,1,General,124000,0,0,Female,Title: Project Manager, Race: White, Academic Level: Doctorate (PhD),9606,560,67338,0,0,1,0,0,0,1,0,0,0,White,PhD
+4/26/2021 11:09:15,IBM,Band 8,Product Manager,136000,Tel Aviv, TA, Israel,11,2,Product,136000,0,0,Male,Title: Product Manager, Race: White, Academic Level: Master’s degree,15900,0,67421,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+4/26/2021 15:33:55,IBM,Band 7,Product Designer,134000,San Jose, CA,3,3,User Experience (UX),134000,0,0,Female,Title: Visual/ux Designer, Race: Asian, Academic Level: Bachelor’s degree,7422,807,67464,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+4/26/2021 18:54:38,IBM,Band 7,Product Designer,134000,San Jose, CA,5,3,User Experience (UX),134000,0,0,Male,Title: Product Designer, Race: Asian, Academic Level: Bachelor’s degree,7422,807,67498,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+4/27/2021 1:52:21,IBM,Band 9,Solution Architect,194000,Pittsburgh, PA,20,15,Strategy Architect,195000,0,1000,NA,Remote, Title: Technology Strategy Architect,10648,508,67536,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/27/2021 14:59:56,IBM,Band 7,Product Designer,140000,San Jose, CA,3,3,User Experience (UX),140000,0,0,NA,Title: Ux Researcher,7422,807,67637,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/28/2021 21:18:44,IBM,Band 7,Hardware Engineer,98000,Austin, TX,6,6,Validation,97000,0,1000,Male,Pays for relocation, Title: Hardware Development Engineer, Race: Asian, Academic Level: Bachelor’s degree,10965,635,67816,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+4/29/2021 18:51:16,IBM,Band 10,Product Manager,210000,New York, NY,8,3,Product,209000,0,1000,Female,Title: Group Product Manager, Race: White, Academic Level: Bachelor’s degree,10182,501,67935,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/30/2021 12:29:44,IBM,Band 8,Software Engineer,154000,New York, NY,6,6,API Development (Back-End),154000,0,0,NA,Title: Advisory Software Engineer, Academic Level: Master’s degree,10182,501,68008,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/1/2021 13:36:42,IBM,Band 9,Software Engineer,206000,Boston, MA,14,6,Full Stack,206000,0,0,Male,Title: Software Architect, Race: White, Academic Level: Bachelor’s degree,8816,506,68117,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/1/2021 20:26:38,IBM,Band 7,Software Engineer,81000,Toronto, ON, Canada,7,3,Full Stack,81000,0,0,Male,Title: Staff Software Developer, Race: Two or More Races, Academic Level: Master’s degree,1206,0,68143,1,0,0,0,0,0,0,1,0,0,Two Or More,Master's Degree
+5/2/2021 4:18:36,IBM,Band 7,Software Engineer,155000,San Jose, CA,2,0,Web Development (Front-End),155000,0,0,Male,Title: Staff Software Engineer, Race: Asian, Academic Level: Master’s degree,7422,807,68167,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/3/2021 8:28:00,IBM,VP,Product Manager,700000,Toronto, ON, Canada,22,22,Product,350000,190000,160000,Male,Remote, Title: Product Manager, Race: Asian, Academic Level: Master’s degree,1206,0,68244,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/3/2021 9:13:24,IBM,Band 7,Management Consultant,73000,London, EN, United Kingdom,3,3,General,73000,0,0,Male,Title: Senior Consultant, Race: White, Academic Level: Bachelor’s degree,12008,0,68247,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/3/2021 10:14:51,IBM,Band 9,Software Engineer,190000,Tel Aviv, TA, Israel,20,4,Distributed Systems (Back-End),190000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Master’s degree,15900,0,68256,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+5/3/2021 16:46:01,IBM,Band 7,Product Designer,140000,San Jose, CA,3,3,User Experience (UX),140000,0,0,Female,Title: Visual/ux Designer, Race: Asian, Academic Level: Bachelor’s degree,7422,807,68314,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+5/4/2021 14:18:18,IBM,Band 9,Solution Architect,130000,Vancouver, WA,19,15,ML / AI,130000,0,0,Female,Title: Cloud Solution Architect, Race: Asian, Academic Level: Bachelor’s degree,11534,820,68454,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+5/5/2021 21:39:54,IBM,Band 8,Software Engineer,145000,New York, NY,3,3,Distributed Systems (Back-End),145000,0,1000,Female,Title: Software Developer, Race: Asian, Academic Level: Bachelor’s degree,10182,501,68638,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+5/6/2021 15:44:52,IBM,Band 7,Data Scientist,134000,Austin, TX,3,3,General,126000,4000,4000,Female,Title: Data Scientist, Race: White, Academic Level: Bachelor’s degree,10965,635,68752,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/7/2021 7:47:28,IBM,L1,Product Designer,90000,Austin, TX,1,0,User Experience (UX),90000,0,5000,Female,Title: User Experience Designer, Race: White, Academic Level: Bachelor’s degree,10965,635,68839,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/7/2021 11:51:24,IBM,Band 9,Product Designer,176000,Austin, TX,6,6,User Experience (UX),176000,0,0,Male,Title: Design Manager, Race: White, Academic Level: Bachelor’s degree,10965,635,68867,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/8/2021 20:56:11,IBM,Band 8,Product Manager,158000,Dallas, TX,15,4,Product,157000,0,1000,Male,Title: Senior Product Manager, Race: White, Academic Level: Master’s degree,11039,623,69037,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+5/9/2021 0:11:29,IBM,B7,Product Manager,145000,Cambridge, MA,0,0,Technical,145000,0,0,Male,$5K relocation,  $25K signing bonus, Title: Offering Manager, Technical, Race: Asian,8821,506,69052,0,0,0,0,0,1,0,0,0,0,Asian,NA
+5/9/2021 7:29:51,IBM,Band 7,Software Engineer,107000,Ottawa, ON, Canada,8,7,Full Stack,104000,3000,0,NA,Title: Staff Software Developer,5906,0,69067,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/9/2021 23:04:23,IBM,Band 6,Software Engineer,100000,Austin, TX,0,0,Web Development (Front-End),90000,0,10000,Male,Title: Front End Developer, Race: White, Academic Level: Bachelor’s degree,10965,635,69141,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/10/2021 15:09:43,IBM,Band 7,Data Scientist,135000,Washington, DC,7,2,Consulting,135000,0,0,Male,Title: Senior Consultant, Academic Level: Master’s degree,40303,511,69229,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+5/10/2021 15:25:50,IBM,Band 7,Software Engineer,128000,Austin, TX,2,0,Distributed Systems (Back-End),115000,0,13000,Male,$10000 Relocation Bonus, Title: Staff Software Engineer, Race: Two or More Races, Academic Level: Bachelor’s degree,10965,635,69233,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+5/11/2021 7:34:46,IBM,Band 6,Software Engineer,53000,Vilnius, VL, Lithuania,3,3,Full Stack,53000,0,0,Male,Title: Application Developer, Race: White, Academic Level: Bachelor’s degree,6537,0,69345,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/11/2021 12:27:36,IBM,Band 7,Software Engineer,86000,Dublin, DN, Ireland,6,6,Web Development (Front-End),85000,0,1000,Male,Title: Senior Software Engineer, Race: White, Academic Level: Master’s degree,4015,0,69393,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+5/11/2021 14:11:46,IBM,Band 10,Product Manager,290000,San Francisco, CA,20,7,Growth,280000,0,10000,Male,Title: Integration Executive,7419,807,69412,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/12/2021 11:58:34,IBM,Band 7,Data Scientist,140000,New York, NY,2,2,General,106000,0,34000,Male,Title: Data Scientist, Race: White, Academic Level: Master’s degree,10182,501,69567,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+5/12/2021 14:51:38,IBM,Band 6,Data Scientist,123000,Armonk, NY,3,1,General,123000,0,0,Female,Title: Data Scientist, Race: Asian, Academic Level: Master’s degree,12932,501,69597,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/12/2021 18:07:53,IBM,Band 7,Management Consultant,100000,Chicago, IL,5,1,SAP,100000,0,2000,Male,Title: Senior Consultant, Race: White, Academic Level: Bachelor’s degree,8198,602,69617,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/13/2021 8:27:32,IBM,Band 7,Software Engineer,32000,Bangalore, KA, India,3,0,Full Stack,28000,0,4000,Male,Title: Staff Engineer, Academic Level: Bachelor’s degree,4058,0,69662,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+5/14/2021 11:45:27,IBM,Band 7,Software Engineer,115000,Seattle, WA,4,4,ML / AI,115000,0,0,Female,Title: Software Developer, Race: Asian, Academic Level: Master’s degree,11527,819,69856,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/16/2021 13:42:45,IBM,Senior Engineer,Software Engineer,158000,Poughkeepsie, NY,6,6,ML / AI,158000,0,0,Male,Title: Senior Software Engineer, Race: White, Academic Level: Bachelor’s degree,10206,501,70053,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/18/2021 10:50:56,IBM,Band 7,Product Designer,135000,New York, NY,4,0,User Research,135000,0,0,Female,Title: Design Researcher, Race: White, Academic Level: Bachelor’s degree,10182,501,70253,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/19/2021 0:23:21,IBM,Band 7,Software Engineer,28000,Bangalore, KA, India,3,3,Systems Development,27000,0,1000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,4058,0,70313,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/19/2021 14:13:39,IBM,Band 8,Software Engineer,160000,Atlanta, GA,15,2,Distributed Systems (Back-End),160000,0,0,Male,The Weather Comany, Title: Software Engineer, Race: White, Academic Level: Doctorate (PhD),7839,524,70355,0,0,1,0,0,0,1,0,0,0,White,PhD
+5/19/2021 21:10:30,IBM,Band 7,Software Engineer,160000,San Jose, CA,4,4,Web Development (Front-End),160000,0,0,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,7422,807,70376,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/23/2021 8:46:01,IBM,Band 6,Software Engineer,59000,Nice, PR, France,2,2,Full Stack,59000,0,0,Male,Title: Developer, Race: White, Academic Level: Master’s degree,3916,0,70739,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+5/23/2021 9:04:30,IBM,Band 6,Software Engineer,75000,Ottawa, ON, Canada,0,0,DevOps,73000,0,3000,Female,Title: Devops Developer, Race: Hispanic / Latino, Academic Level: Master’s degree,5906,0,70745,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+5/23/2021 18:26:40,IBM,Band 7,Product Designer,170000,San Jose, CA,6,3,User Experience (UX),170000,0,0,Female,Title: Visual Designer, Race: Asian, Academic Level: Bachelor’s degree,7422,807,70807,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+5/24/2021 8:57:42,IBM,Band 9,Product Designer,163000,Austin, TX,6,6,User Experience (UX),163000,0,0,Male,Title: Senior Designer, Race: White, Academic Level: Bachelor’s degree,10965,635,70874,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/24/2021 18:23:12,IBM,L9,Product Manager,119000,Raleigh, NC,25,25,Operations,119000,0,0,Male,Title: Manager, Race: White, Academic Level: Bachelor’s degree,1317,560,70952,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/25/2021 21:35:36,IBM,Band 7,Software Engineer,65000,Baton Rouge, LA,5,5,API Development (Back-End),65000,0,0,Male,Title: Application Developers, Race: Asian, Academic Level: Bachelor’s degree,8723,716,71116,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+5/27/2021 11:04:00,IBM,Band 7,Software Engineer,19000,Guadalajara, JA, Mexico,4,1,Full Stack,19000,0,0,Male,Title: Application Developer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,1211,0,71313,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+5/28/2021 10:02:03,IBM,Band 7,Hardware Engineer,113000,Austin, TX,2,2,SoC Design,113000,0,0,Male,35k sign on bonus, Title: Hardware Developer, Race: Black or African American, Academic Level: Master’s degree,10965,635,71469,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+5/28/2021 12:02:19,IBM,Staff Engineer,Software Engineer,104000,Boston, MA,5,2,Distributed Systems (Back-End),104000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,8816,506,71487,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/28/2021 19:26:55,IBM,Band 7,Data Scientist,93000,Canberra, CT, Australia,3,2,General,93000,0,0,Male,Title: Data Scientist, Race: White, Academic Level: Bachelor’s degree,1336,0,71541,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/29/2021 12:10:40,IBM,Band 7,Software Engineer,131000,San Jose, CA,2,2,Full Stack,131000,0,0,Male,10k signing bonus, Title: Staff Software Engineer, Race: White, Academic Level: Bachelor’s degree,7422,807,71613,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+5/31/2021 6:18:01,IBM,Band 6,Data Scientist,101000,Chicago, IL,1,1,General,91000,0,10000,Male,Title: Associate Data Scientist, Race: Black or African American, Academic Level: Bachelor’s degree,8198,602,71745,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+6/1/2021 13:51:43,IBM,Band 8,Product Designer,144000,Austin, TX,7,6,User Experience (UX),144000,0,0,Female,Title: Design Lead, Academic Level: Bachelor’s degree,10965,635,71920,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+6/2/2021 13:09:53,IBM,Band 6,Software Engineer,72000,Toronto, ON, Canada,1,1,Mobile (iOS + Android),72000,0,2000,Female,Title: Associate Developer, Race: Asian, Academic Level: Bachelor’s degree,1206,0,72052,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/3/2021 6:47:37,IBM,Director,Product Manager,360000,New York, NY,18,18,Product,250000,60000,50000,Male,Title: Director, Academic Level: Master’s degree,10182,501,72155,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/3/2021 15:50:01,IBM,Band 9,Software Engineer,188000,Dallas, TX,30,18,Blockchain,186000,0,2000,Male,Remote, Title: Senior Development Lead, Race: White, Academic Level: Bachelor’s degree,11039,623,72253,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+6/3/2021 16:58:18,IBM,Band 7,Software Engineer,120000,Atlanta, NY,4,4,Web Development (Front-End),120000,0,0,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,19881,565,72272,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/3/2021 18:19:25,IBM,Band 6,Data Scientist,110000,San Jose, CA,2,2,General,100000,0,10000,Female,Title: Data Scientist, Race: Asian, Academic Level: Bachelor’s degree,7422,807,72284,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/4/2021 8:52:55,IBM,Band 7,Sales,137000,San Francisco, CA,2,2,Data & AI,122000,0,15000,Female,Title: Technical Sales, Race: Black or African American, Academic Level: Bachelor’s degree,7419,807,72363,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+6/4/2021 18:00:19,IBM,Band 9,Data Scientist,163000,Colorado Springs, CO,20,20,General,159000,0,4000,NA,Remote, Title: Senior Data Scientist,7541,752,72438,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/5/2021 20:41:21,IBM,Band 8,Product Designer,165000,San Jose, CA,6,1,User Experience (UX),160000,0,5000,Female,Title: Advisory Designer, Race: Asian, Academic Level: Master’s degree,7422,807,72564,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/7/2021 17:16:38,IBM,Band 6,Software Engineer,118000,Poughkeepsie, NY,1,1,Security,98000,0,20000,Female,Title: Software Engineer,10206,501,72806,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/8/2021 8:19:35,IBM,B8,Data Scientist,170000,Armonk, NY,2,2,Finance & Operations,170000,0,0,NA,Title: Lead Data Scientist,12932,501,72876,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/8/2021 18:53:09,IBM,Band 7,Software Engineer,123000,Raleigh, NC,6,6,Full Stack,123000,0,0,Male,Title: Staff Software Engineer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,1317,560,73018,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+6/9/2021 1:44:00,IBM,Band 6,Software Engineer,100000,San Jose, CA,0,0,API Development (Back-End),100000,0,0,NA,Title: Software Engineer,7422,807,73070,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/9/2021 19:16:32,IBM,Band 6,Marketing,77000,New York, NY,3,3,GBS,75000,0,2000,Female,Title: Campaign Manager, Race: Black or African American, Academic Level: Bachelor’s degree,10182,501,73198,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+6/9/2021 20:23:30,IBM,Band 6,Software Engineer,109000,New York, NY,1,1,Full Stack,109000,0,0,NA,Title: Software Developer,10182,501,73209,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/10/2021 4:11:06,IBM,Band 6,Product Designer,13000,Cochin, KL, India,2,0,User Experience (UX),12000,0,1000,Female,Remote, Title: Ux Designer, Race: Asian, Academic Level: Bachelor’s degree,18348,0,73254,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/10/2021 18:52:41,IBM,Band 7,Software Engineer,89000,Ottawa, ON, Canada,8,5,Distributed Systems (Back-End),89000,0,0,Male,Title: Staff Software Developer, Academic Level: Bachelor’s degree,5906,0,73373,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+6/10/2021 21:02:32,IBM,Staff Engineer,Software Engineer,130000,San Jose, CA,2,2,Full Stack,130000,0,0,NA,Title: Staff Software Engineer,7422,807,73394,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/11/2021 7:17:13,IBM,Band 8,Software Engineer,150000,Cambridge, MA,4,4,Distributed Systems (Back-End),150000,0,0,Female,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,8821,506,73435,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+6/11/2021 19:00:39,IBM,Band 8,Software Engineer,152000,Cambridge, MA,15,3,Security,152000,0,0,NA,Title: Advisory Software Engineer,8821,506,73522,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/12/2021 10:06:05,IBM,Band 7,Data Scientist,119000,Raleigh, NC,6,3,survey analysis,119000,0,0,Male,Title: Data Scientist, Race: White, Academic Level: Doctorate (PhD),1317,560,73571,0,0,1,0,0,0,1,0,0,0,White,PhD
+6/13/2021 13:33:17,IBM,Band 9,Software Engineer,258000,Austin, TX,6,0,DevOps,179000,0,79000,Male,Title: Senior Cloud Engineer, Race: Native Hawaiian or Other Pacific Islander, Academic Level: Master’s degree,10965,635,73671,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/13/2021 14:49:56,IBM,Band 8,Software Engineer,190000,San Jose, CA,2,0,ML / AI,190000,0,0,NA,Remote, Title: Software Engineer, Academic Level: Master’s degree,7422,807,73674,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+6/13/2021 15:58:30,IBM,Program Director,Product Manager,280000,San Jose, CA,20,15,Technical,245000,25000,10000,NA,Title: Program Director,7422,807,73682,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/13/2021 21:26:08,IBM,Band 8,Management Consultant,186000,New York, NY,5,2,Consulting,186000,0,5000,NA,Title: Managing Strategy Consultant,10182,501,73705,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/13/2021 21:35:05,IBM,Band 8,Management Consultant,191000,New York, NY,5,2,Digital sales,186000,0,5000,NA,Title: Managing Strategy Consultant,10182,501,73706,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/14/2021 13:29:29,IBM,Band 6,Software Engineer,120000,San Jose, CA,1,0,Full Stack,120000,0,0,Female,Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,7422,807,73780,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/14/2021 19:34:39,IBM,L7,Software Engineer,135000,Boston, MA,26,4,Web Development (Front-End),135000,0,0,Male,Title: Front-end Developer, Race: White, Academic Level: Some college coursework completed,8816,506,73838,0,0,0,0,1,0,1,0,0,0,White,Some College
+6/14/2021 20:58:44,IBM,Band 7,Product Manager,105000,New York, NY,3,3,Product,105000,0,0,Female,Title: Product Owner, Race: Asian, Academic Level: Bachelor’s degree,10182,501,73846,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/15/2021 16:55:26,IBM,Band 9,Hardware Engineer,145000,Hopewell Junction, NY,10,10,Hardware Reliability,145000,0,2000,Male,Title: Senior Engineer, Race: Hispanic / Latino, Academic Level: Doctorate (PhD),28519,501,73983,0,0,1,0,0,0,0,0,0,1,Hispanic,PhD
+6/16/2021 20:48:06,IBM,Band 6,Product Designer,95000,Austin, TX,2,2,Interaction Design,95000,0,0,Male,Raises, Title: Product Designer, Race: Black or African American, Academic Level: Bachelor’s degree,10965,635,74176,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+6/17/2021 10:42:49,IBM,Associate Engineer,Software Engineer,118000,Phoenix, AZ,5,0,Distributed Systems (Back-End),118000,0,0,Male,Title: Cloud And Microservices Engineer, Race: Asian, Academic Level: Master’s degree,7042,753,74240,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/17/2021 12:12:30,IBM,B8,Data Scientist,182000,New York, NY,5,3,Data Science,182000,0,0,NA,Title: Sr. Data Scientist,10182,501,74262,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/18/2021 13:14:51,IBM,B7,Data Scientist,140000,Armonk, NY,2,2,Finance and Operations,140000,0,0,NA,Title: Senior Data Scientist,12932,501,74424,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/18/2021 20:36:10,IBM,Band6,Product Designer,47000,Shanghai, SH, China,0,0,User Experience (UX),37000,0,10000,NA,Title: Ux Designer,3581,0,74470,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/18/2021 22:27:59,IBM,Band 9,Data Scientist,200000,Austin, TX,8,5,Financial Services,185000,10000,5000,Male,Title: Senior Managing Consultant, Race: Asian, Academic Level: Master’s degree,10965,635,74478,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/19/2021 3:59:56,IBM,Band 9,Technical Program Manager,200000,Manhattan, NY,16,0,ServiceNow,185000,0,15000,Male,Title: Delivery Executive, Race: Asian, Academic Level: Bachelor’s degree,42414,501,74491,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/20/2021 23:41:13,IBM,Band 9,Solution Architect,198000,Columbus, OH,20,1,Edge,180000,0,18000,Male,Remote, Title: Senior Solution Architect, Race: Asian, Academic Level: Bachelor’s degree,10278,535,74657,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/21/2021 11:23:21,IBM,Band 6,Software Engineer,92000,Durham, NC,0,0,Web Development (Front-End),92000,0,5000,Male,Title: Front End Developer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,9606,560,74711,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+6/21/2021 14:12:07,IBM,Band 7B,Software Engineer,30000,Bangalore, KA, India,9,2,Distributed Systems (Back-End),30000,0,0,Male,Title: Senior Staff Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,4058,0,74743,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/21/2021 19:35:37,IBM,Band 8,Marketing,130000,New York, NY,8,2,Marketing,126000,4000,0,Male,Title: Content Director, Race: White, Academic Level: Bachelor’s degree,10182,501,74789,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+6/21/2021 21:49:43,IBM,Band 8,Solution Architect,117000,Boulder, CO,10,8,Production,105000,10000,2000,Male,Title: Infrastructure Architect, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,7534,751,74800,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+6/22/2021 14:12:04,IBM,L3,Management Consultant,94000,New York, NY,0,0,Consultant,84000,0,10000,Male,Title: Associate Consultant, Race: Asian, Academic Level: Bachelor’s degree,10182,501,74917,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+6/23/2021 11:57:54,IBM,Band 6,Software Engineer,67000,Markham, ON, Canada,1,1,DevOps,67000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,3468,0,75039,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+6/24/2021 7:55:09,IBM,Band 8,Solution Architect,111000,London, EN, United Kingdom,10,4,Microsoft Power Platfrom,111000,0,0,Male,Remote, Title: Senior Solution Architect, Race: White, Academic Level: Bachelor’s degree,12008,0,75174,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+6/24/2021 8:15:50,IBM,Band 8,Product Manager,115000,Toronto, ON, Canada,6,6,Product,115000,0,0,Male,Title: Product Manager, Race: Asian, Academic Level: Master’s degree,1206,0,75178,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/25/2021 2:10:19,IBM,Staff Engineer,Software Engineer,78000,Toronto, ON, Canada,4,4,Full Stack,78000,0,0,Male,Title: Staff Software Engineer, Race: Two or More Races, Academic Level: Bachelor’s degree,1206,0,75325,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+6/28/2021 14:29:35,IBM,Band 10,Marketing,170000,Austin, TX,10,3,Product Marketing,170000,0,0,Male,Title: Program Director, Race: Black or African American, Academic Level: Master’s degree,10965,635,75752,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+6/29/2021 12:30:27,IBM,Band 7,Software Engineer,106000,Raleigh, NC,5,5,Networking,106000,0,0,NA,Title: Network Test Engineer,1317,560,75897,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/30/2021 11:13:00,IBM,Band 9,Software Engineer,172000,Durham, NC,22,1,DevOps,172000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,9606,560,76092,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/1/2021 9:01:55,IBM,Band 6,Software Engineer,45000,Baton Rouge, LA,1,1,Full Stack,45000,0,0,NA,Title: Application Developer,8723,716,76314,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/1/2021 12:00:06,IBM,Band 7,Software Engineer,120000,Los Angeles, CA,3,3,Web Development (Front-End),120000,0,0,Male,Title: Senior Engineer, Race: Asian, Academic Level: Master’s degree,7275,803,76348,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/1/2021 14:21:15,IBM,Associate Engineer,Solution Architect,44000,London, EN, United Kingdom,0,0,Distributed Systems (Back-End),44000,0,0,Female,Title: Technology Consultant, Race: White, Academic Level: Master’s degree,12008,0,76381,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+7/2/2021 2:56:26,IBM,Director,Marketing,406000,New York, NY,19,6,Digital Marketing,263000,50000,92000,Male,Title: Director, Performance Marketing, Race: Two or More Races, Academic Level: Master’s degree,10182,501,76480,1,0,0,0,0,0,0,1,0,0,Two Or More,Master's Degree
+7/3/2021 20:57:19,IBM,Band 7,Software Engineer,115000,Dallas, TX,2,1,Full Stack,115000,0,0,Male,Remote, Title: Full Stack Developer, Race: White, Academic Level: Bachelor’s degree,11039,623,76727,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/4/2021 12:28:42,IBM,L8,Software Engineer,147000,Houston, TX,6,4,Production,147000,0,0,Female,Title: Performance Engineer, Race: White, Academic Level: Bachelor’s degree,11109,618,76774,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/7/2021 8:54:33,IBM,Band 10,Software Engineering Manager,130000,Bengaluru, KA, India,24,14,Distributed Systems (Back-End),120000,0,10000,Male,Title: Program Director, Engineering, Race: Asian, Academic Level: Bachelor’s degree,42498,0,77080,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/8/2021 8:28:05,IBM,Advisory Offering Manager,Product Manager,101000,Poughkeepsie, NY,3,3,Product,101000,0,0,Male,Title: Offering Manager, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,10206,501,77229,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+7/8/2021 14:20:58,IBM,Band 8,Management Consultant,168000,Dallas, TX,20,3,Workday Consultant,167000,0,1000,Female,Six Workday certifications (Remote), Title: Managing Consultant, Race: White, Academic Level: Bachelor’s degree,11039,623,77294,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/9/2021 15:07:09,IBM,band 9,Data Scientist,149000,Colorado Springs, CO,20,19,General,149000,0,4000,NA,Title: Senior Data Scientist,7541,752,77460,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/9/2021 19:55:11,IBM,Band 7,Data Scientist,130000,Atlanta, GA,3,0,Finance,130000,0,0,Male,Remote, Title: Senior Data Scientist, Race: Two or More Races, Academic Level: Doctorate (PhD),7839,524,77494,0,0,1,0,0,0,0,1,0,0,Two Or More,PhD
+7/11/2021 13:59:16,IBM,L8,Software Engineer,192000,San Jose, CA,8,1,DevOps,190000,0,2000,NA,Title: Devops,7422,807,77665,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/12/2021 10:43:57,IBM,Band 8,Software Engineer,155000,Denver, CO,8,5,Production,144000,1000,10000,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,7548,751,77773,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/12/2021 15:10:13,IBM,L6,Software Engineer,65000,Markham, ON, Canada,2,2,API Development (Back-End),65000,0,0,Male,Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,3468,0,77829,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/13/2021 8:08:45,IBM,Band 7,Software Engineer,80000,Calgary, AB, Canada,2,2,API Development (Back-End),80000,0,0,Female,Title: Sr. Software Developer, Race: Hispanic / Latino, Academic Level: Bachelor’s degree,5794,0,77926,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+7/13/2021 9:22:30,IBM,L7,Software Engineer,132000,San Jose, CA,2,0,API Development (Back-End),132000,0,0,Male,Title: Backend Developer, Race: White, Academic Level: Master’s degree,7422,807,77939,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+7/13/2021 13:57:53,IBM,Band 10,Solution Architect,350000,Cincinnati, OH,20,0,Site Reliability (SRE),250000,0,100000,Male,100k sign on bonus (Remote), Title: Transformation Sre, Race: White, Academic Level: Bachelor’s degree,10274,515,77994,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/14/2021 7:45:59,IBM,Band 10,Data Scientist,303000,New York, NY,15,3,General,286000,0,17000,NA,Title: Principal Data Scientist,10182,501,78103,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/14/2021 23:01:56,IBM,Band 7,Solution Architect,142000,New York, NY,2,2,Cloud,142000,0,0,NA,Title: Solution Architect,10182,501,78238,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/15/2021 19:23:04,IBM,Staff Engineer,Software Engineer,118000,Poughkeepsie, NY,4,4,Distributed Systems (Back-End),118000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,10206,501,78400,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/16/2021 11:43:48,IBM,Advisory Engineer,Software Engineer,158000,Durham, NC,20,5,Distributed Systems (Back-End),158000,0,0,Female,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,9606,560,78500,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/16/2021 19:49:14,IBM,Application Developer Apprentice,Software Engineer,38000,Baton Rouge, LA,1,0,Web Development (Front-End),38000,0,0,Male,Title: Application Developer Apprentice, Race: Hispanic / Latino, Academic Level: Some college coursework completed,8723,716,78552,0,0,0,0,1,0,0,0,0,1,Hispanic,Some College
+7/16/2021 22:50:58,IBM,Band 7,Software Engineer,125000,Austin, TX,6,6,Full Stack,125000,0,0,Male,Title: Software Engineer, Race: Asian, Academic Level: Bachelor’s degree,10965,635,78567,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/17/2021 21:33:57,IBM,Software Developer,Software Engineer,13000,Bangalore, KA, India,6,6,Web Development (Front-End),13000,0,0,Male,Title: Software Developer, Race: Asian, Academic Level: Bachelor’s degree,4058,0,78662,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/18/2021 13:39:17,IBM,Band 8,Software Engineer,133000,Haifa, HA, Israel,7,7,Distributed Systems (Back-End),130000,0,3000,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,4037,0,78724,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/19/2021 11:39:30,IBM,Band 8,Software Engineer,145000,Raleigh, NC,6,5,Site Reliability (SRE),145000,0,0,Male,Title: Site Reliability Engineer, Race: White, Academic Level: Bachelor’s degree,1317,560,78836,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/19/2021 18:38:25,IBM,Band 8,Software Engineer,152000,San Francisco, CA,10,7,Distributed Systems (Back-End),150000,0,2000,Male,Title: Advisory Software Engineer, Race: White, Academic Level: Bachelor’s degree,7419,807,78895,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/21/2021 4:23:55,IBM,Band 9,Marketing,698000,Dubai, DU, United Arab Emirates,14,8,Marketing,696000,0,2000,NA,Title: Marketing Leader,6765,0,79137,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/22/2021 9:42:45,IBM,Advisory Product Manager,Product Manager,140000,Austin, TX,4,4,Product,140000,0,0,Male,Remote, Title: Advisory Product Manager, Race: White, Academic Level: Bachelor’s degree,10965,635,79384,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/23/2021 9:22:32,IBM,Band 8,Data Scientist,145000,Raleigh, NC,6,3,survey analysis,145000,0,0,Male,Title: Advisory Data Scientist, Race: White, Academic Level: Doctorate (PhD),1317,560,79580,0,0,1,0,0,0,1,0,0,0,White,PhD
+7/24/2021 16:41:22,IBM,Advisory Engineer,Software Engineer,170000,Ottawa, ON, Canada,12,2,Distributed Systems (Back-End),160000,0,10000,NA,Title: Backend,5906,0,79766,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/25/2021 14:43:34,IBM,Associate Offering Manager,Product Manager,142000,Austin, TX,2,2,Product,125000,7000,10000,Female,Title: Product Manager, Race: Hispanic / Latino, Academic Level: Master’s degree,10965,635,79847,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+7/26/2021 5:16:42,IBM,Band 6,Data Scientist,105000,New York, NY,2,2,Blockchain,105000,0,0,Male,Title: Consultant, Race: White, Academic Level: Bachelor’s degree,10182,501,79913,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/26/2021 8:44:50,IBM,Band 7,Software Engineer,82000,Markham, ON, Canada,6,6,Distributed Systems (Back-End),81000,0,1000,Male,Title: Staff Software Developer, Race: Asian, Academic Level: Bachelor’s degree,3468,0,79934,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/26/2021 23:44:01,IBM,Band 8,Software Engineer,168000,San Jose, CA,6,6,Front end,168000,0,0,Female,Title: Advisory Software Engineer, Race: Asian, Academic Level: Master’s degree,7422,807,80066,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/27/2021 7:50:27,IBM,Advisory Engineer,Software Engineer,110000,Toronto, ON, Canada,10,10,Distributed Systems (Back-End),110000,0,0,NA,Title: Advisory Software Engineer,1206,0,80099,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/27/2021 12:14:02,IBM,Band 6,Product Manager,122000,San Jose, CA,0,0,Technical,112000,0,10000,NA,Title: Associate Product Manager,7422,807,80144,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/27/2021 13:01:57,IBM,Band 9,Software Engineer,260000,San Francisco, CA,14,0,Networking,240000,0,20000,Male,Title: Cloud Engineer, Race: White, Academic Level: Master’s degree,7419,807,80148,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+7/28/2021 9:31:59,IBM,Senior Technical Staff Member,Software Engineer,311000,New York, NY,17,3,Full Stack,265000,42000,4000,NA,Title: Senior Technical Staff Member,10182,501,80296,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/28/2021 22:49:40,IBM,Staff Engineer,Software Engineer,150000,San Jose, CA,5,4,API Development (Back-End),150000,0,0,NA,Title: Software Engineer,7422,807,80428,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/3/2021 12:06:13,IBM,Band 7,Software Engineer,66000,Halifax, NS, Canada,6,2,Android,66000,0,0,NA,Title: Android Platform Lead,1284,0,81201,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/3/2021 12:35:24,IBM,Band 9,Management Consultant,182000,Los Angeles, CA,13,10,Business Intelligence,182000,0,0,Male,Title: Sr Managing Consultant, Race: Asian, Academic Level: Master’s degree,7275,803,81203,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/3/2021 15:22:38,IBM,Band 8,Product Manager,178000,New York, NY,6,2,Product,178000,0,0,NA,Title: Product Manager,10182,501,81241,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/3/2021 18:23:00,IBM,Band 8,Software Engineer,144000,Raleigh, NC,4,4,Distributed Systems (Back-End),144000,0,0,Male,Title: Software Engineer, Race: White, Academic Level: Bachelor’s degree,1317,560,81273,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/3/2021 19:52:39,IBM,Band 6,Software Engineer,90000,Toronto, ON, Canada,1,1,Full Stack,90000,0,0,NA,Title: Developer, Academic Level: Bachelor’s degree,1206,0,81291,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+8/4/2021 9:45:37,IBM,Band 9,Software Engineer,185000,Littleton, MA,20,1,Testing (SDET),185000,0,0,NA,Title: Senior Software Engineer,30610,506,81473,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/4/2021 10:30:25,IBM,Band 7,Solution Architect,44000,Taipei, TP, Taiwan,3,1,DevOps,41000,0,3000,Male,Title: It Specialist, Race: Asian, Academic Level: Master’s degree,6744,0,81491,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/4/2021 15:10:22,IBM,L7,Data Scientist,132000,Seattle, WA,1,1,General,132000,0,0,Male,Remote, Title: Data Scientist, Race: Asian, Academic Level: Doctorate (PhD),11527,819,81563,0,0,1,0,0,1,0,0,0,0,Asian,PhD
+8/4/2021 21:43:23,IBM,Band 6,Software Engineer,37000,Taipei, TP, Taiwan,2,1,Testing (SDET),36000,0,1000,Female,Title: Testing Engineer, Race: Asian, Academic Level: Master’s degree,6744,0,81658,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/5/2021 9:22:47,IBM,Band 10,Management Consultant,330000,New York, NY,15,2,General,240000,30000,60000,Female,Title: Associate Partner, Race: White, Academic Level: Bachelor’s degree,10182,501,81761,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/5/2021 21:08:37,IBM,Band 7,Software Engineer,137000,San Jose, CA,4,0,DevOps,137000,0,0,NA,Title: Devops Engineer,7422,807,81877,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/6/2021 20:26:12,IBM,6,Software Engineer,50000,Markham, ON, Canada,2,2,Distributed Systems (Back-End),50000,0,0,Female,Title: Software Developer, Race: Asian, Academic Level: Bachelor’s degree,3468,0,82061,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/8/2021 4:48:06,IBM,Band 6,Software Engineer,35000,Taipei, TP, Taiwan,0,0,Full Stack,35000,0,0,NA,Title: Application Developer,6744,0,82215,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/8/2021 18:49:57,IBM,Band 7,Software Engineer,96000,Toronto, ON, Canada,6,0,Security,96000,0,0,Male,Title: Software Developer, Race: Asian, Academic Level: Master’s degree,1206,0,82278,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/9/2021 3:03:10,IBM,Band 8,Software Engineer,113000,Dublin, DN, Ireland,10,3,Full Stack,111000,0,2000,NA,Title: Software Architect,4015,0,82302,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/9/2021 6:21:05,IBM,Application Architect,Software Engineer,131000,Raleigh, NC,6,4,API Development (Back-End),130000,0,1000,Female,Title: Application Architect, Race: Asian, Academic Level: Master’s degree,1317,560,82310,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/9/2021 11:26:00,IBM,Senior Engineer,Software Engineer,186000,Ottawa, ON, Canada,8,8,Full Stack,146000,35000,5000,Male,Title: Cloud Technology, Race: Two or More Races, Academic Level: Bachelor’s degree,5906,0,82353,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+8/10/2021 13:27:10,IBM,Band 6,Software Engineer,95000,Austin, TX,0,0,Full Stack,90000,0,5000,Male,Title: Full Stack Developer, Race: White, Academic Level: Bachelor’s degree,10965,635,82611,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/10/2021 15:21:15,IBM,Software Engineering Intern,Software Engineer,80000,Cambridge, MA,2,1,Data,80000,0,0,NA,Title: Software Engineer,8821,506,82637,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/10/2021 16:16:38,IBM,Band 6,Software Engineer,41000,Taipei, TP, Taiwan,3,3,Testing (SDET),40000,0,1000,Male,Title: Software Engineer, Race: Asian, Academic Level: Master’s degree,6744,0,82652,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/10/2021 18:08:06,IBM,Band 7,Software Engineer,120000,Littleton, MA,3,3,Full Stack,120000,0,0,Male,Title: Software Developer, Academic Level: Bachelor’s degree,30610,506,82668,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+8/11/2021 4:09:55,IBM,Band 8,Management Consultant,57000,Mumbai, MH, India,14,0,Design,52000,0,4000,Male,0, Title: Experience Design Lead, Race: Asian, Academic Level: Master’s degree,6457,0,82740,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/11/2021 7:59:14,IBM,Band 9,Software Engineer,205000,New York, NY,1,1,Production,205000,0,0,NA,Title: Software Engineer,10182,501,82767,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/11/2021 9:27:47,IBM,Band 10,Solution Architect,260000,Houston, TX,20,17,Full Stack,200000,0,60000,Male,Title: Solutions Architect, Race: Hispanic / Latino, Academic Level: Master’s degree,11109,618,82783,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+8/11/2021 9:47:36,IBM,Band 10,Solution Architect,310000,Houston, TX,25,18,Full Stack,240000,20000,50000,Male,Title: Solutions Architect, Race: Hispanic / Latino, Academic Level: Master’s degree,11109,618,82789,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+8/12/2021 16:07:50,IBM,Band 7,Data Scientist,133000,San Francisco, CA,4,4,AI/ML,132000,0,1000,Female,Title: Data Scientist, Race: Asian, Academic Level: Bachelor’s degree,7419,807,83041,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/13/2021 4:33:46,IBM,Band 7,Software Engineer,58000,Taipei, TP, Taiwan,9,6,Web Development (Front-End),57000,0,1000,Female,Title: Staff Software Engineer, Race: Asian, Academic Level: Master’s degree,6744,0,83112,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/14/2021 1:37:21,IBM,Band 7,Software Engineer,62000,Taipei, TP, Taiwan,2,2,Distributed Systems (Back-End),56000,5000,0,Male,Title: Staff Software Engineer, Race: Asian, Academic Level: Master’s degree,6744,0,83371,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/16/2021 10:44:21,IBM,Band 7,Software Engineer,150000,San Jose, CA,5,3,Distributed Systems (Back-End),150000,0,0,NA,Title: Staff Software Engineer,7422,807,83683,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/16/2021 16:17:19,IBM,L5,Data Scientist,145000,New City, NY,6,5,Data,140000,0,5000,Male,Title: Data Scientist, Academic Level: Bachelor’s degree,10180,501,83751,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+8/16/2021 17:51:08,IBM,Band 8,Software Engineer,156000,Littleton, MA,8,6,API Development (Back-End),156000,0,0,NA,Title: Advisory Software Engineer,30610,506,83768,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/26/2018 16:37:38,IBM,6,Software Engineer,85000,Toronto, ON, Canada,1,1,API Development (Back-End),85000,0,1000,Male,Free mobile, Free Subway Pass, Very good resources to learn new things, + Basic benefits like insurance etc etc,1206,0,995,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/27/2018 14:43:53,IBM,Staff Engineer,Software Engineer,110000,Austin, TX,2,2,API Development (Back-End),110000,0,0,Male,NA,10965,635,1215,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/6/2018 23:00:50,IBM,8,Software Engineer,50000,Beijing, BJ, China,7,7,Full Stack,42000,0,8000,Male,NA,3518,0,3724,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/26/2019 1:46:37,IBM,7,Software Engineer,130000,San Jose, CA,3,1,Full Stack,130000,0,0,Male,13000 Sign-on bonus,7422,807,7075,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/29/2019 12:14:04,IBM,7,Data Scientist,165000,San Jose, CA,5,2,ML / AI,165000,0,0,Male,NA,7422,807,13841,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/15/2019 13:57:25,IBM,7,Software Engineer,138000,San Jose, CA,6,5,ML / AI,136000,0,2000,Male,NA,7422,807,6748,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/27/2019 19:01:05,IBM,7,Software Engineer,125000,Littleton, MA,5,5,Security,120000,0,3000,Male,NA,30610,506,13760,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/3/2018 14:54:39,IBM,Staff Engineer,Software Engineer,120000,Cambridge, EN, United Kingdom,7,2,Distributed Systems (Back-End),115000,0,5000,Male,NA,4878,0,792,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/4/2018 1:54:09,IBM,8,Software Engineer,150000,Yorktown Heights, NY,6,2,ML / AI,147800,0,2200,NA,NA,41596,501,1266,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/22/2019 22:19:07,IBM,6,Software Engineer,95000,Poughkeepsie, NY,0,0,Full Stack,85000,0,10000,Male,NA,10206,501,6097,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/26/2019 17:25:02,IBM,8,Data Scientist,155000,Washington, DC,5,2,ML / AI,141000,0,14000,Male,NA,40303,511,7099,0,0,0,0,0,0,0,0,0,0,NA,NA
