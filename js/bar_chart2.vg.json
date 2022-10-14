@@ -20,6 +20,12 @@
       "aggregate": "count",
       "field": "Education",
       "type": "quantitative"
-    }
+    },
+    "tooltip": [
+      {"field": "employment_type", "type": "nominal", "title": "employment type"},
+      {"field": "average", "type": "quantitative", "title": "average salary in usd"},
+      {"field": "min", "type": "quantitative", "title": "min salary in usd"},
+      {"field": "max", "type": "quantitative", "title": "max salary in usd"}
+    ]
   }
 }

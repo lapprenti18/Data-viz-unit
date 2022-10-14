@@ -74,3 +74,49 @@
   }
 }
 
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple bar chart with embedded data.",
+  "width": 1480,
+  "height": 620,
+  "data": {
+    "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/FAANG/TopTenFAANG.csv"
+  },
+  "params": [],
+  "transform": [
+    {
+      "filter": "datum.company == 'Microsoft' && datum.title == 'Software Engineer' && (datum.yearsofexperience + datum.yearsofexperience) / 2 > datum.yearsatcompany"
+    }
+
+  
+  ],
+  "mark": { "type": "bar", "tooltip": true },
+  "encoding": {
+    "x": {
+      "field": "yearsofexperience",
+      "type": "quantitative",
+      "title": "employment type",
+      "axis": { "labelAngle": 90, "labels": true },
+      "sort": {"field": "yearsofexperience"}
+    },
+    "y": {
+      "field": "totalyearlycompensation",
+      "type": "quantitative",
+      "title": "Average Salary in USD",
+      "axis": { "titleAngle": 0, "titlePadding": 90 }
+    },
+    "color": {
+      "field": "employment_type",
+      "type": "nominal",
+      "scale": { "scheme": "tableau20" }
+    },
+    "tooltip": [
+      { "field": "mean_totalyearlycompensation", "type": "quantitative", "title": "average" },
+      { "field": "yearsofexperience", "type": "quantitative", "title": "yearsofexperience" },
+      { "field": "yearsatcompany", "type": "quantitative", "title": "yearsatcompanye" },
+      { "field": "totalyearlycompensation", "type": "quantitative", "title": "totalyearlycompensation" }
+        
+    ]
+  }
+}

@@ -12,12 +12,46 @@
 
 </head>
 <body>
+  <div id="homePage">
+    <h2> TOP 10 FAANG in the dataset </h2>
+    <div id="averageSalarySection">
+      <h6> hello, everyone I'm a student in IT and I don't in which company
+        I want to be in the future and in wich job I want to spécialise. <br/>
+        for my final exam I have to make a project about data visualization. <br/>
+        So I decided to make a project about the salary in datascience of the top 10 FAANG. <br/>
+        I will see if there is find a correlation between the salary and the company (and earn some money in the future).
+      </h6>
 
-  <div id="averageSalarySection">
-    <h2> Representation of each company in the dataset </h2>
-    <div id="DonutChar"></div>
+      <h6> So I found a data set on kaggle, who's talking about the salaries in the FAANG, <br/>
+        I extracted the top ten company, based on how much line I have about them. <br/>
+        And you can see the top 10 FAANG in donnut chart.  <br/>
+
+      <div id="DonutChar"></div>
+
+      <h6>
+        Now I wanted to see wich job has the best salary entry and how many people a usualy doing it
+      </h6>
+      <select name="EntrySalary" id="EntrySalaryValue" onchange="changeEntrySalaryValue(this.value)">
+        <option value="Min" selected>Min</option>
+        <option value="Average">Average</option>
+        <option value="Max">Max</option>
+      </select>
+      <div id="entrySalaryChart"></div>
+    </div>
   </div>
-    <div id="Title">
+
+
+  <!-- <div id="averageSalarySection">
+    <h2> Wich of those companies is paying the best </h2>
+    <div id="MultiChart"></div>
+  </div> -->
+
+  <!-- <div id="averageSalarySection">
+    <h2> TOP 10 FAANG in the dataset </h2>
+    <div id="Chart"></div>
+  </div> -->
+
+    <!-- <div id="Title">
       <h1> How worth is it to work in Data Science around the world ? </h1>
     </div>
     <div id="choropleth_map"></div>
@@ -41,39 +75,77 @@
     <div id="averageSalarySection">
       <h2> Wich education is the best ? </h2>
       <div id="BarChart2"></div>
-    </div>
+    </div> -->
     
 
 
 <script type="text/javascript">
 
-  var spec2 = "js/choropleth_map.vg.json";
-  vegaEmbed('#choropleth_map', spec2).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
+  // var spec2 = "js/choropleth_map.vg.json";
+  // vegaEmbed('#choropleth_map', spec2).then(function(result) {
+  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  // }).catch(console.error);
 
-  var spec3 = "js/bar_chart.vg.json";
-  vegaEmbed('#BarChart', spec3).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
+  // var spec3 = "js/bar_chart.vg.json";
+  // vegaEmbed('#BarChart', spec3).then(function(result) {
+  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  // }).catch(console.error);
 
-  var spec4 = "js/table_chart.vg.json";
-  vegaEmbed('#TableChart', spec4).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
+  // var spec4 = "js/table_chart.vg.json";
+  // vegaEmbed('#TableChart', spec4).then(function(result) {
+  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  // }).catch(console.error);
 
-  var spec5 = "js/parallel_set.vg.json";
-  vegaEmbed('#parallelSet', spec5).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
+  // var spec5 = "js/parallel_set.vg.json";
+  // vegaEmbed('#parallelSet', spec5).then(function(result) {
+  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  // }).catch(console.error);
 
   var spec6 = "js/donut_chart.vg.json";
   vegaEmbed('#DonutChar', spec6).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
-  var spec7 = "js/bar_chart2.vg.json";
-  vegaEmbed('#BarChart2', spec7).then(function(result) {
+  // var spec7 = "js/bar_chart2.vg.json";
+  // vegaEmbed('#BarChart2', spec7).then(function(result) {
+  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  // }).catch(console.error);
+
+  // var spec8 = "js/multi_chart.vg.json";
+  // vegaEmbed('#MultiChart', spec8).then(function(result) {
+  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  // }).catch(console.error);
+
+  // var spec9 = "js/bar_chart3.vg.json";
+  // vegaEmbed('#Chart', spec9).then(function(result) {
+  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  // }).catch(console.error);
+
+  function changeEntrySalaryValue(value) {
+    if (value == 'Min') {
+      vegaEmbed('#entrySalaryChart', spec10).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+    }
+    if (value == 'Max') {
+      vegaEmbed('#entrySalaryChart', spec11).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+    }
+    if (value == 'Average') {
+      vegaEmbed('#entrySalaryChart', spec12).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+    }
+}
+  var spec10 = "js/entrySalaryChartMin.vg.json";
+  var spec11 = "js/entrySalaryChartMax.vg.json";
+  var spec12 = "js/entrySalaryChartAverage.vg.json";
+
+  var e = document.getElementById("EntrySalaryValue");
+  var value = e.value;
+  var text = e.options[e.selectedIndex].text;
+  vegaEmbed('#entrySalaryChart', changeEntrySalaryValue(text)).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>

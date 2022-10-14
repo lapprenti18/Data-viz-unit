@@ -104,7 +104,6 @@ timestamp,company,level,title,totalyearlycompensation,location,yearsofexperience
 6/11/2019 15:41:34,IBM,7,Software Engineer,123000,San Jose, CA,2,2,IMS,121000,0,1000,Male,NA,7422,807,9671,0,0,0,0,0,0,0,0,0,0,NA,NA
 6/14/2019 19:19:34,IBM,Band 10,Human Resources,185000,Armonk, NY,10,10,HR,180000,0,5000,NA,NA,12932,501,9800,0,0,0,0,0,0,0,0,0,0,NA,NA
 6/15/2019 8:25:49,IBM,6,Software Engineer,85000,Raleigh, NC,1,1,API Development (Back-End),0,0,0,NA,NA,1317,560,9840,0,0,0,0,0,0,0,0,0,0,NA,NA
-6/15/2019 10:20:08,IBM,Sr Software Engineer Manager,Software Engineering Manager,158000,San Jose, CA,15,3,Distributed Systems (Back-End),155000,0,3000,Male,NA,7422,807,9882,0,0,0,0,0,0,0,0,0,0,NA,NA
 6/15/2019 16:15:28,IBM,Staff Engineer,Software Engineer,135000,Des Moines, IA,17,0.5,DevOps,0,0,0,NA,NA,8053,679,10006,0,0,0,0,0,0,0,0,0,0,NA,NA
 6/15/2019 18:51:22,IBM,8,Software Engineer,122000,Austin, TX,6,6,API Development (Back-End),0,0,0,Female,NA,10965,635,10068,0,0,0,0,0,0,0,0,0,0,NA,NA
 6/15/2019 19:59:56,IBM,Band 6,Software Engineer,124000,Poughkeepsie, NY,6,6,Firmware,0,0,0,NA,NA,10206,501,10093,0,0,0,0,0,0,0,0,0,0,NA,NA

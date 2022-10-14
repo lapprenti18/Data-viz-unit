@@ -1,21 +1,39 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "A simple donut chart with embedded data.",
-  "width": 1480,
-  "height": 620,
+  "width": 420,
+  "height": 420,
   "data": {
-    "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/Levels_Fyi_Salary_Data.csv"
+    "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/FAANG/TopTenFAANG.csv"
   },
 
-  "mark": { "type": "arc", "innerRadius": 200, "tooltip": true, "clip": true },
-  "transform": [
-  ],
+  "mark": { "type": "arc", "innerRadius": 125, "tooltip": true, "clip": true },
+  "transform": [],
   "encoding": {
-    "color": { "field": "company", "type": "nominal" },
+    "color": {
+      "field": "company",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Amazon", "Microsoft", "Google", "Facebook", "Apple", "Oracle", "Salesforce", "Intel", "Cisco", "IBM"],
+        "range": ["#FF9900", "#0000FF", "#351076", "#f89f98", "#000000", "#FF0000", "#37cdb6", "#e71cb6", "#7946f5", "#006699"]
+      }
+    },
     "theta": {
       "aggregate": "count",
-      "field": "new_count",
+      "field": "count",
       "type": "quantitative"
-    }
+    },
+    "tooltip": [
+      {
+        "field": "company",
+        "type": "nominal",
+        "title": "Company name"
+      },
+      {
+        "field": "__count",
+        "type": "nominal",
+        "title": "number of values"
+      }
+    ]
   }
 }
