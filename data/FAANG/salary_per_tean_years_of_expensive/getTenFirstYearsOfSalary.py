@@ -1,6 +1,7 @@
 # I want to get the salary of the first 10 years of experience of each company
 # I want the 10 values of the salary of each company with the average of for each year per company
 # in the FAANG companies and save it in different csv file
+# I also want to save everything in one file and add the name of the company
 
 import csv
 
@@ -25,4 +26,13 @@ for company in companies:
         writer.writerow(['year', 'salary'])
         for i in range(10):
             writer.writerow([i, round(data[i]['salary']/data[i]['count'])])
+    csvFile.close()
+
+    with open('firstTenYearsFAANG.csv', 'a') as csvFile:
+        writer = csv.writer(csvFile)
+        # I want to append to the file and there is already the header written
+        if (company == 'Amazon.csv'):
+            writer.writerow(['company', 'year', 'salary'])
+        for i in range(10):
+            writer.writerow([company[:-4], i, round(data[i]['salary']/data[i]['count'])])
     csvFile.close()
