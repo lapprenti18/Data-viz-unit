@@ -40,6 +40,8 @@
       <h6>
         Now I wanted to see wich job has the best salary entry and how many people a usualy doing it
       </h6>
+
+      <div id="test"></div>
     </div>
   </div>
 
@@ -140,7 +142,7 @@
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
       }).catch(console.error);
     }
-}
+  }
   var spec10 = "js/entrySalaryChartMin.vg.json";
   var spec11 = "js/entrySalaryChartMax.vg.json";
   var spec12 = "js/entrySalaryChartAverage.vg.json";
@@ -149,6 +151,11 @@
   var value = e.value;
   var text = e.options[e.selectedIndex].text;
   vegaEmbed('#entrySalaryChart', changeEntrySalaryValue(text)).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var spec14 = "js/test.vg.json";
+  vegaEmbed('#test', spec14).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>

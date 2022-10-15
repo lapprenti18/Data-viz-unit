@@ -1,0 +1,357 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/FAANG/salary_per_tean_years_of_expensive/firstTenYearsFAANG.csv"
+    },
+    "hconcat": [
+      {
+        "vconcat": [
+          {
+              "title": "Amazon",
+              "width": 400,
+              "height": 300,
+              "mark": {
+                  "type": "line",
+                  "point": {
+                    "filled": false,
+                    "fill": "white"
+                  }
+              },
+              "encoding": {
+                  "x": {
+                      "field": "year",
+                      "type": "ordinal",
+                      "title": "Year of employement",
+                      "axis": { "labelAngle": 0, "labels": true }
+                  },
+                  "y": {
+                      "field": "Amazon",
+                      "type": "quantitative",
+                      "title": "Average salary USD",
+                      "scale": {
+                          "domain":[0,500000]
+                      },
+                      "axis": {
+                          "titleAngle": 0,
+                          "titlePadding": 90
+                      }
+                  },
+                  "color": {"value": "#FF9900"},
+                  "tooltip": []
+              }
+          },
+          {
+              "title": "Google",
+              "width": 400,
+              "height": 300,
+              "mark": {
+                  "type": "line",
+                  "point": {
+                    "filled": false,
+                    "fill": "white"
+                  }
+              },
+              "encoding": {
+                  "x": {
+                      "field": "year",
+                      "type": "ordinal",
+                      "title": "Year of employement",
+                      "axis": { "labelAngle": 0, "labels": true }
+                  },
+                  "y": {
+                      "field": "Google",
+                      "type": "quantitative",
+                      "title": "Average salary USD",
+                      "scale": {
+                          "domain":[0,500000]
+                      },
+                      "axis": {
+                          "titleAngle": 0,
+                          "titlePadding": 90
+                      }
+                  },
+                  "color": {"value": "#351076"},
+                  "tooltip": []
+              }
+          },
+          {
+              "title": "Apple",
+              "width": 400,
+              "height": 300,
+              "mark": {
+                  "type": "line",
+                  "point": {
+                    "filled": false,
+                    "fill": "white"
+                  }
+              },
+              "encoding": {
+                  "x": {
+                      "field": "year",
+                      "type": "ordinal",
+                      "title": "Year of employement",
+                      "axis": { "labelAngle": 0, "labels": true }
+                  },
+                  "y": {
+                      "field": "Apple",
+                      "type": "quantitative",
+                      "title": "Average salary USD",
+                      "scale": {
+                          "domain":[0,500000]
+                      },
+                      "axis": {
+                          "titleAngle": 0,
+                          "titlePadding": 90
+                      }
+                  },
+                  "color": {"value": "#000000"},
+                  "tooltip": []
+              }
+          },
+          {
+              "title": "Facebook",
+              "width": 400,
+              "height": 300,
+              "mark": {
+                  "type": "line",
+                  "point": {
+                    "filled": false,
+                    "fill": "white"
+                  }
+              },
+              "encoding": {
+                  "x": {
+                      "field": "year",
+                      "type": "ordinal",
+                      "title": "Year of employement",
+                      "axis": { "labelAngle": 0, "labels": true }
+                  },
+                  "y": {
+                      "field": "Facebook",
+                      "type": "quantitative",
+                      "title": "Average salary USD",
+                      "scale": {
+                          "domain":[0,500000]
+                      },
+                      "axis": {
+                          "titleAngle": 0,
+                          "titlePadding": 90
+                      }
+                  },
+                  "color": {"value": "#f89f98"},
+                  "tooltip": []
+              }
+          },
+          {
+              "title": "Microsoft",
+              "width": 400,
+              "height": 300,
+              "mark": {
+                  "type": "line",
+                  "point": {
+                    "filled": false,
+                    "fill": "white"
+                  }
+              },
+              "encoding": {
+                  "x": {
+                      "field": "year",
+                      "type": "ordinal",
+                      "title": "Year of employement",
+                      "axis": { "labelAngle": 0, "labels": true }
+                  },
+                  "y": {
+                      "field": "Microsoft",
+                      "type": "quantitative",
+                      "title": "Average salary USD",
+                      "scale": {
+                          "domain":[0,500000]
+                      },
+                      "axis": {
+                          "titleAngle": 0,
+                          "titlePadding": 90
+                      }
+                  },
+                  "color": {"value": "#0000FF"},
+                  "tooltip": []
+              }
+          }
+        ]
+      },
+      {
+        "vconcat": [
+          {
+              "title": "Salesforce",
+              "width": 400,
+              "height": 300,
+              "mark": {
+                  "type": "line",
+                  "point": {
+                    "filled": false,
+                    "fill": "white"
+                  }
+              },
+              "encoding": {
+                  "x": {
+                      "field": "year",
+                      "type": "ordinal",
+                      "title": "Year of employement",
+                      "axis": { "labelAngle": 0, "labels": true }
+                  },
+                  "y": {
+                      "field": "Salesforce",
+                      "type": "quantitative",
+                      "title": false,
+                      "scale": {
+                          "domain":[0,500000]
+                      },
+                      "axis": {
+                          "titleAngle": 0,
+                          "titlePadding": 90
+                      }
+                  },
+                  "color": {"value": "#37cdb6"},
+                  "tooltip": []
+              }
+          },
+          {
+              "title": "Intel",
+              "width": 400,
+              "height": 300,
+              "mark": {
+                  "type": "line",
+                  "point": {
+                    "filled": false,
+                    "fill": "white"
+                  }
+              },
+              "encoding": {
+                  "x": {
+                      "field": "year",
+                      "type": "ordinal",
+                      "title": "Year of employement",
+                      "axis": { "labelAngle": 0, "labels": true }
+                  },
+                  "y": {
+                      "field": "Intel",
+                      "type": "quantitative",
+                      "title": false,
+                      "scale": {
+                          "domain":[0,500000]
+                      },
+                      "axis": {
+                          "titleAngle": 0,
+                          "titlePadding": 90
+                      }
+                  },
+                  "color": {"value": "#e71cb6"},
+                  "tooltip": []
+              }
+          },
+          {
+              "title": "IBM",
+              "width": 400,
+              "height": 300,
+              "mark": {
+                  "type": "line",
+                  "point": {
+                    "filled": false,
+                    "fill": "white"
+                  }
+              },
+              "encoding": {
+                  "x": {
+                      "field": "year",
+                      "type": "ordinal",
+                      "title": "Year of employement",
+                      "axis": { "labelAngle": 0, "labels": true }
+                  },
+                  "y": {
+                      "field": "IBM",
+                      "type": "quantitative",
+                      "title": false,
+                      "scale": {
+                          "domain":[0,500000]
+                      },
+                      "axis": {
+                          "titleAngle": 0,
+                          "titlePadding": 90
+                      }
+                  },
+                  "color": {"value": "#006699"},
+                  "tooltip": []
+              }
+          },
+          {
+              "title": "Cisco",
+              "width": 400,
+              "height": 300,
+              "mark": {
+                  "type": "line",
+                  "point": {
+                    "filled": false,
+                    "fill": "white"
+                  }
+              },
+              "encoding": {
+                  "x": {
+                      "field": "year",
+                      "type": "ordinal",
+                      "title": "Year of employement",
+                      "axis": { "labelAngle": 0, "labels": true }
+                  },
+                  "y": {
+                      "field": "Cisco",
+                      "type": "quantitative",
+                      "title": false,
+                      "scale": {
+                          "domain":[0,500000]
+                      },
+                      "axis": {
+                          "titleAngle": 0,
+                          "titlePadding": 90
+                      }
+                  },
+                  "color": {"value": "#7946f5"},
+                  "tooltip": []
+              }
+          },
+          {
+              "title": "Oracle",
+              "width": 400,
+              "height": 300,
+              "mark": {
+                  "type": "line",
+                  "point": {
+                    "filled": false,
+                    "fill": "white"
+                  }
+              },
+              "encoding": {
+                  "x": {
+                      "field": "year",
+                      "type": "ordinal",
+                      "title": "Year of employement",
+                      "axis": { "labelAngle": 0, "labels": true }
+                  },
+                  "y": {
+                      "field": "Oracle",
+                      "type": "quantitative",
+                      "title": false,
+                      "scale": {
+                          "domain":[0,500000]
+                      },
+                      "axis": {
+                          "titleAngle": 0,
+                          "titlePadding": 90
+                      }
+                  },
+                  "color": {"value": "#FF0000"},
+                  "tooltip": []
+              }
+          }
+        ]
+      }
+    ]
+}
