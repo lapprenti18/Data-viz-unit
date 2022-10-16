@@ -6,7 +6,13 @@
   "data": {
     "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/FAANG/TopTenFAANG.csv"
   },
-
+  "config": {
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    }
+  },
   "mark": { "type": "arc", "innerRadius": 125, "tooltip": true, "clip": true },
   "transform": [],
   "encoding": {

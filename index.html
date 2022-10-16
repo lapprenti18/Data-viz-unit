@@ -42,6 +42,7 @@
       </h6>
 
       <div id="test"></div>
+      <div id="mapOfLocation"></div>
     </div>
   </div>
 
@@ -156,6 +157,11 @@
 
   var spec14 = "js/test.vg.json";
   vegaEmbed('#test', spec14).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var spec15 = "js/map.vg.json";
+  vegaEmbed('#mapOfLocation', spec15).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>

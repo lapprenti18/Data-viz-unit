@@ -4,6 +4,58 @@
     "data": {
         "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/FAANG/salary_per_tean_years_of_expensive/firstTenYearsFAANG.csv"
     },
+    "vconcat": [ {
+    "data": {
+        "url": "https://raw.githubusercontent.com/lapprenti18/Data-viz-unit/main/data/FAANG/salary_per_tean_years_of_expensive/firstTenYearsFAANG1.csv"
+    },
+    "width": 800,
+    "height": 200,
+    "mark": {
+        "type": "line",
+        "point": {
+          "filled": true
+        }
+    },
+    "params": [
+      {
+        "name": "Title selected",
+        "select": {"type": "point", "fields": ["company"]},
+        "bind": "legend"
+      }
+    ],
+    "encoding": {
+    "x": {
+        "field": "year",
+        "type": "ordinal",
+        "title": "Year of experience",
+        "axis": { "labelAngle": 0, "labels": true }
+    },
+    "y": {
+        "field": "salary",
+        "type": "quantitative",
+        "title": "Average salary in USD",
+        "axis": {
+            "titleAngle": 0,
+            "titlePadding": 50
+        }
+    },
+    "color": {
+        "field": "company",
+        "scale": {
+            "range": ["#FF9900", "#000000", "#7946f5", "#f89f98", "#351076", "#006699", "#e71cb6", "#0000FF", "#FF0000", "#37cdb6"]
+          }
+    },
+    "tooltip": [
+        { "field": "company", "type": "nominal", "title": "Company"},
+        { "field": "salary", "type": "quantitative", "title": "Salary in USD"}
+    ],
+    "opacity": {
+      "condition": {"param": "Title selected", "value": 1},
+      "value": 0.2
+    }
+  }
+},
+    {
     "hconcat": [
       {
         "vconcat": [
@@ -22,13 +74,13 @@
                   "x": {
                       "field": "year",
                       "type": "ordinal",
-                      "title": "Year of employement",
+                      "title": null,
                       "axis": { "labelAngle": 0, "labels": true }
                   },
                   "y": {
                       "field": "Amazon",
                       "type": "quantitative",
-                      "title": "Average salary USD",
+                      "title": null,
                       "scale": {
                           "domain":[0,500000]
                       },
@@ -38,7 +90,10 @@
                       }
                   },
                   "color": {"value": "#FF9900"},
-                  "tooltip": []
+                  "tooltip": [
+                      {"field": "year", "type": "ordinal", "title": "year of experience"},
+                      {"field": "Amazon", "type": "quantitative", "title": "Average salary in USD"}
+                    ]
               }
           },
           {
@@ -56,13 +111,13 @@
                   "x": {
                       "field": "year",
                       "type": "ordinal",
-                      "title": "Year of employement",
+                      "title": null,
                       "axis": { "labelAngle": 0, "labels": true }
                   },
                   "y": {
                       "field": "Google",
                       "type": "quantitative",
-                      "title": "Average salary USD",
+                      "title": null,
                       "scale": {
                           "domain":[0,500000]
                       },
@@ -72,7 +127,10 @@
                       }
                   },
                   "color": {"value": "#351076"},
-                  "tooltip": []
+                  "tooltip": [
+                    { "field": "year", "type": "ordinal", "title": "year of experience"},
+                    { "field": "Google", "type": "quantitative", "title": "Average salary in USD"}
+                  ]
               }
           },
           {
@@ -90,13 +148,13 @@
                   "x": {
                       "field": "year",
                       "type": "ordinal",
-                      "title": "Year of employement",
+                      "title": null,
                       "axis": { "labelAngle": 0, "labels": true }
                   },
                   "y": {
                       "field": "Apple",
                       "type": "quantitative",
-                      "title": "Average salary USD",
+                      "title": null,
                       "scale": {
                           "domain":[0,500000]
                       },
@@ -106,7 +164,10 @@
                       }
                   },
                   "color": {"value": "#000000"},
-                  "tooltip": []
+                  "tooltip": [
+                    { "field": "year", "type": "ordinal", "title": "year of experience"},
+                    { "field": "Apple", "type": "quantitative", "title": "Average salary in USD"}
+                  ]
               }
           },
           {
@@ -124,13 +185,13 @@
                   "x": {
                       "field": "year",
                       "type": "ordinal",
-                      "title": "Year of employement",
+                      "title": null,
                       "axis": { "labelAngle": 0, "labels": true }
                   },
                   "y": {
                       "field": "Facebook",
                       "type": "quantitative",
-                      "title": "Average salary USD",
+                      "title": null,
                       "scale": {
                           "domain":[0,500000]
                       },
@@ -140,7 +201,10 @@
                       }
                   },
                   "color": {"value": "#f89f98"},
-                  "tooltip": []
+                  "tooltip": [
+                    { "field": "year", "type": "ordinal", "title": "year of experience"},
+                    { "field": "Facebook", "type": "quantitative", "title": "Average salary in USD"}
+                  ]
               }
           },
           {
@@ -158,13 +222,13 @@
                   "x": {
                       "field": "year",
                       "type": "ordinal",
-                      "title": "Year of employement",
+                      "title": null,
                       "axis": { "labelAngle": 0, "labels": true }
                   },
                   "y": {
                       "field": "Microsoft",
                       "type": "quantitative",
-                      "title": "Average salary USD",
+                      "title": null,
                       "scale": {
                           "domain":[0,500000]
                       },
@@ -174,7 +238,10 @@
                       }
                   },
                   "color": {"value": "#0000FF"},
-                  "tooltip": []
+                  "tooltip": [
+                    { "field": "year", "type": "ordinal", "title": "year of experience"},
+                    { "field": "Microsoft", "type": "quantitative", "title": "Average salary in USD"}
+                  ]
               }
           }
         ]
@@ -196,13 +263,13 @@
                   "x": {
                       "field": "year",
                       "type": "ordinal",
-                      "title": "Year of employement",
+                      "title": null,
                       "axis": { "labelAngle": 0, "labels": true }
                   },
                   "y": {
                       "field": "Salesforce",
                       "type": "quantitative",
-                      "title": false,
+                      "title": null,
                       "scale": {
                           "domain":[0,500000]
                       },
@@ -212,7 +279,10 @@
                       }
                   },
                   "color": {"value": "#37cdb6"},
-                  "tooltip": []
+                  "tooltip": [
+                    { "field": "year", "type": "ordinal", "title": "year of experience"},
+                    { "field": "Salesforce", "type": "quantitative", "title": "Average salary in USD"}
+                  ]
               }
           },
           {
@@ -230,13 +300,13 @@
                   "x": {
                       "field": "year",
                       "type": "ordinal",
-                      "title": "Year of employement",
+                      "title": null,
                       "axis": { "labelAngle": 0, "labels": true }
                   },
                   "y": {
                       "field": "Intel",
                       "type": "quantitative",
-                      "title": false,
+                      "title": null,
                       "scale": {
                           "domain":[0,500000]
                       },
@@ -246,7 +316,10 @@
                       }
                   },
                   "color": {"value": "#e71cb6"},
-                  "tooltip": []
+                  "tooltip": [
+                    { "field": "year", "type": "ordinal", "title": "year of experience"},
+                    { "field": "Intel", "type": "quantitative", "title": "Average salary in USD"}
+                  ]
               }
           },
           {
@@ -264,13 +337,13 @@
                   "x": {
                       "field": "year",
                       "type": "ordinal",
-                      "title": "Year of employement",
+                      "title": null,
                       "axis": { "labelAngle": 0, "labels": true }
                   },
                   "y": {
                       "field": "IBM",
                       "type": "quantitative",
-                      "title": false,
+                      "title": null,
                       "scale": {
                           "domain":[0,500000]
                       },
@@ -280,7 +353,10 @@
                       }
                   },
                   "color": {"value": "#006699"},
-                  "tooltip": []
+                  "tooltip": [
+                    { "field": "year", "type": "ordinal", "title": "year of experience"},
+                    { "field": "IBM", "type": "quantitative", "title": "Average salary in USD"}
+                  ]
               }
           },
           {
@@ -298,13 +374,13 @@
                   "x": {
                       "field": "year",
                       "type": "ordinal",
-                      "title": "Year of employement",
+                      "title": null,
                       "axis": { "labelAngle": 0, "labels": true }
                   },
                   "y": {
                       "field": "Cisco",
                       "type": "quantitative",
-                      "title": false,
+                      "title": null,
                       "scale": {
                           "domain":[0,500000]
                       },
@@ -314,7 +390,10 @@
                       }
                   },
                   "color": {"value": "#7946f5"},
-                  "tooltip": []
+                  "tooltip": [
+                    { "field": "year", "type": "ordinal", "title": "year of experience"},
+                    { "field": "Cisco", "type": "quantitative", "title": "Average salary in USD"}
+                  ]
               }
           },
           {
@@ -332,13 +411,13 @@
                   "x": {
                       "field": "year",
                       "type": "ordinal",
-                      "title": "Year of employement",
+                      "title": null,
                       "axis": { "labelAngle": 0, "labels": true }
                   },
                   "y": {
                       "field": "Oracle",
                       "type": "quantitative",
-                      "title": false,
+                      "title": null,
                       "scale": {
                           "domain":[0,500000]
                       },
@@ -348,10 +427,15 @@
                       }
                   },
                   "color": {"value": "#FF0000"},
-                  "tooltip": []
+                  "tooltip": [
+                    { "field": "year", "type": "ordinal", "title": "year of experience"},
+                    { "field": "Oracle", "type": "quantitative", "title": "Average salary in USD"}
+                  ]
               }
           }
         ]
       }
+    ]
+    }
     ]
 }
