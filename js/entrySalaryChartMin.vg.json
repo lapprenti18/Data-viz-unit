@@ -29,7 +29,10 @@
         "field": "Min",
         "type": "quantitative",
         "title": "smallest salary in USD",
-        "axis": { "titleAngle": 0, "titlePadding": 90 }
+        "axis": { "titleAngle": 0, "titlePadding": 90 },
+        "scale": {
+          "domain":[0,400000]
+        }
       },
       "color": {
         "field": "Title",
