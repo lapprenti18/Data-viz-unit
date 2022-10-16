@@ -5,7 +5,7 @@
 import csv
 
 # read Data_Science_Jobs_Salaries1.csv
-with open('Data-viz-unit/data/Data_Science_Jobs_Salaries1.csv', 'r') as f:
+with open('Data-viz-unit/data/FAANG/TopTenFAANG.csv', 'r') as f:
     reader = csv.reader(f)
     next(reader) # skip header
     data = list(reader)
@@ -14,7 +14,9 @@ with open('Data-viz-unit/data/Data_Science_Jobs_Salaries1.csv', 'r') as f:
 employment_type_salary = {}
 for row in data:
     employment_type = row[3]
-    salary = int(row[6])
+    salary = int(row[4])
+    if salary < 0:
+        continue
     if employment_type in employment_type_salary:
         employment_type_salary[employment_type].append(salary)
     else:
