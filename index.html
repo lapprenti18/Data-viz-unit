@@ -14,8 +14,9 @@
 <body>
   <div id="homePage">
     <h2 id="Title"> Where do you want to work ? </h2>
-    <div id="averageSalarySection">
-      <h6> hello everyone, <br>
+    <div>
+      <h3 id="Introduction"> Introduction. </h3>
+      <h6 id="IntroductionText"> hello everyone, <br>
         I'm a student in IT and I don't know wich company I want to join in the future or wich section I want to be.<br>
         If you have the same profile as me this website is for you. <br>
 
@@ -24,8 +25,9 @@
         I decided to use this dataset to help me.<br>
       </h6>
     </div>
-
-    <div id="donutCharAndText">
+    <div id="Dataset">
+      <h3 id="Introduction"> Dataset. </h3>
+      <div id="donutCharAndText">
       <h6> 
         <br>
         <br>
@@ -33,8 +35,8 @@
           To see if my data is accurate, I decided to show how much data I have for each company. <br>
           <br>
           Has we can see: <br>
-            - the one with the most data is <span id="Amazon">Amazon</span> with 8124 data <br>
-            - the one with the least data is <span id="IBM">IBM</span> with 906 data <br>
+          - the one with the most data is <span id="Amazon">Amazon</span> with 8124 data <br>
+          - the one with the least data is <span id="IBM">IBM</span> with 906 data <br>
           Each company will have their own color for the rest of the website. <br>
           <span id="Amazon">Amazon</span>
           <span id="Apple">Apple</span>
@@ -47,115 +49,81 @@
           <span id="Cisco">Cisco</span>
           <span id="Salesforce">Salesforce</span>
       </h6>
-
+      
       <div id="DonutChar"></div>
     </div>
+  </div>
 
     <div id="entrySalary">
-
-      <h6>
+      <h3 id="Introduction"> Entry salary. </h3>
+      <h6 id="entrySalaryText">
         Cool ! Now that we know wich company has the most data,<br>
         let's see wich job is starting with the best salary.<br>
-        there is a lot of job not everything in IT.
+        there is a lot of job not everything in IT.<br>
         I dicided to keep them to be able to compare them with the IT jobs<br>
         <br>
-        
+        &nbsp; you can select: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In IT average the TOP 3 is:<br><br>
+          &nbsp; &nbsp; - The average salary &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- <span id="IT1">Data Scientist</span><br>
+          &nbsp; &nbsp; - The minimum salary &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - <span id="IT2">Hardware Engineer</span><br>
+          &nbsp; &nbsp; - The maximum salary &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - <span id="IT3">Software Engineer</span><br>
+        <br>
       </h6>
-      <select name="EntrySalary" id="EntrySalaryValue" onchange="changeEntrySalaryValue(this.value)">
+      <select name="EntrySalary" id="EntrySalaryValueBtn" onchange="changeEntrySalaryValue(this.value)">
         <option value="Min" selected>Min</option>
         <option value="Average">Average</option>
         <option value="Max">Max</option>
       </select>
       <div id="entrySalaryChart"></div>
-      <h6>
-        Now I wanted to see wich job has the best salary entry and how many people a usualy doing it
+    </div>
+
+    <div id="TenYearSalary">
+      <h3 id="Introduction"> Ten first year salary.</h3>
+      <h6 id="TenYearSalaryText"> For now I'm more interested to become a Software Engineer, <br>
+           I want to know how much I can expect for the first ten years.<br>
+          <br>
+          You can compare every curve in the first line chart.<br>
+          or analyse them on the others line chart.<br>
+          <br>
+          For most of the company in ten your salary will increase around 100K.<br>
+          but there is some execption like <span id="Facebook">Facebook</span> and <span id="Google">Google</span> where you can expect 200K.<br>
+          or <span id="Intel"> Intel </span> who is less than the others.<br>
       </h6>
+      <div id="TenYearSalaryChart"></div>
     </div>
-      
-      <div id="test"></div>
+
+    <div id="WordMap">
+      <h3 id="Introduction"> Company location.</h3>
+      <h6 id="WordMapText"> If you are hype as I am the next question you want to ask me is.
+        "Where can I find those company ?" <br>
+        <br>
+        No worries,<br>
+        I decided to use a word map to show where they are globaly located. (you can select the company)<br>
+        Three other to zoom on the US, Europe and Oceania.<br>
+        <br>
+        has we can see most of the companies are located in Europe and the Usa.<br>
+        So If you want more opportunity you should move to one of those two continent.<br>
+      </h6>
       <div id="mapOfLocation"></div>
-  </div>
-
-
-  <!-- <div id="averageSalarySection">
-    <h2> Wich of those companies is paying the best </h2>
-    <div id="MultiChart"></div>
-  </div> -->
-
-  <!-- <div id="averageSalarySection">
-    <h2> TOP 10 FAANG in the dataset </h2>
-    <div id="Chart"></div>
-  </div> -->
-
-    <!-- <div id="Title">
-      <h1> How worth is it to work in Data Science around the world ? </h1>
     </div>
-    <div id="choropleth_map"></div>
-    
-    
-    <div id="averageSalarySection">
-      <h2> Average salary per type of employment </h2>
-      <div id="BarChart"></div>
-    </div>
-  
-    <div id="averageSalarySection">
-      <h2> Average salary per Experience level </h2>
-      <div id="TableChart"></div>
-    </div>
-  
-    <div id="averageSalarySection">
-      <h2> how many people are working on the same contry </h2>
-      <div id="parallelSet"></div>
-    </div>
-  
-    <div id="averageSalarySection">
-      <h2> Wich education is the best ? </h2>
-      <div id="BarChart2"></div>
-    </div> -->
-    
 
+    <div id="Conclusion">
+      <h3 id="Introduction"> Conclusion.</h3>
+      <h6 id="ConclusionText"> I hope you enjoyed this website.<br>
+        And help you for your choice.<br>
+        <br>
+        Personnaly I'm going to apply to <span id="Google">Google</span> and <span id="Apple">Apple</span> for the next 10 years.<br>
+        If you are by those company.
+        see you soon.<br>
+        <br>
+        <br>
+        Clerin Emeryck<br>
+    </div>
 
 <script type="text/javascript">
-
-  // var spec2 = "js/choropleth_map.vg.json";
-  // vegaEmbed('#choropleth_map', spec2).then(function(result) {
-  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  // }).catch(console.error);
-
-  // var spec3 = "js/bar_chart.vg.json";
-  // vegaEmbed('#BarChart', spec3).then(function(result) {
-  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  // }).catch(console.error);
-
-  // var spec4 = "js/table_chart.vg.json";
-  // vegaEmbed('#TableChart', spec4).then(function(result) {
-  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  // }).catch(console.error);
-
-  // var spec5 = "js/parallel_set.vg.json";
-  // vegaEmbed('#parallelSet', spec5).then(function(result) {
-  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  // }).catch(console.error);
-
   var spec6 = "js/donut_chart.vg.json";
   vegaEmbed('#DonutChar', spec6).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
-
-  // var spec7 = "js/bar_chart2.vg.json";
-  // vegaEmbed('#BarChart2', spec7).then(function(result) {
-  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  // }).catch(console.error);
-
-  // var spec8 = "js/multi_chart.vg.json";
-  // vegaEmbed('#MultiChart', spec8).then(function(result) {
-  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  // }).catch(console.error);
-
-  // var spec9 = "js/bar_chart3.vg.json";
-  // vegaEmbed('#Chart', spec9).then(function(result) {
-  //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  // }).catch(console.error);
 
   function changeEntrySalaryValue(value) {
     if (value == 'Min') {
@@ -178,15 +146,15 @@
   var spec11 = "js/entrySalaryChartMax.vg.json";
   var spec12 = "js/entrySalaryChartAverage.vg.json";
 
-  var e = document.getElementById("EntrySalaryValue");
+  var e = document.getElementById("EntrySalaryValueBtn");
   var value = e.value;
   var text = e.options[e.selectedIndex].text;
   vegaEmbed('#entrySalaryChart', changeEntrySalaryValue(text)).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
-  var spec14 = "js/test.vg.json";
-  vegaEmbed('#test', spec14).then(function(result) {
+  var spec14 = "js/TenYearSalaryChart.vg.json";
+  vegaEmbed('#TenYearSalaryChart', spec14).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 

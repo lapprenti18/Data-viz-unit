@@ -5,18 +5,30 @@
 	right: 100px;
 }
 #Title {
-  padding-top: 10vh;
+  padding-top: 20vh;
   font-size: 40px;
   font-weight: bold;
   text-align: center;
-  text-align: center;
-	font: 50px 'Copperplate', sans-serif;
+	font: 50px, sans-serif;
 }
-#averageSalarySection {
-  font-size: 20px;
+
+#Introduction {
+  padding-top: 5vh;
   font-weight: bold;
-  text-align: center;
+  text-align: left;
+  font: 35px, serif;
+  padding-left: 5vw;
 }
+
+#IntroductionText {
+  font-weight: bold;
+  text-align: left;
+  font: 25px 'Copperplate', serif;
+  padding-left: 7vw;
+  padding-bottom: 7vh;
+}
+
+
 #homePage {
   font-size: 30px;
   font-weight: bold;
@@ -24,12 +36,9 @@
   margin-right: 15vw;
   background-color: white;
 }
-#DonutContainer {
-  width: 90vw;
-  height: 400px;
-}
+
 body {
-  background-color: #f2f2f2;
+  background-image: url("./background.png");
 }
 
 #Amazon {
@@ -62,11 +71,77 @@ body {
 #IBM {
   color: #006699
 }
+#Dataset {
+  padding-left: 3vw;
+  border-top: 5px solid #000000;
+  border-bottom: 5px solid #000000;
+  padding-top: 3vh;
+  padding-bottom: 5vh;
+
+}
 
 #donutCharAndText {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin-left: 5vw;
-  margin-right: 5vw;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+#IT1 {
+  color: gold;
+}
+
+#IT2 {
+  color: silver;
+}
+
+#IT3 {
+  color: #cd7f32;
+}
+
+#entrySalaryText {
+  padding-left: 7vw;
+  margin-bottom: -5vh;
+}
+
+#EntrySalaryValueBtn {
+  margin-left: 30vw;
+}
+
+#entrySalary {
+  padding-left: 3vw;
+  border-bottom: 5px solid #000000;
+  padding-top: 3vh;
+  padding-bottom: 5vh;
+}
+
+#TenYearSalaryText {
+  padding-left: 7vw;
+}
+
+#TenYearSalary {
+  padding-left: 3vw;
+  border-bottom: 5px solid #000000;
+  padding-top: 3vh;
+  padding-bottom: 5vh;
+}
+   
+#WordMap {
+  padding-left: 3vw;
+  border-bottom: 5px solid #000000;
+  padding-top: 3vh;
+  padding-bottom: 5vh;
+}
+
+#mapOfLocation {
+ padding-left: 10vw; 
+}
+
+#WordMapText {
+  padding-left: 7vw;
+}
+
+#ConclusionText {
+  padding-left: 7vw;
 }
