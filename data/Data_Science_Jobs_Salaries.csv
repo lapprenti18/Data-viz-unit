@@ -191,7 +191,6 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,SE,FT,Research Scientist,50000,USD,50000,FR,100,US,S
 2021,MI,FT,Data Science Engineer,34000,EUR,40529,GR,100,GR,M
 2021,EX,FT,Principal Data Engineer,600000,USD,600000,US,100,US,L
-2021,MI,FT,Data Scientist,69600,BRL,13000,BR,0,BR,S
 2021,SE,FT,Data Engineer,165000,USD,165000,US,0,US,M
 2021,EN,FT,Big Data Engineer,435000,INR,5898,IN,0,CH,L
 2020,MI,FT,Data Scientist,37000,EUR,42197,FR,50,FR,S

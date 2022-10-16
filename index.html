@@ -13,23 +13,53 @@
 </head>
 <body>
   <div id="homePage">
-    <h2> TOP 10 FAANG in the dataset </h2>
+    <h2 id="Title"> Where do you want to work ? </h2>
     <div id="averageSalarySection">
-      <h6> hello, everyone I'm a student in IT and I don't in which company
-        I want to be in the future and in wich job I want to spécialise. <br/>
-        for my final exam I have to make a project about data visualization. <br/>
-        So I decided to make a project about the salary in datascience of the top 10 FAANG. <br/>
-        I will see if there is find a correlation between the salary and the company (and earn some money in the future).
+      <h6> hello everyone, <br>
+        I'm a student in IT and I don't know wich company I want to join in the future or wich section I want to be.<br>
+        If you have the same profile as me this website is for you. <br>
+
+        I have to do a project for my school and I decided to do a website that will help me to choose my future company.<br>
+        On <a href="https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries">kaggle.com</a> I found a dataset with the salary of the employees of the FAANG companies.<br>
+        I decided to use this dataset to help me.<br>
+      </h6>
+    </div>
+
+    <div id="donutCharAndText">
+      <h6> 
+        <br>
+        <br>
+        First of all, I had more than 1600 company so I extracted the top ten. <br>
+          To see if my data is accurate, I decided to show how much data I have for each company. <br>
+          <br>
+          Has we can see: <br>
+            - the one with the most data is <span id="Amazon">Amazon</span> with 8124 data <br>
+            - the one with the least data is <span id="IBM">IBM</span> with 906 data <br>
+          Each company will have their own color for the rest of the website. <br>
+          <span id="Amazon">Amazon</span>
+          <span id="Apple">Apple</span>
+          <span id="Facebook">Facebook</span>
+          <span id="Google">Google</span>
+          <span id="IBM">IBM</span>
+          <span id="Intel">Intel</span>
+          <span id="Microsoft">Microsoft</span>
+          <span id="Oracle">Oracle</span>
+          <span id="Cisco">Cisco</span>
+          <span id="Salesforce">Salesforce</span>
       </h6>
 
-      <h6> So I found a data set on kaggle, who's talking about the salaries in the FAANG, <br/>
-        I extracted the top ten company, based on how much line I have about them. <br/>
-        And you can see the top 10 FAANG in donnut chart.  <br/>
-
       <div id="DonutChar"></div>
+    </div>
+
+    <div id="entrySalary">
 
       <h6>
-        Now I wanted to see wich job has the best salary entry and how many people a usualy doing it
+        Cool ! Now that we know wich company has the most data,<br>
+        let's see wich job is starting with the best salary.<br>
+        there is a lot of job not everything in IT.
+        I dicided to keep them to be able to compare them with the IT jobs<br>
+        <br>
+        
       </h6>
       <select name="EntrySalary" id="EntrySalaryValue" onchange="changeEntrySalaryValue(this.value)">
         <option value="Min" selected>Min</option>
@@ -40,10 +70,10 @@
       <h6>
         Now I wanted to see wich job has the best salary entry and how many people a usualy doing it
       </h6>
-
+    </div>
+      
       <div id="test"></div>
       <div id="mapOfLocation"></div>
-    </div>
   </div>
 
 
@@ -160,8 +190,8 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
-  var spec15 = "js/map.vg.json";
-  vegaEmbed('#mapOfLocation', spec15).then(function(result) {
+  var spec16 = "js/multimap.vg.json";
+  vegaEmbed('#mapOfLocation', spec16).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>

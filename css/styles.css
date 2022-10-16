@@ -3,13 +3,14 @@
 	bottom: 100px; 
 	left: 100px;
 	right: 100px;
-	/*height: 1000px;
-	width: 800px;*/
 }
 #Title {
-  font-size: 20px;
+  padding-top: 10vh;
+  font-size: 40px;
   font-weight: bold;
   text-align: center;
+  text-align: center;
+	font: 50px 'Copperplate', sans-serif;
 }
 #averageSalarySection {
   font-size: 20px;
@@ -17,9 +18,8 @@
   text-align: center;
 }
 #homePage {
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;
-  text-align: center;
   margin-left: 15vw;
   margin-right: 15vw;
   background-color: white;
@@ -30,4 +30,43 @@
 }
 body {
   background-color: #f2f2f2;
+}
+
+#Amazon {
+  color: #FF9900
+}
+#Microsoft {
+  color: #0000FF
+}
+#Google {
+  color: #351076
+}
+#Facebook {
+  color: #f89f98
+}
+#Apple {
+  color: #000000
+}
+#Oracle {
+  color: #FF0000
+}
+#Salesforce {
+  color: #37cdb6
+}
+#Intel {
+  color: #e71cb6
+}
+#Cisco {
+  color: #7946f5
+}
+#IBM {
+  color: #006699
+}
+
+#donutCharAndText {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 5vw;
+  margin-right: 5vw;
 }
